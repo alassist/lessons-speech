@@ -1,0 +1,87 @@
+How do you move by letter, or character?{
+~Up and down arrow
+~number pad keys
+=left and right arrows
+~Control + left and right arrow keys}
+
+How do you move by line?{
+=Up and down arrow
+~number pad keys
+~left and right arrows
+~Control + left and right arrow keys}
+
+How do you move by word?{
+~Up and down arrow
+~number pad keys
+~left and right arrows
+=Control + left and right arrow keys}
+
+How do you move to the beginning of the line?{
+=Home
+~End
+~Page up
+~Page Down}
+
+How do you move to the end of the line?{
+~Home
+=End
+~Page up
+~Page Down}
+
+How do you move to the beginning of the document?{
+=Home
+~End
+~Control + Home
+~Control + End}
+
+How do you move to the end of the document?{
+~Home
+~End
+~Control + Home
+=Control + End}
+
+What is the cursor for?{
+~Using the computer
+~A screen reader function
+~Using the mouse pointer
+=Navigating text fields}
+
+The cursor is similar to_____{
+~A mouse pointer
+~A text editor
+~A slate and stylus
+=A Perkins Brailler}
+
+To select text, which key do you add to navigation commands?{
+~Insert
+=Shift
+~Alt
+~Control}
+
+What key command undoes edits?{
+~Alt + Slash
+~Control + X, then U
+=Control + Z
+~Control + Shift + Z}
+
+How do you cut text to the clipboard?{
+~Alt + X
+~Control + W
+~Shift + X
+=Control + X}
+
+How do you copy text to the clipboard?{
+~Control + Shift + C
+~Control + Alt + C
+~Shift + C
+=Control + C}
+
+How do you paste text from the clipboard?{
+=Control + V
+~Control + Shift + V
+~Control + C
+~Control + Alt + V}
+
+Once you paste text from the clipboard, it is no longer in the
+clipboard, so you can not paste it again.{F}
+
