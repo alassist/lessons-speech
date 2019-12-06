@@ -38,6 +38,6 @@ To go back one screen, press **Windows + Backspace**. This is the
 like Microsoft Edge.
 
 To practice, find the “System” settings category, then the “sound”
-section, and go back to the list of categories.
+section, then go back to the list of categories.
 
 To exit Settings, as in every other Windows program, press **Alt + F4**.

@@ -16,13 +16,12 @@ Using the Task Bar {#using-the-task-bar}
 ----------------------------------------
 
 To access the Taskbar, press **Windows + T**. You’ll be placed on the
-first program in the taskbar. Use the **Left** and **Right** arrow keys
-to navigate between all the programs on the taskbar, and press **Enter**
-to open one.
-
-To make things easier, you may also use **Windows + 1** through
-**Windows + 9** to open the program on that position of the Taskbar.
-This makes opening programs very quick and easy.
+first program in the taskbar. Use the **Left** and **Right** arrow
+keys to navigate between all the programs on the taskbar, and press
+**Enter** to open one. To make things easier, you may also use
+**Windows + 1** through **Windows + 9** to open the program on that
+position of the Taskbar. This makes opening programs very quick and
+easy.
 
 Quickly switching Windows
 -------------------------
@@ -36,7 +35,7 @@ Pin a program to the taskbar {#pin-a-program-to-the-taskbar}
 ------------------------------------------------------------
 
 After using the Taskbar for a while, you may want to add programs to it.
-To do this, follow the steps below:
+To do this, follow the steps belowlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll:
 
 -   Open the start Menu, by pressing the **Windows** key.
 -   Type the name of the program, until it is in focus.
