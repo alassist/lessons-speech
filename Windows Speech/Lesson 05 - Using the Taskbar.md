@@ -35,7 +35,7 @@ Pin a program to the taskbar {#pin-a-program-to-the-taskbar}
 ------------------------------------------------------------
 
 After using the Taskbar for a while, you may want to add programs to it.
-To do this, follow the steps belowlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll:
+To do this, follow the steps below:
 
 -   Open the start Menu, by pressing the **Windows** key.
 -   Type the name of the program, until it is in focus.
