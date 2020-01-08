@@ -11,8 +11,10 @@ number is subsequent to the current lesson, and press *enter*. If you
 have read passed that point, press *Shift + Tab* to move backward
 through the items on the page.
 
-After the next lesson loads, press “h” to move by headings, then use
-*Insert + Down Arrow* to begin reading the next lesson.
+After the next lesson loads, press “h” to move by headings until you
+find the beginning of the lesson, then use *Insert + Down Arrow*, hold
+Insert and press Down Arrow then release both keys, to begin reading
+the next lesson.
 
 ** About NVDA
 NVDA, [[https://www.nvaccess.org][NonVisual Desktop Access]], is a [[https://en.wikipedia.org/wiki/Screen_reader][Screen reader]] for the Windows
@@ -39,52 +41,3 @@ open, telling you about some keyboard commands, and giving you options
 on keyboard layouts. If you are using NVDA on a workstation at
 Gentry’s Assistive Technology program, NVDA is already installed, and the welcome dialog box will not
 open when you start NVDA.
-** Basic Navigation
-To navigate Windows, you will use a few navigational commands. These
-commands are not screen reader commands, but are Windows concepts
-which enable a blind person to use a computer, no matter which screen
-reader they use. More in-depth Windows concepts are given in the
-/Windows Basics with Speech/ course, but the basics will be given
-here.
-*** The Tab key
-The *Tab* key, located one key above the Left Shift key, moves between
-objects on the screen. For example, on a web page, it moves between
-any non-text item on the page, including links, forms, buttons, text
-entry boxes, the address bar, and so on. In programs, it moves between
-any non-text controls in the program. We’ll focus on reading text in
-programs later on, and in a web browser in the /Internet with Speech/
-course.
-*** Arrow keys
-The *Arrow keys* navigate text. The Up and Down arrow keys navigate up
-and down one line. The Left and Right arrow keys navigate left and
-right one letter, or character, which includes letters, numbers,
-symbols, and spaces. Combined with modifier keys, which will be
-covered later, they move by different amounts, or select text, or
-both.
-*** Modifier keys
-The *Modifier Keys* are keys that do not generally act when pressed,
-but act when pressed with another key. To use a modifier to modify
-another key, hold down the modifier key, press the key to be modified,
-and release both keys. Do not hold down the modified key. The modifier
-keys are:
-
-- Shift :: Capitalizes a letter, or performs different actions when
-           used with non-character keys, like Tab.
-- Alt :: To the left and right of the space bar, used to open a
-         program’s menu, or perform commands within that menu system.
-- Windows :: To the left of the left alt key, opens the start menu is
-             pressed, if it modifies a key that makes a key command,
-             does system actions, like bringing up the menu to run
-             commands and shut down the computer.
-- Control :: To the left of the Windows key on most keyboards, to the
-             right of the context key, does program and text commands,
-             like moving by words and paragraphs, selecting all text,
-             playing media, and many other functions.
-- Insert :: NVDA’s modifier key. Press it with another key to execute
-            NVDA commands. the Insert key can be combined with the
-            control key to do even more commands.
-
-On laptop keyboard layouts, the modifier key is the capslock key, for
-NVDA’s usage. If your laptop has a number pad, it may be easier to use
-NVDA in desktop layout, as you have a full desktop keyboard.
-
