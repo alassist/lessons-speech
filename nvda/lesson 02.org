@@ -58,6 +58,33 @@ all keys. This is how keys are modified. If the course says to press
 *INSERT + N*, it means that you should hold down either the Insert or
 Capslock key, press N, then release both keys.
 
+** Help with the keyboard
+With NVDA, you can learn where keys are on the keyboard using
+/Keyboard Help Mode/. This mode allows you to press keys, just about
+any key, and hear its name or function. It also allows you to press
+NVDA commands to hear their function as well. This mode can be helpful
+if you get a new computer or keyboard of which you do not know the
+layout. It can also be helpful to try out commands, and to practice
+doing them. Note that if your keyboard has keys to put the computer
+into sleep mode or hibernation, or to shut the computer down, NVDA
+cannot intercept them, will not speak them, and they will perform
+their assigned task, so be careful with any keys on the top row
+of the keyboard.
+
+To use Input help mode, press *Insert + 1*. This is a toggle key,
+which means that the key turns a function on and off. So, if you press
+it when it is off, Input Help mode turns on. If you press the key
+command when it is on, the mode is turned off.
+*** Activity
+Complete the following actions:
+
+- Turn on Input Help mode.
+- Press the letter “S”.
+- Press the “Space” key.
+- Press the *Tab* key.
+- Press *Insert + F12*.
+- Turn off Keyboard Help mode.
+
 ** What time is it?
 For your first NVDA command, you’ll learn to have your computer tell
 the current time. This is useful for knowing how much time you have in
@@ -99,17 +126,4 @@ Complete the following actions:
 
 Notice that when NVDA begins reading again, it begins at the place
 where it was stopped, not where it originally began reading.
-
-** Help with the keyboard
-With NVDA, you can learn where keys are on the keyboard using
-/Keyboard Help Mode/. This mode allows you to press keys, just about
-any key, and hear its name or function. It also allows you to press
-NVDA commands to hear their function as well. This mode can be helpful
-if you get a new computer or keyboard of which you do not know the
-layout. It can also be helpful to try out commands, and to practice
-doing them. Note that if your keyboard has keys to put the computer
-into sleep mode or hibernation, or to shut the computer down, NVDA
-cannot intercept them, will not speak them, and they will perform
-their assigned task, so be careful with any keys on the very top row
-of the keyboard.
 

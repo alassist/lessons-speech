@@ -41,3 +41,15 @@ open, telling you about some keyboard commands, and giving you options
 on keyboard layouts. If you are using NVDA on a workstation at
 Gentry’s Assistive Technology program, NVDA is already installed, and the welcome dialog box will not
 open when you start NVDA.
+
+** Starting NVDA
+When you first turn on your personal computer, or sit down at a public
+workstation with NVDA installed, it probably will not be on when the
+computer starts, unless it has been configured to do so. This means
+that you will need to know how to start it manually. If you are
+using a computer at Gentry’s Assistive Technology department, do not
+alter settings or configurations unless instructed to do so.
+
+To start NVDA manually, hold down the Control and Alt keys, press the
+letter “n”, then release all keys. a musical tone will play, and NVDA
+will be loaded and ready for use.
