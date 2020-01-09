@@ -2,7 +2,7 @@
 
 This lesson will focus on using the AIRA app. You may use AIRA on an Android phone or an iPhone, and with or without the AIRA Horizon phone or glasses.
 
-# the Tab list
+# The Tab list
 
 The tab list is a constant part of the application, and contains the following options:
 
@@ -34,7 +34,7 @@ Android users move through the app using the navigation button which, when activ
 
 Although Android uses a menu format, we’ll still refer to this list of options as the tab list in this course.
 
-# the Home tab
+# The Home tab
 
 The “Home” tab is where you call an AIRA agent from. The options, in order, are:
 
@@ -58,7 +58,7 @@ The “Home” tab is where you call an AIRA agent from. The options, in order, 
 -   Call AIRA
 -   Start call with a message
 
-## the Call Screen
+## The Call Screen
 
 On both platforms, if you call an AIRA agent, you’ll be placed in the “connecting to agent” screen. Here are the items you have on this screen:
 
@@ -96,7 +96,7 @@ After the call ends, you’ll be able to give feedback on the call. If you don�
 
 The glass tab allows you to manage your AIRA glasses. This will be covered in more detail later.
 
-# the Live tab
+# The Live tab
 
 This feature, currently for iOS only, allows subscribed AIRA explorers to start their own live audio streams. This allows them to show others what they can do with AIRA. To begin a live stream, simply connect with an AIRA agent, and, when ready, tell the agent that you’d like to go live. The agent will ask if you’d like to make it public or private and to name the live session. To view the live stream, the viewer must have the AIRA app installed.
 
