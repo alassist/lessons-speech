@@ -16,7 +16,7 @@ The tab list is a constant part of the application, and contains the following o
 
 If you are in a tab, VoiceOver will announce it as “selected.” A common phrase you will hear is: “Selected, Home, Tab. One of five.” This means that you are currently in the “Home” part of the app and that there are five parts or tabs. To go to a different part of the app, simply find a different tab and double tap on it.
 
-## for Android
+## For Android
 
 Android users move through the app using the navigation button which, when activated, opens up a menu with the following options:
 
