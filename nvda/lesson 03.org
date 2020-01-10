@@ -34,7 +34,7 @@ Do you want to save this file?
 No button
 #+end_center
 
-then the OK button is in focus.
+then the “No” button is in focus.
 
 * NVDA navigation aids
 There are a few commands to help users figure out where they are in
