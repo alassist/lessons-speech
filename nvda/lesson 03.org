@@ -63,51 +63,51 @@ essential information about the items which the screen reader is
 focusing on. Below is a list of terms that you’ll hear when using
 NVDA, and their definitions.
 
-- Block quote :: A long quote which takes multiple lines
+- Block quote :: A long quote which takes multiple lines.
 - button :: A round item with a label which can be clicked, or
-            activated with Space or Enter
-- drop down button :: a button which opens a menu
+            activated with Space or Enter.
+- drop down button :: a button which opens a menu.
 - spin button :: a numeric entry field which can be typed into, but
-                 also increased or decreased using the arrow keys
+                 also increased or decreased using the arrow keys.
 - split button :: a button which can be activated with the Enter key,
                   but has alternative actions which can be accessed
-                  using the Space bar
-- toggle button :: a button which toggles a setting on or off
+                  using the Space bar.
+- toggle button :: a button which toggles a setting on or off.
 - Combo box :: a closed box, which can be opened to reveal a list of
                items. Open with Alt + Down arrow, choose an item with
                the arrow keys, and close with Alt + Up arrow.
-- Check box :: A box which can be checked or unchecked
+- Check box :: A box which can be checked or unchecked.
 - Dialog :: a window in a program which appears with text in the
             center, and buttons to answer the text with, for example
-            yes, no, or OK
+            yes, no, or OK.
 - document :: A place where text is written and edited. Using tab only
               indents text, so use F6 to move to another part of the
               program.
-- Edit :: A box for text entry that is one line only
+- Edit :: A box for text entry that is one line only.
 - Password edit :: an edit field where text typed into the field will
                    not be spoken, only “star”.
 - embedded object :: An object on a website that is a web application
      embedded into the site (usually an Adobe flash program, not used
-     often)
-- graphic :: an image
+     often).
+- graphic :: an image.
 - heading :: a headline, which can be in range 1 to 6, 1 being most
-             important, 6 being least important
+             important, 6 being least important.
 - landmark :: A navigational device on a website which allows one to
-              find important parts of it
+              find important parts of it.
 - link :: A hyperlink to a different part of a web page, to a
           different website, or in a program, opens an Internet page
-          for showing further information
-- Menu bar :: a bar of menus across the top of a program
-- menu button :: a button which opens a menu
+          for showing further information.
+- Menu bar :: a bar of menus across the top of a program.
+- menu button :: a button which opens a menu.
 - radio button :: a button, in a list of buttons, of which only one
-                  can be chosen
+                  can be chosen.
 - status bar :: a bar at the bottom of a program which gives
-                statistics, like a word count or number of errors
+                statistics, like a word count or number of errors.
 - tab control :: a list of tabs which change the “page” of the program
-                 you’re in
+                 you’re in.
 - tree view :: a list with items which can be expanded to show other
-               items, or collapsed to hide them
-- window :: a program’s frame on the screen
-- separator :: a horizontal line
-- Menu :: used to select an item from a list
-- submenu :: a menu, accessed with right arrow, inside of a menu
+               items, or collapsed to hide them.
+- window :: a program’s frame on the screen.
+- separator :: a horizontal line.
+- Menu :: used to select an item from a list.
+- submenu :: a menu, accessed with right arrow, inside of a menu.
