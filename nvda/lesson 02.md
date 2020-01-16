@@ -10,7 +10,7 @@ but the beginnings will be given here.
 The Tab key
 -----------
 
-The **Tab** key, located one key above the Left Shift key, moves between
+The **Tab** key, located one key above the Caps Lock key, moves between
 objects on the screen. For example, on a web page, it moves between any
 non-text item on the page, including links, forms, buttons, text entry
 boxes, the address bar, and so on. In programs, it moves between any
@@ -36,31 +36,23 @@ another key, hold down the modifier key, press the key to be modified,
 and release both keys. Do not hold down the modified key. The modifier
 keys are:
 
-Shift
-:   Capitalizes a letter, or performs different actions when used with
-    non-character keys, like Tab.
-
-Alt
-:   To the left and right of the space bar, used to open a program's
-    menu, or perform commands within that menu system.
-
-Windows
-:   To the left of the left alt key, opens the start menu if pressed, if
-    it modifies a key that makes a key command, it does system actions,
-    like bringing up the menu to run commands and shut down the
-    computer.
-
-Control
-:   To the left of the Windows key on most keyboards, to the right of
-    the context key, does program and text commands, like moving by
-    words and paragraphs, selecting all text, playing media, and many
-    other functions.
-
-Screen reader modifier
-:   NVDA's modifier key. Press it with another key to execute NVDA
-    commands. the Insert key can be combined with the control key to do
-    even more commands. Hereafter, it will be called the NVDA key, or
-    the Insert key, in other courses.
+- Shift: Capitalizes a letter, or performs different actions when used
+    with non-character keys, like Tab.
+- Alt: To the left and right of the space bar, used to open a
+    program's menu, or perform commands within that menu system.
+- Windows: To the left of the left alt key, opens the start menu if
+    pressed, if it modifies a key that makes a key command, it does
+    system actions, like bringing up the menu to run commands and shut
+    down the computer.
+- Control: To the left of the Windows key on most keyboards, to the
+    right of the context key, does program and text commands, like
+    moving by words and paragraphs, selecting all text, playing media,
+    and many other functions.
+- Screen reader modifier: NVDA's modifier key. Press it with
+    another key to execute NVDA commands. the Insert key can be
+    combined with the control key to do even more commands. Hereafter,
+    it will be called the NVDA key, or the Insert key, in other
+    courses.
 
 On laptop keyboard layouts, the screen reader modifier key is the
 capslock key, for NVDA's usage. If your laptop has a number pad, it may
@@ -73,11 +65,11 @@ Writing Modifiers
 Modifier keys are used to modify the functions of other keys. To show
 that a key modifies another, this course, and many others, shows it by
 linking the two keys with the plus sign, and bolding the entire key
-press. For example, when the course says to press **Control + Alt + N**,
-it means to hold down the Control and Alt keys, press N, then release
-all keys. This is how keys are modified. If the course says to press
-**INSERT + N**, it means that you should hold down either the Insert or
-Capslock key, press N, then release both keys.
+press. For example, when the course says to press **Control + Alt +
+N**, it means to hold down the Control and Alt keys, press N, then
+release all keys. This is how keys are modified. If the course says to
+press **INSERT + N**, it means that you should hold down either the
+Insert or Capslock key, press N, then release both keys.
 
 Help with the keyboard
 ======================
@@ -107,7 +99,7 @@ Complete the following actions:
 -   Press the letter "S".
 -   Press the "Space" key.
 -   Press the **Tab** key.
--   Press **Insert + F12**.
+-   Press **Insert + Down Arrow**.
 -   Turn off Keyboard Help mode.
 
 What time is it?
@@ -133,6 +125,10 @@ Complete the following actions:
 
 -   Check the time using NVDA's key command.
 -   Check the date using NVDA's key command.
+-   Turn on keyboard help mode
+-   Check the time while in Keyboard Help mode
+-   Check the date while in Keyboard Help mode
+-   Turn off Keyboard help mode
 
 Stopping and pausing speech
 ===========================
@@ -163,6 +159,10 @@ Complete the following actions:
 -   Press **Shift** to pause speech, then **Shift** again to resume it.
 -   Press **Control** to stop speech, then **INSERT + Down Arrow** to
     begin reading again.
+-   Turn on Keyboard Help mode
+-   Press Control
+-   Press Shift
+-   Turn off Keyboard Help mode
 
 Notice that when NVDA begins reading again, it begins at the place where
 it was stopped, not where it originally began reading.
