@@ -1,4 +1,4 @@
-Navigating the computer
+Navigating the computer Using Focus
 =======================
 
 Using a computer with a screen reader will be hard at first. You cannot
@@ -10,11 +10,12 @@ to navigate the Windows environment.
 
 To navigate the Windows interface, you'll use a few keys and commands.
 
--   Arrow keys move around text
--   The Tab key moves between buttons and other controls
+-   Arrow keys move around text and some controls.
+-   The Tab key moves between buttons and other controls.
 -   The F6 key moves between separate parts of a program, like parts of
     a text editor.
--   Escape closes menus and dialog boxes
+-   Escape closes menus and dialog boxes.
+-   Control + Tab navigates an interface with tabs.
 
 Find out more regarding Windows controls in the *Windows basics with
 Speech* course.
@@ -44,25 +45,28 @@ NVDA navigation aids
 There are a few commands to help users figure out where they are in the
 Windows environment if you get lost:
 
-- Insert + T: Read the title bar of the current program
 - Insert + Tab: Read the currently focused control
 - Insert + B: Read the entire window that is currently focused
+- Insert + T: Read the title of the current window
 
 Activity
 --------
 
 Now, let's practice dealing with focus. Please complete the following:
 
--   Press the **Windows** key to open the start menu
--   Type "notepad" without the quotes
--   Press **Enter** to open the program
--   Notice what NVDA says when the program opens
+-   Press the **Windows** key to open the start menu.
+-   Type "notepad" without the quotes.
+-   Press **Enter** to open the program.
+-   Notice what NVDA says when the program opens.
+-   Turn on Keyboard Help mode.
+-   Press **Insert + T** to hear what the command does.
+-   Turn off Keyboard Help mode.
 -   Press **Insert + t** to hear the title of the program. NVDA will say
     "Untitled - Notepad". This means that the program Notepad is open,
     showing the file called "untitled."
--   Press **Insert + Tab** to hear the currently focused item
--   Press **Insert + B** to hear all items in the window
--   Press **Alt + F4** to close the program
+-   Press **Insert + Tab** to hear the currently focused item.
+-   Press **Insert + B** to hear all items in the window.
+-   Press **Alt + F4** to close the program.
 
 Screen reader Jargon
 ====================
