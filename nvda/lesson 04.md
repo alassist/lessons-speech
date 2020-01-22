@@ -34,6 +34,8 @@ Please complete the following steps to read a line:
 - Press **Insert + Up arrow**, which will read that line, without you
   needing to arrow to it. This may be used to help you remember what
   to write next.
+- Practice these steps until you feel comfortable with them, then
+  continue to the next section.
 
 Reading all of the document
 ===========================
@@ -58,4 +60,7 @@ Please complete the following steps to read a document:
 - Press **Insert + Down Arrow** to hear what the command does
 - Turn off Keyboard Help mode
 - Press **Insert + Down Arrow** to read your document
+- Close Notepad, choosing to not save the document.
+- Complete these steps until you feel comfortable with them, then move
+  on to the next lesson.
 

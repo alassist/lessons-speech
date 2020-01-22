@@ -67,6 +67,8 @@ Now, let's practice dealing with focus. Please complete the following:
 -   Press **Insert + Tab** to hear the currently focused item.
 -   Press **Insert + B** to hear all items in the window.
 -   Press **Alt + F4** to close the program.
+-   Practice these steps until you feel comfortable with them, then
+    move on to the next section.
 
 Screen reader Jargon
 ====================

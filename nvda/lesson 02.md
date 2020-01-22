@@ -101,6 +101,9 @@ Complete the following actions:
 -   Press the **Tab** key.
 -   Press **Insert + Down Arrow**.
 -   Turn off Keyboard Help mode.
+-   Repeat these steps until you are comfortable with them, then
+    continue to the next section by pressing **Down Arrow** until you
+    hear "Heading level 1, what time is it?"
 
 What time is it?
 ================
@@ -129,6 +132,8 @@ Complete the following actions:
 -   Check the time while in Keyboard Help mode
 -   Check the date while in Keyboard Help mode
 -   Turn off Keyboard help mode
+-   Repeat these steps until you feel comfortable with them, then move
+    on to the next section: "Stopping and Pausing Speech."
 
 Stopping and pausing speech
 ===========================
@@ -163,6 +168,8 @@ Complete the following actions:
 -   Press Control
 -   Press Shift
 -   Turn off Keyboard Help mode
+-   Repeat these steps until you feel comfortable with them, then move
+    on to Lesson 03.
 
 Notice that when NVDA begins reading again, it begins at the place where
 it was stopped, not where it originally began reading.
