@@ -97,3 +97,39 @@ Please perform the following steps to quickly navigate to an object:
   again by searching for text in this sentence.
 - Press "K" to move to the next link.
 
+Listing objects
+===============
+
+There may be times where you don’t need to find text on a page, and do
+not know how to spell something, but know what type of object it is.
+You can do this by listing objects. This allows you to press a letter,
+which will navigate you to objects beginning with that letter, where
+you can then Down Arrow through them to find what you’re looking for.
+
+On the web, everything is an element. Paragraphs are elements, lists
+are elements, both ordered lists and unordered ones, with list items
+inside of them. This is why the dialog used to find items is called
+the "elements list."
+
+Activity
+--------
+
+Please complete the following steps to use the Elements List:
+
+- Press **Insert + F7**. The Elements List will open.
+- Use the **Down Arrow** and **Up Arrow** to move through the list of
+  links.
+- Use **Tab** and **Shift + Tab** to move through controls in this
+  dialog box. Press **Escape**, and read through the next paragraph,
+  then follow the instructions that follow.
+  
+  You’ll find an edit box to filter the items in the elements list, an
+  "OK" button, a "Cancel" button, and a radio button group to change
+  the elements of the list, such as links, headings, and other
+  elements.
+
+- Change the list of elements to "Headings", and tab back to the list,
+  making sure that headings are shown. When you find the "Activity"
+  heading associated with this section of the lesson, press **Enter**
+  to move to it. Practice this a few times, experimenting if you wish,
+  for a short time, then continue to the next lesson.
