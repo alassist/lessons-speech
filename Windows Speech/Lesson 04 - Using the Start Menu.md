@@ -1,4 +1,4 @@
-The Start Menu {#the-start-menu}
+Lesson 4: The Start Menu
 --------------
 
 The *Start Menu* is the “launchpad” for all of your programs on the
@@ -35,7 +35,7 @@ Windows 10
 Since Windows 10 is now ubiquitous, and all new and upgraded PC’s have
 it, we’ll focus on Windows 10’s Start Menu.
 
-### Navigating the Windows 10 Start Menu {#navigating-the-windows-10-start-menu}
+### Navigating the Windows 10 Start Menu
 
 When you press the **Windows** key to open the Windows Start Menu, you
 are placed in a search box, where you type the name of the program or
@@ -67,7 +67,7 @@ the Start Menu, for example, may show the current weather, or the news
 app may show a current headline. Your screen reader will read these live
 tiles when focus is placed on the app’s icon.
 
-Activity {#activity}
+Activity
 --------
 
 -   Open the Start Menu, and arrow down through the list of “all apps.”

@@ -1,4 +1,7 @@
-beginning {#beginning}
+Lesson 10: Editing Text
+========================
+
+beginning
 ---------
 
 Up to now, we’ve simply moved around windows. Now, let’s start creating
@@ -52,7 +55,7 @@ Page down
 Try moving around the document. Notice what your screen reader says in
 response to the movement. Be mindful of this as you edit text.
 
-### The cursor {#the-cursor}
+### The cursor
 
 The cursor [^1] is how one navigates text fields. This includes text
 editors: Emacs, Visual Studio Code, Notepad, and Word pad, word
@@ -80,7 +83,7 @@ online forms: like username fields, and comment text entry areas.
     This gets rid of the 3, and another period. This leaves you with
     “Emacs 26” instead of “Emacs 26.3.”
 
-select text {#select-text}
+select text
 ===========
 
 To select text, use **Shift** with any cursor movement commands. For
@@ -88,35 +91,35 @@ example, use **Control + Shift + Right Arrow** to select the next word,
 or **Control + Shift + End** to select from the cursor to the end of the
 file.
 
-Manipulating text {#manipulating-text}
+Manipulating text
 -----------------
 
 The following sections will teach you how to undo edits, move, copy, and
 paste text.
 
-### Undo {#undo}
+### Undo
 
 If you ever make a mistake when typing, use the *Undo* function of the
 program you are using. The usual hotkey is **Control + Z**. Try this
 now.
 
-### Cut {#cut}
+### Cut
 
 To cut something is to move it from one place. Then, you can paste the
 text somewhere else. To cut, first select the text to be cut, then press
 **Control + X**.
 
-### Copy {#copy}
+### Copy
 
 To copy text, like copying a file, select the text, and press **Control
 + C**.
 
-### Paste {#paste}
+### Paste
 
 Pasting text lets you finish the cut or copy operation. To paste, press
 **Control + V**.
 
-The Clipboard {#the-clipboard}
+The Clipboard
 -------------
 
 The clipboard is a space in computer short-term memory that holds the
@@ -125,7 +128,7 @@ copied text, so you can paste the text again, somewhere else. So, your
 screen reader, when copying, cutting, or pasting text, may say “cut to
 clipboard,” “copied to clipboard,” or “pasted from clipboard.”
 
-Footnotes {#footnotes}
+Footnotes
 =========
 
 [^1]: [Cursor on

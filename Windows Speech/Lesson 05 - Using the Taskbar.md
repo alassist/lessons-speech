@@ -1,10 +1,10 @@
-Lesson 5 {#lesson-5}
-====================
+Lesson 5: Using the Task Bar
+============================
 
 In this lesson, you’ll learn how to use the Windows Taskbar to open
 programs.
 
-Introduction {#introduction}
+Introduction
 ----------------------------
 
 The Taskbar in Windows is the place where all of your frequently used
@@ -12,7 +12,7 @@ programs can be placed, for easy access. The programs you’ll find there
 may include the web browser, email program, screen reader, and word
 processor.
 
-Using the Task Bar {#using-the-task-bar}
+Using the Task Bar
 ----------------------------------------
 
 To access the Taskbar, press **Windows + T**. You’ll be placed on the
@@ -31,7 +31,7 @@ move to a window that is not the two most recently used windows, hold
 down Alt, and press Tab until you hear the window you want to move to,
 and release Alt.
 
-Pin a program to the taskbar {#pin-a-program-to-the-taskbar}
+Pin a program to the taskbar
 ------------------------------------------------------------
 
 After using the Taskbar for a while, you may want to add programs to it.
@@ -49,7 +49,7 @@ can explore the Taskbar to find its position, if you would like to use
 **Windows + (number)** to open it. You can repeat the steps above to
 remove an item from the Taskbar.
 
-Activity {#activity}
+Activity
 --------------------
 
 -   Navigate to the Taskbar.

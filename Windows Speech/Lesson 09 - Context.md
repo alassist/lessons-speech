@@ -1,4 +1,7 @@
-The Context menu {#the-context-menu}
+Lesson 9: Context
+=================
+
+The Context menu
 ----------------
 
 All throughout Windows, and most other operating systems, there is a
@@ -31,7 +34,7 @@ Now, let’s put that into use. Open the Context Menu, then choose
 “Refresh,” and press **Enter**. The page will refresh. Find this section
 (separator) again to continue. To do that, press S.
 
-Activity {#activity}
+Activity
 --------
 
 -   Open File Explorer, find a file, and open the context menu on that

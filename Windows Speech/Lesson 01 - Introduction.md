@@ -1,4 +1,7 @@
-### Aids for reading lessons {#aids-for-reading-lessons}
+Lesson 1: Introduction
+======================
+
+### Aids for reading lessons
 
 If you need to pause this lesson, press the **Shift** key. To resume
 speaking, press **Shift** again. If using JAWS or Narrator, press
@@ -6,7 +9,7 @@ speaking, press **Shift** again. If using JAWS or Narrator, press
 and release both keys to begin reading where you left off. If you need
 further help, ask your instructor.
 
-What is Windows? {#what-is-windows}
+What is Windows?
 ----------------
 
 Windows is an operating system created by Microsoft. An operating system
@@ -34,7 +37,7 @@ especially with navigating the web, and using Microsoft Office. Since
 usage of a screen reader, and Windows usage, are intertwined, this
 course will teach screen reader basics along with using Windows.
 
-What are screen readers {#what-are-screen-readers}
+What are screen readers
 -----------------------
 
 Screen readers are tools for the blind that read parts of the screen on
@@ -83,7 +86,7 @@ Narrator
     improve with future updates. It also supports some of Microsoft
     Office, and may support Google Drive for office work.
 
-Getting Started {#getting-started}
+Getting Started
 ---------------
 
 To help get you started navigating these lessons, here are some keys to

@@ -1,7 +1,7 @@
-Following is a list of Windows 10 keyboard shortcuts {#following-is-a-list-of-windows-10-keyboard-shortcuts}
+Following is a list of Windows 10 keyboard shortcuts
 ----------------------------------------------------
 
-### Copy, paste, and other general keyboard shortcuts {#copy-paste-and-other-general-keyboard-shortcuts}
+### Copy, paste, and other general keyboard shortcuts
 
 | Press this ke                                    | To do this                                                                                                          |
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ shortcut. Use PrtScn key to open screen snipping
 
 </div>
 
-### Windows logo key keyboard shortcuts {#windows-logo-key-keyboard-shortcuts}
+### Windows logo key keyboard shortcuts
 
 | Press this key                                       | To do this                                                                                                                                           |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -117,7 +117,7 @@ shortcut. Use PrtScn key to open screen snipping
 | Windows logo key + Ctrl + V                          | Open shoulder taps.                                                                                                                                  |
 | Windows logo key + Ctrl + Shift + B                  | Wake PC from blank or black screen                                                                                                                   |
 
-### Command Prompt keyboard shortcuts {#command-prompt-keyboard-shortcuts}
+### Command Prompt keyboard shortcuts
 
 | Press this key                   | To do this                                                                                                                                                    |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -135,7 +135,7 @@ shortcut. Use PrtScn key to open screen snipping
 | Ctrl + Home (History navigation) | If the command line is empty, move the viewport to the top of the buffer. Otherwise, delete all the characters to the left of the cursor in the command line. |
 | Ctrl + End (History navigation)  | If the command line is empty, move the viewport to the command line. Otherwise, delete all the characters to the right of the cursor in the command line.     |
 
-### Dialog box keyboard shortcuts {#dialog-box-keyboard-shortcuts}
+### Dialog box keyboard shortcuts
 
 | Press this key             | To do this                                                                            |
 |----------------------------|---------------------------------------------------------------------------------------|
@@ -150,7 +150,7 @@ shortcut. Use PrtScn key to open screen snipping
 | Backspace                  | Open a folder one level up if a folder is selected in the Save As or Open dialog box. |
 | Arrow keys                 | Select a button if the active option is a group of option buttons.                    |
 
-### File Explorer keyboard shortcuts {#file-explorer-keyboard-shortcuts}
+### File Explorer keyboard shortcuts
 
 | Press this key            | To do this                                                                                      |
 |---------------------------|-------------------------------------------------------------------------------------------------|
@@ -177,7 +177,7 @@ shortcut. Use PrtScn key to open screen snipping
 | Home                      | Display the top of the active window.                                                           |
 | F11                       | Maximize or minimize the active window.                                                         |
 
-### Virtual desktops keyboard shortcuts {#virtual-desktops-keyboard-shortcuts}
+### Virtual desktops keyboard shortcuts
 
 | Press this key                        | To do this                                                   |
 |---------------------------------------|--------------------------------------------------------------|
@@ -187,7 +187,7 @@ shortcut. Use PrtScn key to open screen snipping
 | Windows logo key + Ctrl + Left arrow  | Switch between virtual desktops you’ve created on the left.  |
 | Windows logo key + Ctrl + F4          | Close the virtual desktop you're using.                      |
 
-### Taskbar keyboard shortcuts {#taskbar-keyboard-shortcuts}
+### Taskbar keyboard shortcuts
 
 | Press this key                               | To do this                                              |
 |----------------------------------------------|---------------------------------------------------------|
@@ -197,7 +197,7 @@ shortcut. Use PrtScn key to open screen snipping
 | Shift + right-click a grouped taskbar button | Show the window menu for the group.                     |
 | Ctrl + click a grouped taskbar button        | Cycle through the windows of the group.                 |
 
-### Settings keyboard shortcuts {#settings-keyboard-shortcuts}
+### Settings keyboard shortcuts
 
 | Press this key                   | To do this                         |
 |----------------------------------|------------------------------------|

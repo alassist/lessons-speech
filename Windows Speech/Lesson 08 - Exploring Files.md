@@ -1,4 +1,7 @@
-About File Explorer {#about-file-explorer}
+Lesson 8: Exploring Files
+=========================
+
+About File Explorer
 -------------------
 
 *File Explorer* is the program used to explore the files on your
@@ -14,7 +17,7 @@ Note that in older versions of Windows, “File Explorer” is called
 
 </aside>
 
-Beginning exploration {#beginning-exploration}
+Beginning exploration
 ---------------------
 
 To open File Explorer, press **Windows + E**. You’ll be placed in the
@@ -37,7 +40,7 @@ name*. The file name is what the file is called, like “lesson6.html”.
 “Lesson 6” is the name, while “HTML” which stands for “Hyper Text Markup
 Language” is the file type.
 
-File types {#file-types}
+File types
 ----------
 
 In your exploration of files, you may have discovered that files don’t
@@ -94,7 +97,7 @@ Some operating systems, like Mac and Linux, do not need file type
 suffixes, because it is in the file itself what it is, so some files you
 may download will not always have a suffix.
 
-Tabbing around {#tabbing-around}
+Tabbing around
 --------------
 
 You may use the **Tab** key to move around the Explorer window. This
@@ -107,7 +110,7 @@ to move to a folder, and press **Enter** to go to it. Then, if
 necessary, use the **Tab** key to go to the list of files and folders
 within that folder.
 
-Menu bars {#menu-bars}
+Menu bars
 ---------
 
 Menu bars are important parts of programs that let you control specific
@@ -116,7 +119,7 @@ uses the *Chrome menu*, and most Microsoft programs use the *Ribbon*.
 We’ll focus on other menu bars in later courses, but for now, we’ll work
 with the Ribbon.
 
-### The Ribbon {#the-ribbon}
+### The Ribbon
 
 The *Ribbon* is a type of menu bar that has an upper and lower portion.
 The *upper ribbon* has general groups, like “Home,” “Share,” and “view.”
@@ -146,7 +149,7 @@ the Home tab. There are keyboard commands for most actions in the
 ribbon. For example, press **Control + Z** for Undo, **Control + X** for
 cut, **Control + C** for copy, and **Control + V** for Paste.
 
-Activity {#activity}
+Activity
 --------
 
 -   Open File Explorer.

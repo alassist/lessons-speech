@@ -1,4 +1,7 @@
-Introduction {#introduction}
+Lesson 7: Setting Settings
+==========================
+
+Introduction
 ------------
 
 Just as you can set screen reader settings, there are also Windows
@@ -6,7 +9,7 @@ settings. These settings control things like how much power your
 computer uses; this is good for laptops, sound volume and enhancements,
 display settings, and software updates.
 
-Opening the Settings app {#opening-the-settings-app}
+Opening the Settings app
 ------------------------
 
 To open Settings, the app for changing settings, press **Windows + I**.

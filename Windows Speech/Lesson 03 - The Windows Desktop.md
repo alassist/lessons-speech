@@ -1,7 +1,7 @@
-The Windows Desktop {#the-windows-desktop}
+Lesson 3: The Windows Desktop
 -------------------
 
-### About the Desktop {#about-the-desktop}
+### About the Desktop
 
 When you first start up your computer, your screen reader will say
 “taskbar.” We’ll cover that later on, but for now, let’s start with a
@@ -23,7 +23,7 @@ Explorer](Lesson 6, Using the Notification Area.md). For a clean way to find and
 icons on it, including the Recycle Bin. The Recycle Bin will always be
 there.
 
-### Focus {#focus}
+### Focus
 
 *Focus* is an important term for screen reader users. It is what the
 screen reader has just read. Technically, it is the item which is in
@@ -34,7 +34,7 @@ Taskbar. It it says “Next button,” then it is focused on a button called
 “Next.” Pressing **Tab** and **Shift + Tab** changes focus to the next
 or previous item in the program that you’re in.
 
-### Focusing on the desktop {#focusing-on-the-desktop}
+### Focusing on the desktop
 
 To move focus to the desktop, we’ll use a Windows keyboard command.
 **Windows + D** moves directly to the desktop, without making the window
@@ -66,7 +66,7 @@ When you find an icon you want to open, like the Recycle Bin, press
 be placed in the background. To close an open program, press **Alt +
 F4**.
 
-Activity {#activity}
+Activity
 --------
 
 -   Set focus to the Windows Desktop

@@ -1,4 +1,7 @@
-Introduction {#introduction}
+Lesson 6: Using the Notification area
+=====================================
+
+Introduction
 ------------
 
 The *Notification Area*, also called the System Tray or status area, is
@@ -6,7 +9,7 @@ a part of the Windows desktop which shows system notifications and
 statuses. It is to the right of the start button and Task Bar, and to
 the left of the clock.
 
-Accessing the Notification Area {#accessing-the-notification-area}
+Accessing the Notification Area
 -------------------------------
 
 You can access the notification area using the Windows keyboard command
@@ -27,12 +30,12 @@ Items in the notification area include:
 -   Buttons to search with, or talk to, Cortana, Windows’ digital
     assistant.
 
-Using the notification area {#using-the-notification-area}
+Using the notification area
 ---------------------------
 
 To use the notification area:
 
-### Using **Windows + B** {#using-windows-b}
+### Using **Windows + B**
 
 -   Use **Left** and **Right** arrow keys to navigate items
 -   Use **Enter** to “left click” or Activate items.
@@ -40,7 +43,7 @@ To use the notification area:
 -   Use **Escape** or **Alt + Tab** to move focus away from the
     notification area.
 
-### Using JAWS’ **Insert + F11** interface {#using-jaws-insert-f11-interface}
+### Using JAWS’ **Insert + F11** interface
 
 -   Navigate using the **up** or **down** arrow keys
 -   Activate an item with **Enter**

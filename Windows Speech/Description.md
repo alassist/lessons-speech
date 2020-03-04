@@ -1,4 +1,5 @@
 # Introduction
+
 Welcome to Windows Basics with speech. In this course, you’ll learn to
 use Windows with a screen reader. This course attempts to accommodate
 all screen readers currently in common use.

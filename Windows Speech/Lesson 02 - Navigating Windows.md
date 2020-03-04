@@ -1,4 +1,4 @@
-Navigating Windows {#navigating-windows}
+Lesson 2: Navigating Windows
 ------------------
 
 For people who have vision, navigating Windows is simple: find on the
@@ -74,7 +74,7 @@ down the Control key, press “S”, and release both keys. If the
 user only has to press one key, though, some courses simply put the key
 in quotes, like “Press the ‘h’ key to move to the next heading.”
 
-### Activity {#activity}
+### Activity
 
 Now that you know basic navigation, try the following activities for
 practicing what you’ve learned.
