@@ -82,3 +82,5 @@ Activity {#activity}
     keys, if needed, to find the “documents: files and folders” option,
     and press **enter**.
 -   In the next section, complete the quiz, then move on to Lesson Five.
+
+[Go to lesson 5](Lesson 05 - Using the Taskbar.md)

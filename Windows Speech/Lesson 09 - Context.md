@@ -49,3 +49,5 @@ Activity {#activity}
     Hint, simply replace use of the ribbon with the context menu.
 
     </aside>
+
+[Go to lesson 10](Lesson 10 - Editing Text.md)

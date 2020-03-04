@@ -159,3 +159,5 @@ Activity {#activity}
 -   In the downloads folder, press the **delete** key to delete the file
     just copied. If this doesn’t work, make sure you select the file
     with **space bar** or the arrow keys.
+
+[Go to lesson 9](Lesson 09 - Context.md)

@@ -41,3 +41,5 @@ To practice, find the “System” settings category, then the “sound”
 section, then go back to the list of categories.
 
 To exit Settings, as in every other Windows program, press **Alt + F4**.
+
+[Go to lesson 8](Lesson 08 - Exploring Files.md)

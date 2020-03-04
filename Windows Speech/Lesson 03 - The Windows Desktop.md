@@ -76,3 +76,5 @@ Activity {#activity}
     press **Up Arrow**. What option did you hear?
 -   In the next section, complete the quiz before moving on to the next
     lesson.
+
+[Go to lesson 4](Lesson 04 - Using the Start Menu.md)

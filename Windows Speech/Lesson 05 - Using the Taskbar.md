@@ -57,3 +57,5 @@ Activity {#activity}
 -   Add Google chrome to the Taskbar.
 -   Open Google Chrome using its position number.
 -   Remove Google Chrome from the Taskbar.
+
+[Go to lesson 6](Lesson 06 - Using the Notification Area.md)

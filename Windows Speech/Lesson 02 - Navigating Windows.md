@@ -94,3 +94,5 @@ practicing what you’ve learned.
     keys. Complete this quiz before moving on to the next lesson. To
     move to the next lesson after completing the quiz, tab to “Lesson 3”
     and activate the link with **Space bar** or **Enter**.
+
+[Go to lesson 3](Lesson 03 - The Windows Desktop.md)

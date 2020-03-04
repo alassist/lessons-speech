@@ -101,3 +101,5 @@ So, when you reach the end of this lesson, press **TAB** until you hear
 which means holding down Insert, then pressing Down Arrow, and releasing
 both keys, to begin reading the page. Ways of quickly getting passed the
 navigational content will be covered later, or by your instructor.
+
+[Go to lesson 2](Lesson 02 - Navigating Windows.md)
