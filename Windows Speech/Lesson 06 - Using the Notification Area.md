@@ -48,4 +48,4 @@ To use the notification area:
     item.
 -   use **Escape** to exit the list
 
-[Go to lesson 7](Lesson 07 - Setting Settings.md)
+[Go to lesson 7](Lesson%2007%20-%20Setting%20Settings.md)

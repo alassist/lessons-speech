@@ -58,4 +58,4 @@ Activity {#activity}
 -   Open Google Chrome using its position number.
 -   Remove Google Chrome from the Taskbar.
 
-[Go to lesson 6](Lesson 06 - Using the Notification Area.md)
+[Go to lesson 6](Lesson%2006%20-%20Using%20the%20Notification%20Area.md)

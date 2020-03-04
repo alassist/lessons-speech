@@ -160,4 +160,4 @@ Activity {#activity}
     just copied. If this doesn’t work, make sure you select the file
     with **space bar** or the arrow keys.
 
-[Go to lesson 9](Lesson 09 - Context.md)
+[Go to lesson 9](Lesson%2009%20-%20Context.md)

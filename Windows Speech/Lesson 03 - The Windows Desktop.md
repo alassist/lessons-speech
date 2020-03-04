@@ -77,4 +77,4 @@ Activity {#activity}
 -   In the next section, complete the quiz before moving on to the next
     lesson.
 
-[Go to lesson 4](Lesson 04 - Using the Start Menu.md)
+[Go to lesson 4](Lesson%2004%20-%20Using%20the%20Start%20Menu.md)

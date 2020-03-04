@@ -83,4 +83,4 @@ Activity {#activity}
     and press **enter**.
 -   In the next section, complete the quiz, then move on to Lesson Five.
 
-[Go to lesson 5](Lesson 05 - Using the Taskbar.md)
+[Go to lesson 5](Lesson%2005%20-%20Using%20the%20Taskbar.md)

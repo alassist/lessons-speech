@@ -50,4 +50,4 @@ Activity {#activity}
 
     </aside>
 
-[Go to lesson 10](Lesson 10 - Editing Text.md)
+[Go to lesson 10](Lesson%2010%20-%20Editing%20Text.md)
