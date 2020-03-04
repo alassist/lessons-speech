@@ -6,7 +6,9 @@ see every item that is available, at once, and there may be items that a
 screen reader will skip over or not read correctly due to accessibility
 issues in programs and websites. However, the more you use NVDA, the
 easier it'll become, and the more confident you will be in your ability
-to navigate the Windows environment.
+to navigate the Windows environment. You can also use advanced
+navigation features, taught later, which may help when using programs which were not
+made with support for screen readers.
 
 To navigate the Windows interface, you'll use a few keys and commands.
 
@@ -82,19 +84,24 @@ and their definitions.
 - Block quote:   A long quote which takes multiple lines.
 - button: A round item with a label which can be clicked, or activated
     with Space or Enter.
-- drop down button: a button which opens a menu.
+- drop down button: a button which opens a menu. Press the Space Bar
+  to activate.
 - spin button: a numeric entry field which can be typed into, but also
     increased or decreased using the arrow keys.
 - split button: a button which can be activated with the Enter key,
     but has alternative actions which can be accessed using the Space
     bar.
-- toggle button : a button which toggles a setting on or off.
+- toggle button : a button which toggles a setting on or off. Toggle
+  it with the Enter key.
 - Combo box : a closed box, which can be opened to reveal a list of
     items. Open with Alt + Down arrow, choose an item with the arrow
     keys, and close with Alt + Up arrow.
-- Check box: A box which can be checked or unchecked.
+- Check box: A box which can be checked or unchecked with the Space
+  key.
 - Dialog: a window in a program which appears with text in the center,
     and buttons to answer the text with, for example yes, no, or OK.
+    Tab through the options in a dialog box. Options which can be
+    acted upon are regular Windows controls.
 - document: A place where text is written and edited. Using tab only
     indents text, so use F6 to move to another part of the program.
 - Edit: A box for text entry that is one line only.
@@ -102,7 +109,7 @@ and their definitions.
     not be spoken, only "star".
 - embedded object: An object on a website that is a web application
     embedded into the site (usually an Adobe flash program, not used
-    often).
+    often), but can also be a video player or modern web app.
 - graphic: an image.
 - heading: a headline, which can be in range 1 to 6, 1 being most
     important, 6 being least important.
@@ -110,13 +117,15 @@ and their definitions.
     find important parts of it.
 - link: A hyperlink to a different part of a web page, to a different
     website, or in a program, opens an Internet page for showing
-    further information.
-- Menu bar: a bar of menus across the top of a program.
-- menu button: a button which opens a menu.
+    further information. Activate these with the Enter key.
+- Menu bar: a bar of menus across the top of a program. Press the Alt
+  key to access.
+- menu button: a button which opens a menu. Press Enter or Space to activate.
 - radio button: a button, in a list of buttons, of which only one can
-  be chosen.
+  be chosen. Press Space to activate one.
 - status bar: a bar at the bottom of a program which gives statistics,
-    like a word count or number of errors.
+    like a word count or number of errors. Press **NVDA + Page Down**
+    to read it.
 - tab control: a list of tabs which change the "page" of the program
   you're in.
 - tree view: a list with items which can be expanded to show other
