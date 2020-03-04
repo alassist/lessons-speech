@@ -16,3 +16,5 @@ Getting started with AIRA requires having a smartphone, either an iPhone or an A
 If you’d like to use AIRA anywhere, and not just in free locations like AIDB campuses and regional centers, you can sign up as an AIRA explorer. This involves paying for a monthly plan, starting at $30 per month. To do this, open the AIRA app, tap the “more” tab, and choose “Upgrade to an Explorer,” then select the plan that’s right for you. Provide your personal information as well as billing information, review the purchase, and check out.
 
 If you live in the United States, you have the option to purchase the AIRA Horizon Kit, which features the Horizon Smart Glasses and Horizon Phone, for a one-time payment of $600, or for a rent-to-own cost of $25 per month for 24 months. This lets you take AIRA with you anywhere, even without your phone.
+
+[Go to lesson 3](lesson%2003.md)

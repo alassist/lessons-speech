@@ -6,4 +6,4 @@ all screen readers currently in common use.
 Please note also that this course will be updated from time to time with
 information pertaining to changes in Windows and screen reader usage.
 
-[Go to lesson 1](Lesson 01 - Introduction.md)
+[Go to lesson 1](Lesson%2001%20-%20Introduction.md)

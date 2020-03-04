@@ -95,4 +95,4 @@ practicing what you’ve learned.
     move to the next lesson after completing the quiz, tab to “Lesson 3”
     and activate the link with **Space bar** or **Enter**.
 
-[Go to lesson 3](Lesson 03 - The Windows Desktop.md)
+[Go to lesson 3](Lesson%2003%20-%20The%20Windows%20Desktop.md)

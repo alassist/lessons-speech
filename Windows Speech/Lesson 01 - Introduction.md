@@ -102,4 +102,4 @@ which means holding down Insert, then pressing Down Arrow, and releasing
 both keys, to begin reading the page. Ways of quickly getting passed the
 navigational content will be covered later, or by your instructor.
 
-[Go to lesson 2](Lesson 02 - Navigating Windows.md)
+[Go to lesson 2](Lesson%2002%20-%20Navigating%20Windows.md)
