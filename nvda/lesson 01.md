@@ -15,7 +15,7 @@ number is subsequent to the current lesson, and press **enter**. If you
 have read passed that point, press **Shift + Tab** to move backward
 through the items on the page.
 
-After the next lesson loads, press "h" to move by headings until you
+After the next lesson loads, press “h” to move by headings until you
 find the beginning of the lesson, then use **Insert + Down Arrow**, hold
 Insert and press Down Arrow then release both keys, to begin reading the
 next lesson.
@@ -23,20 +23,20 @@ next lesson.
 About NVDA
 ==========
 
-NVDA, [NonVisual Desktop Access](https://www.nvaccess.org), is a [Screen
-reader](https://en.wikipedia.org/wiki/Screen_reader) for the Windows
-operating system. It uses Windows' text-to-speech features and system
-accessibility tools to read textual content from the computer screen.
-This does not mean that everything on the screen will be read, however.
-Pictures which are not described by text, videos, and any program which
-does not comply with Windows [accessibility
+NVDA, [NonVisual Desktop Access](https://www.nvaccess.org), is a
+[Screen reader](https://en.wikipedia.org/wiki/Screen_reader) for the
+Windows operating system. It uses Windows' text-to-speech features and
+system accessibility tools to read textual content from the computer
+screen. This does not mean that everything on the screen will be read,
+however. Pictures which are not described by text, or videos and any
+program which does not comply with Windows [accessibility
 standards](https://developer.microsoft.com/en-us/windows/accessible-apps)
 will not be made accessible with NVDA.
 
 Downloading NVDA
 ================
 
-You can download NVDA from [NvAccess\' download
+You can download NVDA from [NvAccess download
 page](https://www.nvaccess.org/download/). Choose to either donate, or
 not to, this time, to download NVDA. Once downloaded, run the file,
 and NVDA will start alongside the installer, to help you install it,

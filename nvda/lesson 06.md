@@ -14,6 +14,9 @@ keys.
 Review Cursor Keys
 ==================
 
+The following table contains NVDA functions, and the ways to use them,
+either through a Desktop keyboard, laptop keyboard, or touch screen.
+
 | Name                                 | Desktop key   | Laptop key              | Touch                            | Description                                                                                                                                                                                                                                               |
 | ------------------------------------ | ------------- | ----------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Move to top line in review           | shift+numpad7 | NVDA+control+home       | none                             | Moves the review cursor to the top line of the text                                                                                                                                                                                                       |
@@ -34,3 +37,24 @@ Review Cursor Keys
 | Select then Copy to review cursor    | NVDA+f10      | NVDA+f10                | none                             | On the first press, text is selected from the position previously set start marker up to and including the review cursor's current position. After pressing this key a second time, the text will be copied to the Windows clipboard                      |
 | Report text formatting               | NVDA+f        | NVDA+f                  | none                             | Reports the formatting of the text where the review cursor is currently situated. Pressing twice shows the information in browse mode                                                                                                                     |
 | Report current symbol replacement    | None          | None                    | none                             | Speaks the symbol where the review cursor is positioned. Pressed twice, shows the symbol and the text used to speak it in browse mode.                                                                                                                    |
+
+Uses For Reviewing Text
+=======================
+
+There are a few cases for why reviewing text with the review cursor
+can be useful.
+
+* If you use the command line, or Windows terminal, you will need to
+  review output with the review cursor, as the arrow keys move through
+  history and the characters of your command.
+* If you are in a document, you may want to review a prior line, or
+  one below the current line.
+* If you move, using the navigator object discussed later, you will
+  have to review that line using the review cursor.
+
+Activity
+--------
+
+- Use the review cursor to read the line above this one, then use
+  **Insert + Up Arrow** to verify that your system cursor is still on
+  this line.

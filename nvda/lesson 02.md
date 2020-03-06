@@ -1,7 +1,7 @@
 Basic Navigation
 ================
 
-To navigate Windows, you will use a few commands. These are not screen
+To navigate Windows, you will use a few keyboard commands. These are not screen
 reader commands, but are Windows concepts which enable a blind person to
 use a computer, no matter which screen reader they use. More in-depth
 Windows concepts are given in the *Windows Basics with Speech* course,
