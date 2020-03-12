@@ -29,9 +29,9 @@ How do you move to the end of the line?{
 ~Page Down}
 
 How do you move to the beginning of the document?{
-=Home
+~Home
 ~End
-~Control + Home
+=Control + Home
 ~Control + End}
 
 How do you move to the end of the document?{

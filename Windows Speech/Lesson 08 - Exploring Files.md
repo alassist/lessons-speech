@@ -1,20 +1,15 @@
-Lesson 8: Exploring Files
-=========================
-
 About File Explorer
 -------------------
 
 *File Explorer* is the program used to explore the files on your
 computer, whether they be files you’ve made, downloaded, or files that
-the system uses to do its job. you can use it to move or copy files
+the system uses to do its job. You can use it to move or copy files
 around, remove files, rename them, or view their statistics. You can
 also open them in any program that supports the type of file.
 
-<aside markdown="1">
-
+<aside>
 Note that in older versions of Windows, “File Explorer” is called
 “Windows Explorer.”
-
 </aside>
 
 Beginning exploration
@@ -38,7 +33,7 @@ modification, and file type. if you become stuck in one of these
 columns, press **Left Arrow** a few times until you hear the *file
 name*. The file name is what the file is called, like “lesson6.html”.
 “Lesson 6” is the name, while “HTML” which stands for “Hyper Text Markup
-Language” is the file type.
+Language” is the file type. To move out of a folder, and up into the list of folders, where you were before, press **Alt + Up arrow**.
 
 File types
 ----------
@@ -155,12 +150,11 @@ Activity
 -   Open File Explorer.
 -   Find the “Documents” folder.
 -   When focused on a file, open the Home tab on the ribbon.
--   Find the “copy to clipboard” command.
+-   Find the “copy” command.
 -   Press **escape** a few times to exit the ribbon.
 -   Copy a document from the “Documents” folder to the “downloads”
     folder using the keyboard commands given above.
 -   In the downloads folder, press the **delete** key to delete the file
     just copied. If this doesn’t work, make sure you select the file
     with **space bar** or the arrow keys.
-
-[Go to lesson 9](Lesson%2009%20-%20Context.md)
+- Move back to the list of folders with **Alt + Up Arrow**.

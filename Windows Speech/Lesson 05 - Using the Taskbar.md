@@ -1,4 +1,4 @@
-Lesson 5: Using the Task Bar
+Lesson 5: Using the Taskbar
 ============================
 
 In this lesson, you’ll learn how to use the Windows Taskbar to open
@@ -52,8 +52,12 @@ remove an item from the Taskbar.
 Activity
 --------------------
 
+Become familiar with the taskbar by performing the following actions.
+If an item is not available on the taskbar, or is otherwise unable to
+be done, you can skip it.
+
 -   Navigate to the Taskbar.
--   From the Desktop, open Microsoft Edge by using its position number
+-   From the taskbar, open Microsoft Edge by using its position number
 -   Add Google chrome to the Taskbar.
 -   Open Google Chrome using its position number.
 -   Remove Google Chrome from the Taskbar.
