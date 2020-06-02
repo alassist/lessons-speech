@@ -64,10 +64,10 @@ Using ChromeVox, you can move to different types of items with a
 keyboard command. You can either move forward or backward through the
 page by an item. Below is a list of the keyboard commands, and what
 they do. Since each keyboard command uses the Search key, that part of
-the keyboard command will be left out. You can use the Shift key to
+the keyboard command will be left out. You can add the Shift key to
 move backward by that type of item. So, if the key is "B", you use
-Search + B to move forward by that item type, and Shift + Search + B
-to move backward by that item type.
+**Search + B** to move forward by that item type, and **Shift +
+Search + B** to move backward by that item type.
 
 <dl>
 <dt>B</dt>
@@ -138,17 +138,21 @@ Please perform the following steps to practice using item lists:
 5. Press **Enter** on any link.
 6. Press **Control + W** to close the window.
 
-Now, you’ve experienced using lists of items.
+Now, you’ve experienced using lists of items. This can be useful if
+you already know what you’re looking for, and know the type of item
+that you want to find.
 
 ## Searching for an item
 
-Rather than finding a list of items, you may want to move directly to
-an item you’re looking for. This is useful if you know the name of
-what you’re looking for, so you don’t need to move using more manual
-means. This can make browsing the web very quick.
+Rather than using a list of items, you may want to move directly to an
+item you’re looking for. This is useful if you know the name of what
+you’re looking for, so you don’t need to move using more manual means.
+This can make browsing the web very quick.
 
 To search for an item, press **Search + / (slash**. Type what you want
 to find, and press **Enter**. ChromeVox will place focus on that item.
+Note that the text you enter must match an item on the page, so it
+must be an exact few letters, words, or a phrase.
 
 ### Exercise: Searching for an item
 

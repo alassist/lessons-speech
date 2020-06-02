@@ -3,17 +3,17 @@
 This course will teach you how to use ChromeVox, the screen reader on
 the Chromebook. ChromeVox is a free screen reader that comes with your
 Chromebook, so you don’t have to download anything extra. It also gets
-frequent updates alongside your Chromebook, so you don’t have to worry
+frequent updates alongside your Chromebook, so you need not worry
 about a license expiring, or incompatibilities between the Chromebook
-and ChromeVox versions. ChromeVox may also be used on other devices,
-but that won’t be discussed in this course, as there can be
-complications during the use of ChromeVox on other types of computers
-besides Chromebooks.
+and ChromeVox versions. ChromeVox can be used on other devices, but
+since there can be complications during usage of ChromeVox on other
+types of computers besides Chromebooks, the use of ChromeVox on other
+operating systems won’t be discussed in this course.
 
 This course attempts to be as up-to-date as possible. However, as new
-ChromeOS versions are released, some things may work better, or
-differently, than described in this course. If you find problems, or
-have suggestions, please let your instructor know.
+versions are released, some things may work better, or differently,
+than described in this course. If you find problems, or have
+suggestions, please let your instructor know.
 
 In this lesson, you will learn about what ChromeVox is, and what it
 works with. You will then learn about the Chromebook keyboard, and how
@@ -39,19 +39,19 @@ accessible, you may contact the site administrator or the program
 developer to ask that it be made accessible.
 
 Chromebooks run the ChromeOS system, which is like the Chrome web
-browser. This means that you will mostly be using websites, like
+browser. This means that you will mostly use websites, like
 <https://www.alassist.us>, and web applications, like Gmail, Google
 Docs, or Google Classroom. Some Chromebooks can run Android apps,
-which are mobile programs. These can be accessible, but some are not
-accessible. If the Android app is accessible, ChromeVox will work with
-that app.
+which are mobile programs. These may or may not be accessible,
+depending on the app. If the Android app is accessible, ChromeVox will
+work with that app.
 
 ## The Chromebook keyboard
 
 The Chromebook keyboard is a little different than a regular laptop
-keyboard. There is no number pad, so you'll need to use the number row
-near the top of the keyboard to enter numeric data. The function keys
-are different, as well. From the left most top key, that row is:
+keyboard. There is no number pad, so you must use the number row near
+the top of the keyboard to enter numeric data. The function keys are
+different, too. From the left most top key, that row is:
 
 * Escape
 * Back
@@ -66,9 +66,9 @@ are different, as well. From the left most top key, that row is:
 * Volume Up
 * Power
 
-The modifier keys are different as well. Instead of the Capslock key,
+The modifier keys are different, too. Instead of the Capslock key,
 there is the "Search" key. There is no Windows key, only Alt and
-Control. So, on the button of the keyboard, the keys are:
+Control. So, on the bottom of the keyboard, the keys are:
 
 * Control
 * Alt
@@ -87,20 +87,23 @@ Alt, or Search, and presses a regular key, like Tab, T, or Right
 Arrow.
 
 To show these keyboard commands, this course uses the standard
-notation used by other courses. Keyboard commands that you should
-press are in bold, while explanatory ones are not, except for the ones
-in this section. Keys are written out, with a plus symbol (+), between
-them. The Modifier key is given first, then the key that it modifies.
-For example, **Search + R** means to hold down the Search key, and
-while still holding the Search key down, press the R key, and release
-both keys.
+notation used by other courses. Most keyboard commands are in bold,
+while explanatory ones are not, except for the ones in this section.
+Keys are written out, with a plus symbol (+), between them. The
+Modifier key is given first, then the key that it modifies. For
+example, **Search + R** means to hold down the Search key, and while
+still holding the Search key down, press the R key, then release both
+keys. If the keyboard command contains a punctuation mark, like a
+period, comma, or bracket, the symbol is spelled out in parentheses.
+For example, if you need to press Control + period, that would be
+written as **Control + . (period)**.
 
 Some keyboard commands use multiple modified keys. This means that you
 press two or more keys while holding down the Modifier key. For these
 keyboard commands, the second, third, ETC. modified keys are shown in
-a literary list format. For example, **Search + A, P** means to hold
-down the Search key, press A, release A, then while still holding
-Search, press P.
+a list format. For example, **Search + A, P** means to hold down the
+Search key, press A, release A, then while still holding Search, press
+P.
 
 ## Starting ChromeVox
 
@@ -109,7 +112,8 @@ and press **Control + Alt + Z**. If your Chromebook is a tablet, and
 doesn’t have a keyboard attached, hold down the **Volume Up** and
 **Volume Down** keys together for five seconds. The first time you
 start ChromeVox, a tutorial will appear, to guide you through basic
-usage of the screen reader. I recommend completing this tutorial.
+usage of the screen reader. It is recommended to complete this
+tutorial.
 
 ### The ChromeVox Tutorial
 
@@ -120,10 +124,6 @@ ChromeVox. You hold down the Search key, called the ChromeVox key,
 press a key, then another key while still holding Search. Some of
 these are easy to remember, like **Search + O, T** meaning "Open
 tutorial," and others are not so easy.
-
-<aside>
-<p><b>Note:</b> If you are an Emacs user, doing key commands is slightly different. Whereas in Emacs, you don't have to hold down the modifier keys to continue the keyboard command sequence, in ChromeVox, you must hold down the search key all throughout the keyboard command sequence.</p>
-</aside>
 
 The first lesson in the ChromeVox tutorial is about moving around a
 page. To complete this lesson, use the following keyboard commands:
@@ -139,8 +139,9 @@ page. To complete this lesson, use the following keyboard commands:
 
 If you move to the end of a page, and move right one more time, you
 will hear a sound, and be placed onto the first item on the page.
-Inversely, if you move to the beginning of a page, then move left one
-more time, you will be placed at the end of the page.
+Inversely, if you move to the start of a page, then move left one
+more time, you will be placed at the end of the page. Continue the
+tutorial, and come back to this lesson when done.
 
 ## Keyboard Help
 
@@ -159,12 +160,11 @@ window.
 
 Please perform the following steps to practice keyboard help mode:
 
-1. Open keyboard help mode with **Search + O, then K**.
-2. Press **Search + A, then D**. You’ll hear the command described as
-   one to check the time and date.
+1. Open keyboard help mode with **Search + O, K**.
+2. Press **Search + A, D**. You’ll hear the command described as
+   the command to check the time and date.
 3. Press **Control + W** to close keyboard help mode.
-4. Press the command **Search + A, then D**. You’ll hear the time and
-   date.
+4. Press the command **Search + A, D**. You’ll hear the time and date.
 
 Now, you know not only how to use the keyboard help mode, but also how
 to check the time and date using your Chromebook. Continue to the next

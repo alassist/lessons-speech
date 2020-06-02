@@ -23,7 +23,7 @@ Right Bracket (])**.
 ChromeVox contains an options page, where you can set things like the
 voice ChromeVox uses, how much it speaks, and configure braille
 displays for use with ChromeVox. To open the settings page, press
-**Search + O, then O**. The options you’ll find will be listed below,
+**Search + O, O**. The options you’ll find will be listed below,
 along with what they do. Use the Tab key to navigate among them, and
 use **Search + Space** to configure them. If a checkbox is checked,
 then the item is turned on, or enabled. If it is not checked, then the
@@ -97,16 +97,16 @@ There may be times when you want to hear more or less punctuation than
 ChromeVox normally speaks. You may be writing in Google Docs, and so
 want to proofread your work. You may also be reading a book for
 pleasure, so don’t want to hear any punctuation at all. You can change
-punctuation settings by pressing **Search + A, then P**. Your options
+punctuation settings by pressing **Search + A, P**. Your options
 are "none," speaking no punctuation, "Some," speaking some less-used
 punctuation, and "All," speaking all punctuation.
 
-When you first get your Chromebook, ChromeVox will speak every
-character you type. This may be good in the beginning, when learning
-the new keyboard and system, but when you get used to it, the
-repeating, or echoing, of typed keys can be distracting. You can
-change how that works by pressing **Search + A, then T**. Your options
-are "characters," where ChromeVox speaks all of the letters, numbers,
-and symbols that you type, "Words," where ChromeVox speaks only when
+When you first get your Chromebook, ChromeVox will speak every key you
+type. This may be good in the beginning, when learning the new
+keyboard and system, but when you get used to it, the repeating, or
+echoing, of typed keys can be distracting. You can change how that
+works by pressing **Search + A, T**. Your options are
+"characters," where ChromeVox speaks all of the letters, numbers, and
+symbols that you type, "Words," where ChromeVox speaks only when
 you’ve finished typing a word, "Characters and words," where ChromeVox
 speaks both, and "Nothing," where ChromeVox speaks neither.
