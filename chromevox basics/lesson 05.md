@@ -1,41 +1,45 @@
-# Lesson 5: The ChromeVox menu
+# Lesson 5: Miscellaneous topics
 
 In Lesson 3, you learned how to move around a page by using keyboard
 commands, like Search + H for headings. In Lesson 2, you learned about
 using tabs and windows. In this lesson, you'll finish this course with
 even more information on navigating both of the afore mentioned parts
-of the Chromebook, and more.
+of the Chromebook, how to use the Context menu, finding out what’s new
+in ChromeVox, and getting help with
+ChromeVox and your Chromebook.
 
 ## The ChromeVox menu
 
 The ChromeVox menu is a menu which you can use to explore and move to
 many different parts of the Chromebook interface, even other tabs and
-windows that you have open. You can use this as an alternative to
+windows that you have open. You can also use this as an alternative to
 using keyboard commands to move around a page, if you find that
-easier.
+easier. the ChromeVox menu displays all of the keyboard commands you
+can use. There are a few items in these menus that are not in this
+guide, so that you can learn even more commands through using this menu.
 
 To open the ChromeVox menu, press **Search + . (period**. You’ll be
 placed in the "jump menu," where you can "jump" to an item type. use
 the Up and Down arrows to navigate this menu, or the Left and Right
 arrows to navigate to other menus, like the Speech or Tabs menu. Press
-Enter on a menu item to activate it, or Escape to exit this menu.
+**Enter** on a menu item to activate it, or **Escape** to exit this menu.
 
 ### The Jump menu
 
 Use this menu to find all keyboard commands related to jumping to the
 next or previous item on the page. You can use this as you are
-learning ChromeVox's keyboard commands. You can press Enter to
-activate the one you want, or Escape to cancel. For example, if you
-want to move to the next heading, find the "next heading" command, and
-press **Enter** to jump to it.
+learning ChromeVox's keyboard commands. You can press **Enter** to
+activate the one you want, or **Escape** to cancel. For example, if
+you want to move to the next heading, find the "next heading" command,
+and press **Enter** to jump to it.
 
 ### Speech menu
 
 This menu allows you to choose a speech command to activate, or just
 learn what the keyboard commands are. You can activate one with the
-Enter key, or go back to what you were doing before with the Escape
-key. For example, if you want ChromeVox to speak a little faster, find
-the "increase speech rate" command, and press **Enter**.
+**Enter** key, or go back to what you were doing before with the
+**Escape** key. For example, if you want ChromeVox to speak a little
+faster, find the "increase speech rate" command, and press **Enter**.
 
 ### Tabs menu
 
@@ -48,11 +52,16 @@ press **Escape** to be taken back to the page you’re on.
 
 This menu contains ChromeVox utilities, like the ChromeVox tutorial,
 keyboard help mode, and an option to open the ChromeVox options page.
+Be aware that there is also a command to turn off ChromeVox in this
+menu. To activate a command, for example to open the ChromeVox options
+page, find the command you want, and press **Enter**. To exit the menu
+without activating a command, press **Escape**.
 
 ### Actions
 
-This menu lists actions you can perform with your touch screen, if you
-have a Chromebook with this feature.
+This menu lists actions you can take on the item currently in focus,
+like "activate", or "start selection". You can activate one of these
+with **Enter**, or exit the menu with **Escape**.
 
 ### Items list
 
@@ -80,12 +89,12 @@ In some cases, there may be actions that you can perform on items:
 correcting a misspelled word, selecting an option in an app, and so
 on, that won’t work with the Enter key. These secondary actions are in
 the "context" menu, named because the items in this menu are different
-depending on the *context* or what you are doing.
+depending on the *context* of what you are doing.
 
 To open this menu, press **Search + M**. You’ll be given a list of
 actions you can take. To navigate the menu, use the Up and Down arrow
-keys, and **Enter** to choose an item. To exit the menu, use the **Escape**
-key.
+keys, and **Enter** to choose an item. To exit the menu, use the
+**Escape** key.
 
 ## Finding what’s new with ChromeVox
 
@@ -137,4 +146,4 @@ to use the Chromebook with the ChromeVox screen reader. We have given
 you information necessary to use the ChromeVox screen reader, from
 basic navigation, using the ChromeOS interface, to advanced topics.
 Don’t be afraid to ask questions, either from the Assistive Technology
-staff, the ChromeVox discussion group, or Google.
+instructors, the ChromeVox discussion group, or Google.
