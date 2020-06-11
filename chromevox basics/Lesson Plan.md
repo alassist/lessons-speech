@@ -2,7 +2,7 @@
 
 | Item | Requirement |
 | --- | --- |
-| Class time | 300 |
+| Class time (minutes) | 300 |
 | Intended Audience | Adult Learners |
 | Pre-requisite knowledge | Keyboarding |
 | Materials | Chromebook |
