@@ -6,7 +6,7 @@
 | Intended Audience | Adult Learners |
 | Pre-requisite knowledge | Keyboarding |
 | Materials | Chromebook |
-| Delivery medium | Online |
+| Delivery medium | Online and/or in person |
 
 ## Learning Outcomes
 
