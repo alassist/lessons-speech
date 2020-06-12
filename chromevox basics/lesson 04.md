@@ -1,4 +1,4 @@
-# Setting settings
+# Settings
 
 ChromeVox has many settings that can be adjusted. Some are in the ChromeVox settings page, while others can be set by using keyboard commands from anywhere. In this lesson, you’ll learn about how to change ChromeVox voice settings, use the ChromeVox options page, and set punctuation and typing echo.
 
