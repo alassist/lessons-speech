@@ -6,7 +6,7 @@ In Lesson 3, you learned how to move around a page by using keyboard commands, l
 
 The ChromeVox menu is a menu that you can use to explore and move to many different parts of the Chromebook interface, even other tabs, and windows that you have open. You can also use this as an alternative to using keyboard commands to move around a page if you find that easier. the ChromeVox menu displays all of the keyboard commands you can use. There are a few items in these menus that are not in this guide so that you can learn even more commands through using this menu.
 
-To open the ChromeVox menu, press **Search + . (period**. You’ll be placed in the "jump menu," where you can "jump" to an item type. use the Up and Down arrows to navigate this menu, or the Left and Right arrows to navigate to other menus, like the Speech or Tabs menu. Press **Enter** on a menu item to activate it, or **Escape** to exit this menu.
+To open the ChromeVox menu, press **Search + . (period)**. You’ll be placed in the "jump menu," where you can "jump" to an item type. use the Up and Down arrows to navigate this menu, or the Left and Right arrows to navigate to other menus, like the Speech or Tabs menu. Press **Enter** on a menu item to activate it, or **Escape** to exit this menu.
 
 ### The Jump menu
 
