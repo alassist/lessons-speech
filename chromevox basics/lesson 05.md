@@ -1,12 +1,12 @@
-# Lesson 5: Miscellaneous topics
+# Miscellaneous topics
 
-In Lesson 3, you learned how to move around a page by using keyboard commands, like Search + H for headings. In Lesson 2, you learned about using tabs and windows. In this lesson, you'll finish this course with even more information on navigating both of the afore mentioned parts of the Chromebook, how to use the Context menu, finding out what’s new in ChromeVox, and getting help with ChromeVox and your Chromebook.
+In Lesson 3, you learned how to move around a page by using keyboard commands, like Search + H for headings. In Lesson 2, you learned about using tabs and windows. In this lesson, you'll finish this course with even more information on navigating both of the aforementioned parts of the Chromebook, how to use the Context menu, finding out what’s new in ChromeVox, and getting help with ChromeVox and your Chromebook.
 
 ## The ChromeVox menu
 
-The ChromeVox menu is a menu which you can use to explore and move to many different parts of the Chromebook interface, even other tabs and windows that you have open. You can also use this as an alternative to using keyboard commands to move around a page, if you find that easier. the ChromeVox menu displays all of the keyboard commands you can use. There are a few items in these menus that are not in this guide, so that you can learn even more commands through using this menu.
+The ChromeVox menu is a menu that you can use to explore and move to many different parts of the Chromebook interface, even other tabs, and windows that you have open. You can also use this as an alternative to using keyboard commands to move around a page if you find that easier. the ChromeVox menu displays all of the keyboard commands you can use. There are a few items in these menus that are not in this guide so that you can learn even more commands through using this menu.
 
-To open the ChromeVox menu, press **Search + . (period**. You’ll be placed in the "jump menu," where you can "jump" to an item type. use the Up and Down arrows to navigate this menu, or the Left and Right arrows to navigate to other menus, like the Speech or Tabs menu. Press **Enter** on a menu item to activate it, or **Escape** to exit this menu.
+To open the ChromeVox menu, press **Search + . (period)**. You’ll be placed in the "jump menu," where you can "jump" to an item type. use the Up and Down arrows to navigate this menu, or the Left and Right arrows to navigate to other menus, like the Speech or Tabs menu. Press **Enter** on a menu item to activate it, or **Escape** to exit this menu.
 
 ### The Jump menu
 
@@ -22,7 +22,7 @@ This menu allows you to move to any tab you have open on the Chromebook. Find a 
 
 ### ChromeVox
 
-This menu contains ChromeVox utilities, like the ChromeVox tutorial, keyboard help mode, and an option to open the ChromeVox options page. Be aware that there is also a command to turn off ChromeVox in this menu. To activate a command, for example to open the ChromeVox options page, find the command you want, and press **Enter**. To exit the menu without activating a command, press **Escape**.
+This menu contains ChromeVox utilities, like the ChromeVox tutorial, keyboard help mode, and an option to open the ChromeVox options page. Be aware that there is also a command to turn off ChromeVox in this menu. To activate a command, for example, to open the ChromeVox options page, find the command you want, and press **Enter**. To exit the menu without activating a command, press **Escape**.
 
 ### Actions
 
@@ -62,14 +62,14 @@ To check what’s new in ChromeVox, press **Search + O, N**. This will open a pa
 
 If you need further help with ChromeVox or your Chromebook, there are many resources that can be of use. ChromeVox has a discussion email group which you can join, you can send feedback directly to ChromeVox’s developers, or search Google for general questions regarding your Chromebook.
 
-The ChromeVox discussion group is an email group for discussion about the usage of ChromeVox, and other Chromebook topics. To read about the discussion group and join it, see the [ChromeVox Discuss group](https://groups.google.com/forum/#!forum/chromevox-discuss).
+The ChromeVox discussion group is an email group for discussion about the usage of ChromeVox and other Chromebook topics. To read about the discussion group and join it, see the [ChromeVox Discuss group](https://groups.google.com/forum/#!forum/chromevox-discuss).
 
 To send feedback directly to the ChromeVox developers, press **Search + A, I**. You can give them feedback regarding bugs you’ve found, features you’d like to be added, or changes you’d like to see in ChromeVox or Chromebook accessibility.
 
-If you have general questions about the Chromebook, like which apps to use, manuals for your specific Chromebook, or more keyboard commands for the Chromebook, including ChromeVox commands, you can use Google to search for that information.
+If you have general questions about the Chromebook like which apps to use, manuals for your specific Chromebook, or more keyboard commands for the Chromebook, including ChromeVox commands, you can use Google to search for that information.
 
 To perform a Google search, open a new window with **Control + N**, type what you’re looking for, and press **Enter**. When the page loads, press **Search + H** until after you hear "Search Results." The heading after the Search results heading is where the search results begin. Any heading that is also a link is a search result that you can press **Enter** on to navigate to that page.
 
 ## Course Conclusion
 
-We hope that this ChromeVox course has been helpful to you in learning to use the Chromebook with the ChromeVox screen reader. We have given you information necessary to use the ChromeVox screen reader, from basic navigation, using the ChromeOS interface, to advanced topics. Don’t be afraid to ask questions, either from the Assistive Technology instructors, the ChromeVox discussion group, or Google.
+We hope that this ChromeVox course has been helpful to you in learning to use the Chromebook with the ChromeVox screen reader. We have given you the information necessary to use the ChromeVox screen reader, from basic navigation, using the ChromeOS interface, to advanced topics. Don’t be afraid to ask questions, either from the Assistive Technology instructors, the ChromeVox discussion group, or Google.

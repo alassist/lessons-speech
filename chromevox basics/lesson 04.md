@@ -1,6 +1,6 @@
-# Lesson 4: Setting settings
+# Settings
 
-ChromeVox has many settings which can be adjusted. Some are in the ChromeVox settings page, while others can be set by using keyboard commands from anywhere. In this lesson, you’ll learn about how to change ChromeVox voice settings, use the ChromeVox options page, and set punctuation and typing echo.
+ChromeVox has many settings that can be adjusted. Some are in the ChromeVox settings page, while others can be set by using keyboard commands from anywhere. In this lesson, you’ll learn about how to change ChromeVox voice settings, use the ChromeVox options page, and set punctuation and typing echo.
 
 ## Change ChromeVox voice settings
 
@@ -10,7 +10,7 @@ To speed up ChromeVox’s speech, press **Search + Left Bracket ([)**. To slow d
 
 ## Use the ChromeVox options page
 
-ChromeVox contains an options page, where you can set things like the voice ChromeVox uses, how much it speaks, and configure braille displays for use with ChromeVox. To open the settings page, press **Search + O, O**. The options you’ll find will be listed below, along with what they do. Use the Tab key to navigate among them, and use **Search + Space** to configure them. If a checkbox is checked, then the item is turned on, or enabled. If it is not checked, then the item is turned off, or disabled. Use arrow keys to choose an item in a popup list.
+ChromeVox contains an options page, where you can set things like the voice ChromeVox uses, how much it speaks, and configure braille displays for use with ChromeVox. To open the settings page, press **Search + O, O**. The options you’ll find will be listed below, along with what they do. Use the Tab key to navigate among them, and use **Search + Space** to configure them. If a checkbox is checked, then the item is turned on or enabled. If it is not checked, then the item is turned off, or disabled. Use arrow keys to choose an item in a popup list.
 
 <dl>
 <dt>Enable verbose descriptions</dt>

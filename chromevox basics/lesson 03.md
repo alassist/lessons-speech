@@ -1,14 +1,14 @@
-# Lesson 3: Moving around pages
+# Moving around pages
 
-Depending on your needs, ChromeVox may primarily be used on websites and web apps, or used with Android apps. In this lesson, you’ll learn how to move around a page. This includes reading the whole page one item at a time, reading by characters, words, and lines, moving to different types of items with a keyboard command, getting lists of items, and searching for items.
+Depending on your needs, ChromeVox may primarily be used on websites and web apps or used with Android apps. In this lesson, you’ll learn how to move around a page. This includes reading the whole page one item at a time, reading by characters, words, and lines, moving to different types of items with a keyboard command, getting lists of items, and searching for items.
 
 ## Reading item by item
 
 Using ChromeVox, you can read a page one item at a time. This is useful if you are just getting started with the screen reader, or if you are unfamiliar with the page you want to read.
 
-Items on a web page are sometimes called elements. They are things like paragraphs of text, a form that you can fill out, a link to take you to another location, or a button which can be pressed. To move to the next item, press **Search + Right Arrow**. To move to the previous item, press **Search + Left Arrow**.
+Items on a web page are sometimes called elements. They are things like paragraphs of text, a form that you can fill out, a link to take you to another location, or a button that can be pressed. To move to the next item, press **Search + Right Arrow**. To move to the previous item, press **Search + Left Arrow**.
 
-You can also move by character. A character is a letter, number, symbol, space, or new line. This is useful for learning how to spell something, like a name, that you find on a page. To move to the next character, press **Search + Shift + Right arrow**. To move to the previous character, use **Search + Shift + Left arrow**.
+You can also move by character. A character is a letter, number, symbol, space, or newline. This is useful for learning how to spell something, like a name, that you find on a page. To move to the next character, press **Search + Shift + Right arrow**. To move to the previous character, use **Search + Shift + Left arrow**.
 
 You can navigate by word, as well. This is useful to quickly navigate to the beginning of a place to navigate by character. To navigate forward by word, press **Search + Shift + Control + Right Arrow**. To move backward by word, use **Search + Control + Shift + Left Arrow**.
 
@@ -91,17 +91,17 @@ There may be times when you wish to get a list of all items of a certain type on
 Please perform the following steps to practice using item lists:
 
 1. Open a new window, and go to al.com.
-2. open a list of headings, and arrow down through the list.
+2. open a list of headings and arrow down through the list.
 3. Press **Escape** to close the list.
 4. Open a list of links, and arrow down the list.
 5. Press **Enter** on any link.
 6. Press **Control + W** to close the window.
 
-Now, you’ve experienced using lists of items. This can be useful if you already know what you’re looking for, and know the type of item that you want to find.
+Now, you’ve experienced using lists of items. This can be useful if you already know what you’re looking for and know the type of item that you want to find.
 
 ## Searching for an item
 
-Rather than using a list of items, you may want to move directly to an item you’re looking for. This is useful if you know the name of what you’re looking for, so you don’t need to move using more manual means. This can make browsing the web very quick.
+Rather than using a list of items, you may want to move directly to an item you’re looking for. This is useful if you know the name of what you’re looking for, so you don’t need to move using more manual means. This can make browsing the web very quickly.
 
 To search for an item, press **Search + / (slash**. Type what you want to find, and press **Enter**. ChromeVox will place focus on that item. Note that the text you enter must match an item on the page, so it must be an exact few letters, words, or a phrase.
 
