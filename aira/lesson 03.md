@@ -1,6 +1,6 @@
 # Using the AIRA app
 
-This lesson will focus on using the AIRA app. You may use AIRA on an Android phone or an iPhone, and with or without the AIRA Horizon phone or glasses.
+This lesson will focus on using the AIRA app. You may use AIRA on an Android phone or an iPhone.
 
 # The Tab list
 
@@ -9,7 +9,6 @@ The tab list is a constant part of the application, and contains the following o
 ## For iOS
 
 -   Home
--   My Glass
 -   Live
 -   Usage
 -   More
@@ -22,7 +21,6 @@ Android users move through the app using the navigation button which, when activ
 
 -   Your profile information
 -   Home
--   My Glass
 -   Usage
 -   Referral
 -   Minute Sharing
@@ -41,7 +39,6 @@ The “Home” tab is where you call an AIRA agent from. The options, in order, 
 ## For iOS
 
 -   Selected profile, for employee accounts
--   Glass
 -   Phone
 -   Search and Apply a free offer
 -   Call AIRA from phone
@@ -52,7 +49,6 @@ The “Home” tab is where you call an AIRA agent from. The options, in order, 
 
 -   Open Navigation
 -   Home
--   Glass
 -   Phone
 -   Search & Apply a Free Offer
 -   Call AIRA
@@ -92,21 +88,17 @@ In the call screen, you have the following items:
 
 After the call ends, you’ll be able to give feedback on the call. If you don’t want to, just double-tap the cancel button or “skip feedback.”
 
-# The glass tab
-
-The glass tab allows you to manage your AIRA glasses. This will be covered in more detail later.
-
 # The Live tab
 
 This feature, currently for iOS only, allows subscribed AIRA explorers to start their own live audio streams. This allows them to show others what they can do with AIRA. To begin a live stream, simply connect with an AIRA agent, and, when ready, tell the agent that you’d like to go live. The agent will ask if you’d like to make it public or private and to name the live session. To view the live stream, the viewer must have the AIRA app installed.
 
 # The Usage tab
 
-The “usage” tab allows you to view usage statistics about your account, rate AIRA agents, see how many minutes you have left in your plan, purchase more minutes, if needed, and review call history.
+The “Usage” tab allows you to view usage statistics about your account, rate AIRA agents, see how many minutes you have left in your plan, purchase more minutes, if needed, and review call history.
 
 # The More tab
 
-In the “more” tab, you can manage your profile, view photos taken by agents while on calls, set up ride-sharing integration, refer friends, purchase minutes, share minutes, change AIRA access settings, turn on messaging support, enable Siri integration, read the help center, explorer guide, get help over the phone, or log out of your account.
+In the “More” tab, you can manage your profile, view photos taken by agents while on calls, set up ride-sharing integration, refer friends, purchase minutes, share minutes, change AIRA access settings, turn on messaging support, enable Siri integration, read the help center, explorer guide, get help over the phone, or log out of your account.
 
 # Using AIRA with Teamviewer
 
