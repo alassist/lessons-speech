@@ -2,7 +2,7 @@
 
 You can navigate the Chromebook using the keyboard. You’ve already seen this in using the keyboard help mode in the first lesson. Although not part of ChromeVox, the Chromebook has its own set of commands that can you can use to navigate the system. ChromeVox works alongside these commands, to speak the result of the navigation.
 
-In this lesson, you’ll learn about keyboard focus, navigating with the Tab key, opening, and closing windows and tabs, and accessing the "Shelf" and "status tray." These features of the Chromebook may seem trivial now, but in conjunction with faster navigation techniques presented in the next lesson, you’ll find that each command will be useful in different situations.
+In this lesson, you’ll learn about keyboard focus, navigating with the Tab key, opening, and closing windows and tabs, and accessing the “Shelf” and “status tray.” These features of the Chromebook may seem trivial now, but in conjunction with faster navigation techniques presented in the next lesson, you’ll find that each command will be useful in different situations.
 
 ## Keyboard focus
 
@@ -18,7 +18,7 @@ To move backward, the opposite of Tab, use **Shift + Tab**. This command also wi
 
 ## Using windows and tabs
 
-The Chromebook allows you to not only open one page or app at a time. You can have many different tabs or windows open. Windows are entire screens of information, whereas tabs are like smaller windows within a window. This allows you, for example, to write a document in one window, with research for that document in another tab of that window, while keeping up with email in another window. Note that a Tab, in the sense of multitasking, is not the same as using the tab key to "tab" through items. This ability to "multitask" makes using a computer more efficient and powerful.
+The Chromebook allows you to not only open one page or app at a time. You can have many tabs or windows open. Windows are entire screens of information, whereas tabs are like smaller windows within a window. This allows you, for example, to write a document in one window, with research for that document in another tab of that window, while keeping up with email in another window. Note that a Tab, in the sense of multitasking, is not the same as using the tab key to “tab” through items. This ability to “multitask” makes using a computer more efficient and powerful.
 
 The use of tabs and windows is up to the user. You could have everything in a separate window if that is easier for you. You could have everything in tabs to keep down the use of many windows. Or, you can group things by activity, having separate windows for separate parts of work or home life. Any way you choose, the Chromebook is flexible.
 
@@ -52,18 +52,18 @@ Use the following keyboard commands to work with windows and tabs:
 </p>
 </aside>
 
-When you open a new tab or window, you are immediately placed into the address, or location, edit field. This area is for telling your Chromebook where you want to go. You can type in an address to visit, like "https://www.alassist.us", or search the web, like "assistive technology". You need not type quote marks into the location bar for searching the web, and should not use quotes when typing a web address. When you’ve finished typing, press **Enter**, and either the page you entered the address to, or search results will appear. You will learn how to navigate these pages in the next lesson.
+When you open a new tab or window, you are immediately placed into the address, or location, edit field. This area is for telling your Chromebook where you want to go. You can type in an address to visit, like “https://www.alassist.us”, or search the web, like “assistive technology”. You need not type quote marks into the location bar for searching the web, and should not use quotes when typing a web address. When you’ve finished typing, press **Enter**, and either the page you entered the address to, or search results will appear. You will learn how to navigate these pages in the next lesson.
 
-To close a tab or window, use **Control + W**. ChromeVox will play a sound and place you on the tab or window that you were in before the one you closed. If you are already on a page, and you want to go to a new site, or start a new search, without leaving the current tab or window, press **Control + L**, for "location".
+To close a tab or window, use **Control + W**. ChromeVox will play a sound and place you on the tab or window that you were in before the one you closed. If you are already on a page, and you want to go to a new site, or start a new search, without leaving the current tab or window, press **Control + L**, for “location”.
 
 ### Exercise: Opening and closing a window
 
 Please perform the following steps to practice opening and closing a window:
 
 1. Open a new window, with **Control + N**.
-2. Type "al.com" without the quotes, and press **Enter**.
+2. Type “al.com” without the quotes, and press **Enter**.
 3. Press **Control + N** again to create another window.
-4. Type "Alabama news" without the quotes, and press **Enter**.
+4. Type “Alabama news” without the quotes, and press **Enter**.
 5. press **Control + W** to close that window.
 6. Press **Control + W** again to close the first new window.
 
@@ -80,17 +80,17 @@ To access the Shelf, press **Alt + Shift + L**. To navigate the items on the She
 Please perform the following steps to practice using the shelf:
 
 1. Move to the shelf with **Alt + Shift + L**.
-2. Arrow to "Gmail," and press **Enter**.
+2. Arrow to “Gmail,” and press **Enter**.
 3. Close the Gmail tab with **Control + W**.
-4. Move back to the Shelf, and find the "Launcher" item.
+4. Move back to the Shelf, and find the “Launcher” item.
 5. Open the Launcher with **Enter**.
-6. Find the "Files" app, and press **Enter** to open it.
+6. Find the “Files” app, and press **Enter** to open it.
 7. Close the files app with **Control + W**.
 Now you should be able to use the Shelf to open frequently used apps, and the launcher to navigate and open any app you have on your Chromebook.
 
 ## Accessing the status tray
 
-The "Status Tray" is an area of the Chromebook screen that displays status information, and allows you to manage certain hardware functions like wireless networking, sound volume, and screen brightness, without needing to enter Chrome's settings.
+The “Status Tray” is an area of the Chromebook screen that displays status information, and allows you to manage certain hardware functions like wireless networking, sound volume, and screen brightness, without needing to enter Chrome's settings.
 
 To access this information, press **Alt + Shift + S**. You will hear information right away, like the current time, battery power, and Internet signal. You can Tab around to find controls for turning on and off networking functions, adjust the brightness of your screen and volume of your speakers or headphones, and to shut down the Chromebook, restart it, or sign out of the current user. If you don’t want to use any of the controls on the status tray, press **Escape**.
 
@@ -100,8 +100,8 @@ Please perform the following steps to practice using the status tray:
 
 1. Press **Alt + Shift + S** to move to the status tray.
 2. Note how much battery power you have left.
-3. Tab to "Airplane mode" and make sure to turn it off.
-4. Find the "shut down" button.
+3. Tab to “Airplane mode” and make sure to turn it off.
+4. Find the “shut down” button.
 5. Press **Escape** to exit the Status Tray. Do not press the shut down button.
 
 Now, you know how to use the status tray to get status information on the time, battery level, and other information, check network functions, and you know where to go to shut down the computer.

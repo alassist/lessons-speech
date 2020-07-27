@@ -4,17 +4,17 @@ In Lesson 3, you learned how to move around a page by using keyboard commands, l
 
 ## The ChromeVox menu
 
-The ChromeVox menu is a menu that you can use to explore and move to many different parts of the Chromebook interface, even other tabs, and windows that you have open. You can also use this as an alternative to using keyboard commands to move around a page if you find that easier. the ChromeVox menu displays all of the keyboard commands you can use. There are a few items in these menus that are not in this guide so that you can learn even more commands through using this menu.
+The ChromeVox menu is a menu that you can use to explore and move to manyparts of the Chromebook interface, even other tabs, and windows that you have open. You can also use this as an alternative to using keyboard commands to move around a page if you find that easier. The ChromeVox menu displays all the keyboard commands you can use. There are a few items in these menus that are not in this guide so that you can learn even more commands through using this menu.
 
-To open the ChromeVox menu, press **Search + . (period)**. You’ll be placed in the "jump menu," where you can "jump" to an item type. use the Up and Down arrows to navigate this menu, or the Left and Right arrows to navigate to other menus, like the Speech or Tabs menu. Press **Enter** on a menu item to activate it, or **Escape** to exit this menu.
+To open the ChromeVox menu, press **Search + . (period)**. You’ll be placed in the “jump menu,” where you can “jump” to an item type. Use the Up and Down arrows to navigate this menu, or the Left and Right arrows to navigate to other menus, like the Speech or Tabs menu. Press **Enter** on a menu item to activate it, or **Escape** to exit this menu.
 
 ### The Jump menu
 
-Use this menu to find all keyboard commands related to jumping to the next or previous item on the page. You can use this as you are learning ChromeVox's keyboard commands. You can press **Enter** to activate the one you want, or **Escape** to cancel. For example, if you want to move to the next heading, find the "next heading" command, and press **Enter** to jump to it.
+Use this menu to find all keyboard commands related to jumping to the next or previous item on the page. You can use this as you are learning ChromeVox's keyboard commands. You can press **Enter** to activate the one you want, or **Escape** to cancel. For example, if you want to move to the next heading, find the “next heading” command, and press **Enter** to jump to it.
 
 ### Speech menu
 
-This menu allows you to choose a speech command to activate, or just learn what the keyboard commands are. You can activate one with the **Enter** key, or go back to what you were doing before with the **Escape** key. For example, if you want ChromeVox to speak a little faster, find the "increase speech rate" command, and press **Enter**.
+This menu allows you to choose a speech command to activate, or just learn what the keyboard commands are. You can activate one with the **Enter** key, or go back to what you were doing before with the **Escape** key. For example, if you want ChromeVox to speak a little faster, find the “increase speech rate” command, and press **Enter**.
 
 ### Tabs menu
 
@@ -26,7 +26,7 @@ This menu contains ChromeVox utilities, like the ChromeVox tutorial, keyboard he
 
 ### Actions
 
-This menu lists actions you can take on the item currently in focus, like "activate", or "start selection". You can activate one of these with **Enter**, or exit the menu with **Escape**.
+This menu lists actions you can take on the item currently in focus, like “activate”, or “start selection”. You can activate one of these with **Enter**, or exit the menu with **Escape**.
 
 ### Items list
 
@@ -48,13 +48,13 @@ the page</dd>
 
 ## The Context menu
 
-In some cases, there may be actions that you can perform on items: correcting a misspelled word, selecting an option in an app, and so on, that won’t work with the Enter key. These secondary actions are in the "context" menu, named because the items in this menu are different depending on the *context* of what you are doing.
+In some cases, there may be actions that you can perform on items: correcting a misspelled word, selecting an option in an app, and so on, that won’t work with the Enter key. These secondary actions are in the “context” menu, named because the items in this menu are different depending on the *context* of what you are doing.
 
 To open this menu, press **Search + M**. You’ll be given a list of actions you can take. To navigate the menu, use the Up and Down arrow keys, and **Enter** to choose an item. To exit the menu, use the **Escape** key.
 
 ## Finding what’s new with ChromeVox
 
-Your Chromebook gets updated often, and so does ChromeVox. Almost monthly, a new version of the ChromeOS operating system, the software that all of your apps and web activity runs on top of, is updated whenever possible. Along with general fixes, ChromeVox is also updated with new features and bug fixes.
+Your Chromebook gets often updated, and so does ChromeVox. Almost monthly, a new version of the ChromeOS operating system, the software that all of your apps and web activity runs on top of, is updated whenever possible. Along with general fixes, ChromeVox is also updated with new features and bug fixes.
 
 To check what’s new in ChromeVox, press **Search + O, N**. This will open a page detailing the changes and fixes to ChromeVox. You can navigate this page as you would any other page on the Internet. To exit this page, use **Control + W** to close the tab or window.
 
@@ -68,7 +68,7 @@ To send feedback directly to the ChromeVox developers, press **Search + A, I**. 
 
 If you have general questions about the Chromebook like which apps to use, manuals for your specific Chromebook, or more keyboard commands for the Chromebook, including ChromeVox commands, you can use Google to search for that information.
 
-To perform a Google search, open a new window with **Control + N**, type what you’re looking for, and press **Enter**. When the page loads, press **Search + H** until after you hear "Search Results." The heading after the Search results heading is where the search results begin. Any heading that is also a link is a search result that you can press **Enter** on to navigate to that page.
+To perform a Google search, open a new window with **Control + N**, type what you’re looking for, and press **Enter**. When the page loads, press **Search + H** until after you hear “Search Results.” The heading after the Search results heading is where the search results begin. Any heading that is also a link is a search result that you can press **Enter** on to navigate to that page.
 
 ## Course Conclusion
 

@@ -25,7 +25,7 @@ finishes loading or not.</dd>
 under the mouse pointer if you move the mouse. This will only be useful for someone with low vision.</dd>
 <dt>When reading capitals:</dt>
 <dd>This pop up allows you to choose if you want ChromeVox to say
-"cap" or raise the speech pitch when reading capital letters. Use the
+“cap” or raise the speech pitch when reading capital letters. Use the
 arrow keys to choose an option.</dd>
 <dt>Announce download notifications</dt>
 <dd>This checkbox tells ChromeVox whether it should announce the
@@ -70,8 +70,8 @@ developers, for logging ChromeVox’s reaction on websites.</dd>
 
 ## Setting punctuation and typing echo
 
-ChromeVox has a few other settings that can be changed outside of the Options page. These are the typing echo and punctuation settings. These can be set anywhere, so you can use different settings at different times, easily.
+ChromeVox has a few other settings that can be changed outsidethe Options page. These are the typing echo and punctuation settings. These can be set anywhere, so you can use different settings at different times, easily.
 
-There may be times when you want to hear more or less punctuation than ChromeVox normally speaks. You may be writing in Google Docs, and so want to proofread your work. You may also be reading a book for pleasure, so don’t want to hear any punctuation at all. You can change punctuation settings by pressing **Search + A, P**. Your options are "none," speaking no punctuation, "Some," speaking some less-used punctuation, and "All," speaking all punctuation.
+There may be times when you want to hear more or less punctuation than ChromeVox normally speaks. You may be writing in Google Docs, and so want to proofread your work. You may also be reading a book for pleasure, so don’t want to hear any punctuation at all. You can change punctuation settings by pressing **Search + A, P**. Your options are “none,” speaking no punctuation, “Some,” speaking some less-used punctuation, and “All,” speaking all punctuation.
 
-When you first get your Chromebook, ChromeVox will speak every key you type. This may be good in the beginning, when learning the new keyboard and system, but when you get used to it, the repeating, or echoing, of typed keys can be distracting. You can change how that works by pressing **Search + A, T**. Your options are "characters," where ChromeVox speaks all of the letters, numbers, and symbols that you type, "Words," where ChromeVox speaks only when you’ve finished typing a word, "Characters and words," where ChromeVox speaks both, and "Nothing," where ChromeVox speaks neither.
+When you first get your Chromebook, ChromeVox will speak every key you type. This may be good in the beginning, when learning the new keyboard and system, but when you get used to it, the repeating, or echoing, of typed keys can be distracting. You can change how that works by pressing **Search + A, T**. Your options are “characters,” where ChromeVox speaks all the letters, numbers, and symbols that you type, “Words,” where ChromeVox speaks only when you’ve finished typing a word, “Characters and words,” where ChromeVox speaks both, and “Nothing,” where ChromeVox speaks neither.
