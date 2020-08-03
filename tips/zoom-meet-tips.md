@@ -1,6 +1,9 @@
 # Tips for using Zoom and Google Meet
 
-This page will overview tips and tricks for using the Zoom and Google Meet video conferencing programs. We use these programs during class meetings, and other instructors may use them as well, so it is important that students be able to use these programs effectively.
+This page will overview tips and tricks for using the Zoom and Google Meet video
+conferencing programs. We use these programs during class meetings, and other
+instructors may use them as well, so it is important that students be able to
+use these programs effectively.
 
 This page will give tips on using Google Meet and Zoom, including keyboard commands. At the end of the article will be links to learn more.
 
@@ -19,7 +22,7 @@ Google Meet is the video conferencing service from Google. It allows many people
 
 ### Using the app
 
-When you start the Google Meet app for the first time, you may be asked to sign into a Google account. If you’ve already signed into Gmail or another Google app, you’ll be able to simply select the account (double tap it for VoiceOver users) and continue. Allow Google Meet to access your microphone and camera, and send you notifications if it asks, and you should be at the main interface.
+When you start the Google Meet app for the first time, you may be asked to sign in to a Google account. If you’ve already signed into Gmail or another Google app, you’ll be able to simply select the account (double tap it for VoiceOver users) and continue. Allow Google Meet to access your microphone and camera, and send you notifications if it asks, and you should be at the main interface.
 
 When you get to the main interface – you’ll know by seeing the menu button or “navigation” button – you’ll find your list of meetings for the day. Here, you can also turn off your microphone or camera before you enter a meeting. You can also create a new meeting, or join a meeting with a meeting code. If you want to schedule a meeting, you’ll have to do that through Google Calendar.
 
@@ -48,7 +51,7 @@ Zoom is a video conferencing program that has a few more features, but can be mo
 
 ### Using the app
 
-Zoom is a complex app, and we encourage you, as always, to explore, and don’t be afraid to try things. With the Zoom app, you can schedule, join, or start a meeting. The Zoom app is accessible with screen readers. Usually, invitations to Zoom meetings are sent through Email, so you can open a link and be taken to the meeting. 
+Zoom is a complex app, and we encourage you, as always, to explore, and don’t be afraid to try things. With the Zoom app, you can schedule, join, or start a meeting. The Zoom app is accessible with screen readers. Usually, invitations to Zoom meetings are sent through Email, so you can open a link and be taken to the meeting.
 
 Once you’ve joined a meeting, you can mute and unmute your microphone, turn on and off your video, and raise and lower your hand. When you join a Zoom meeting, your microphone is muted. You will be told when participants join or leave the meeting. You can leave the meeting using the “leave” button.
 
