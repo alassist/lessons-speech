@@ -1,32 +1,11 @@
 Navigating through objects
 ==========================
 
-NVDA has a navigation method which navigates through the objects, or
-items, on the screen. Objects are items on the screen, like boxes to
-type into, lists of items, a table, or a group of radio buttons. These
-items can usually be interacted with using the system focus, but sometimes
-cannot be.
+NVDA has a navigation method which navigates through the objects, or items, on the screen. Objects are items on the screen, like boxes to type into, lists of items, a table, or a group of radio buttons. These items can usually be interacted with using the system focus, but sometimes cannot be.
 
-Using object navigation, the Windows screen is shown in a tree, or
-list. This means that at the top is one item, the root of the tree,
-followed, below, by the items inside that list, or sublist, or the
-branches on the tree. Lists may have items inside them, being the list
-items. Tables have inside them the cells of that table, and inside the
-cells is the text of the cell.
+Using object navigation, the Windows screen is shown in a tree, or list. This means that at the top is one item, the root of the tree, followed, below, by the items inside that list, or sublist, or the branches on the tree. Lists may have items inside them, being the list items. Tables have inside them the cells of that table, and inside the cells is the text of the cell.
 
-Rather than having to move back and forth between every single object
-on the system, however, the objects are organized hierarchically. This
-means that some objects contain other objects, and you must move
-inside them to access the objects they contain. For example, a list
-contains list items, so you must move inside the list in order to
-access its items. If you have moved to a list item, moving to the next
-and previous item will take you to other list items in the same list.
-Moving to a list item's containing object will take you back to the
-list. You can then move past the list if you wish to access other
-objects. Similarly, a toolbar contains controls, so you must move
-inside the toolbar to access the controls in the toolbar. You can
-review text inside the objects using the text review commands learned
-in the previous lesson.
+Rather than having to move back and forth between every single object on the system, however, the objects are organized hierarchically. This means that some objects contain other objects, and you must move inside them to access the objects they contain. For example, a list contains list items, so you must move inside the list in order to access its items. If you have moved to a list item, moving to the next and previous item will take you to other list items in the same list. Moving to a list item's containing object will take you back to the list. You can then move past the list if you wish to access other objects. Similarly, a toolbar contains controls, so you must move inside the toolbar to access the controls in the toolbar. You can review text inside the objects using the text review commands learned in the previous lesson.
 
 To navigate by object, use the following commands:
 
@@ -114,26 +93,18 @@ To navigate by object, use the following commands:
 </tbody>
 </table>
 
-
 Activity
 --------
 
 Follow these steps to familiarize yourself with object navigation.
 Please read the instructions before performing the steps.
 
-* Press **Windows + R** to open a dialog box for entering a command to
-  run.
-* Type “winver” without the quotation marks. Be sure to type the
-  command exactly as shown.
-* Use object navigation to move to the “previous” item, and until you
-  find the version of Windows you are running.
-* Copy this information by using **Insert + F9** to mark the start of
-  the text, moving with text review to the end of the line, and
-  pressing **Insert + F10** twice quickly to copy the text to the
-  clipboard.
+* Press **Windows + R** to open a dialog box for entering a command to run.
+* Type “winver” without the quotation marks. Be sure to type the command exactly as shown.
+* Use object navigation to move to the “previous” item, and until you find the version of Windows you are running.
+* Copy this information by using **Insert + F9** to mark the start of the text, moving with text review to the end of the line, and pressing **Insert + F10** twice quickly to copy the text to the clipboard.
 * Press **Escape** to close the dialog box.
 * Press **Windows + R** again.
 * Type “notepad” without the quotes, and press **Enter** afterwards.
-* Press **Control + V** to paste the information copied from the
-  Windows Version dialog box
+* Press **Control + V** to paste the information copied from the Windows Version dialog box
 * Press **Alt + F4** to close notepad, and choose not to save the file.

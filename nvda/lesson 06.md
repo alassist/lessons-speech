@@ -1,21 +1,14 @@
 Reviewing Text with NVDA
 ========================
 
-Sometimes, using the arrow keys to read text isn’t what you want, or
-can do, to review text in the program you’re in. Othertimes, you may
-wish to review text on another line than the one you’re on, without
-moving from the spot which your cursor is on.
+Sometimes, using the arrow keys to read text isn’t what you want, or can do, to review text in the program you’re in. Othertimes, you may wish to review text on another line than the one you’re on, without moving from the spot which your cursor is on.
 
-NVDA provides a mechanism for reviewing the current control, web page,
-document, or text area. This is called the Review Cursor, and is
-different from the Windows text cursor which you use with the Arrow
-keys. 
+NVDA provides a mechanism for reviewing the current control, web page, document, or text area. This is called the Review Cursor, and is different from the Windows text cursor which you use with the Arrow keys.
 
 Review Cursor Keys
 ==================
 
-The following table contains NVDA functions, and the ways to use them,
-either through a Desktop keyboard, laptop keyboard, or touch screen.
+The following table contains NVDA functions, and the ways to use them, either through a Desktop keyboard, laptop keyboard, or touch screen.
 
 <table>
 <colgroup>
@@ -197,7 +190,6 @@ either through a Desktop keyboard, laptop keyboard, or touch screen.
 </tr>
 </tbody>
 </table>
-
 
 Review modes
 ------------

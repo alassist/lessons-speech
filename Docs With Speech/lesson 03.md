@@ -1,68 +1,112 @@
 ### Creating new files
 
-Google Drive gives you access to a suite of tools that allows you to **create** and **edit** a variety of files, including **documents**, **spreadsheets**, and **presentations**. There are five types of files you can create on Google Drive:
+Google Drive gives you access to a suite of tools that allows you to
+**create** and **edit** a variety of files, including **documents**,
+**spreadsheets**, and **presentations**. There are five types of files
+you can create on Google Drive:
 
--   ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/docs.png) **Documents: **For composing letters, flyers, essays, and other text-based files (similar to Microsoft Word documents)
--   ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/sheets.png) **Spreadsheets: **For storing and organizing information (similar to Microsoft Excel workbooks)
--   ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/slides.png) **Presentations:** For creating slideshows (similar to Microsoft PowerPoint presentations)
--   ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/forms.png) **Forms: **For collecting and organizing data
--   ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/drawings.png) **Drawings:** For creating simple vector graphics or diagrams
+-
+    ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/docs.png)
+    **Documents: **For composing letters, flyers, essays, and other
+    text-based files (similar to Microsoft Word documents)
+-
+    ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/sheets.png)
+    **Spreadsheets: **For storing and organizing information (similar
+    to Microsoft Excel workbooks)
+-
+    ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/slides.png)
+    **Presentations:** For creating slideshows (similar to Microsoft
+    PowerPoint presentations)
+-
+    ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/forms.png)
+    **Forms: **For collecting and organizing data
+-
+    ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/drawings.png)
+    **Drawings:** For creating simple vector graphics or diagrams
 
-The process for **creating new files** is the same for all file types. Watch the video below to learn more.
+The process for **creating new files** is the same for all file types.
+Watch the video below to learn more.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/cMRBv3BrU_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### To create a new file:
 
-1. From Google Drive, locate and select the **New** button, then choose the type of file you want to create. In our example, we'll select **Google Docs** to create a new **document**.
+1. From Google Drive, locate and select the **New** button, then
+   choose the type of file you want to create. In our example, we'll
+   select **Google Docs** to create a new **document**.
 
-![][1]
+	![][1]
 
-2. Your **new file** will appear in a **new tab** on your browser. Locate and select **Untitled document** in the upper-left corner.
+2. Your **new file** will appear in a **new tab** on your browser.
+   Locate and select **Untitled document** in the upper-left corner.
+   Press **Control + Tab** to reach the untitled document tab. Press
+   **Alt + F** in Google Chrome, or **Alt + Shift + F** in other
+   browsers, and select “rename”.
 
-![Selecting Untitiled Document. ][2]
+	![Selecting Untitled Document. ][2]
 
-3. The **Rename** dialog box will appear. Type a **name** for your file, then click **OK**.
+3. The **Rename** dialog box will appear. Type a **name** for your
+   file, then click **OK**. For keyboard users, just type the name and
+   press **Enter**.
 
-![Typing a new name.][3]
+	![Typing a new name.][3]
 
-4. Your file will be **renamed**. You can access the file at any time from your Google Drive, where it will be **saved **automatically. Simply double-click to open the file again.
+4. Your file will be **renamed**. You can access the file at any time
+   from your Google Drive, where it will be **saved**automatically.
+   simply navigate to it and press **Enter** to open it.
 
-![][4]
+	![][4]
 
-You may notice that there is no **Save** button for your files. This is because Google Drive uses **autosave**, which automatically and immediately saves your files as you edit them.
+You may notice that there is no **Save** button for your files. This
+is because Google Drive uses **autosave**, which automatically and
+immediately saves your files as you edit them.
 
-![All changes saved.][5]
+	![All changes saved.][5]
 
 ### Using templates
 
-A **template** is a pre-designed file you can use to quickly create new documents. Templates often include **custom formatting** and **designs**, so they can save you a lot of time and effort when starting a new project. Most templates are designed to help you create specific types of files. For instance, you could use a template to quickly create a **resume** or **newsletter**.
+A **template** is a pre-designed file you can use to quickly create
+new documents. Templates often include **custom formatting** and
+**designs**, so they can save you a lot of time and effort when
+starting a new project. Most templates are designed to help you create
+specific types of files. For instance, you could use a template to
+quickly create a **resume** or **newsletter**.
 
-![Document template example.][6]
+	![Document template example.][6]
 
-You can find a wide selection of templates in the [Google Drive Template Gallery][7]. Unfortunately, we've found that many of these templates aren't very well designed, and it's often difficult to find specific templates within the gallery. For this reason, we recommend using templates made by Google, which tend to be of higher quality than user-submitted templates.
+You can find a wide selection of templates in the [Google Drive
+Template Gallery][7]. Unfortunately, we've found that many of these
+templates aren't very well designed, and it's often difficult to find
+specific templates within the gallery. For this reason, we recommend
+using templates made by Google, which tend to be of higher quality
+than user-submitted templates.
 
 #### To use an official Google template:
 
-1. Navigate to the [template gallery][8]****.
+1. Navigate to the [template gallery][8].
 
-![][9]
+	![][9]
 
-2. When you've found a template you want to use, click **the template** to select it. 
+2. When you've found a template you want to use, click **the
+   template** to select it.
 
-![][10]
+	![][10]
 
-3. A new file will be created with the selected template. You can then customize the file with your own information.
+3. A new file will be created with the selected template. You can then
+   customize the file with your own information.
 
-![Template applied to document. ][11]
+	![Template applied to document. ][11]
 
 ### Challenge!
 
-1. Make sure you're signed in to Google, and open the [Google Drive Template Gallery][7].
+1. Make sure you're signed in to Google, and open the [Google Drive
+   Template Gallery][7].
 2. Find a template and select **Use this template**.
 3. **Rename** the file.
-4. Try **going back to your Google Drive** to see that your new file has been added.
-5. If you're on a desktop computer, **add** a file from your computer to your Google Drive.
+4. Try **going back to your Google Drive** to see that your new file
+   has been added.
+5. If you're on a desktop computer, **add** a file from your computer
+   to your Google Drive.
 
 [1]: https://media.gcflearnfree.org/content/55e069711496fdb039ceeed2_01_17_2014/creating-new-doc.jpg
 [2]: https://media.gcflearnfree.org/content/55e069711496fdb039ceeed2_01_17_2014/rename-doc.jpg "Selecting Untitiled Document. "
