@@ -2,11 +2,11 @@
 
 Google Drive gives you access to a suite of tools that allows you to create and edit a variety of files, including documents, spreadsheets, and presentations. There are five types of files you can create on Google Drive:
 
-- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/docs.png) **Documents:** For composing letters, flyers, essays, and other text-based files (similar to Microsoft Word documents)
-- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/sheets.png) **Spreadsheets:** For storing and organizing information (similar to Microsoft Excel workbooks)
-- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/slides.png) **Presentations:** For creating slideshows (similar to Microsoft PowerPoint presentations)
-- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/forms.png) **Forms:** For collecting and organizing data
-- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/drawings.png) **Drawings:** For creating simple vector graphics or diagrams
+- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/docs.png) **Documents**: For composing letters, flyers, essays, and other text-based files (similar to Microsoft Word documents)
+- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/sheets.png) **Spreadsheets**: For storing and organizing information (similar to Microsoft Excel workbooks)
+- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/slides.png) **Presentations**: For creating slideshows (similar to Microsoft PowerPoint presentations)
+- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/forms.png) **Forms**: For collecting and organizing data
+- ![](https://media.gcflearnfree.org/content/55e0696e1496fdb039ceeecf_01_17_2014/drawings.png) **Drawings**: For creating simple vector graphics or diagrams
 
 The process for creating new files is the same for all file types. Watch the video below to learn more.
 
@@ -19,7 +19,7 @@ The process for creating new files is the same for all file types. Watch the vid
 
   ![][1]
 
-2. Your new file will appear in a new tab on your browser. Locate and select "Untitled document" in the upper-left corner. Press **Control + Tab** to reach the untitled document tab. Press **Alt + F** in Google Chrome, or **Alt + Shift + F** in other browsers, and select "rename."
+2. Your new file will appear in a new tab on your browser. Press **Control + Tab** to reach the untitled document tab. Press **Alt + F** in Google Chrome, or **Alt + Shift + F** in other browsers, and select "rename."
 
   ![Selecting Untitled Document.][2]
 
@@ -45,11 +45,11 @@ You can find a wide selection of templates in the [Google Drive Template Gallery
 
 ## To use an official Google template:
 
-1. Navigate to the [template gallery][8].
+1. Tab to the "create document" button, and press **Enter**. Find the [template gallery][8] button and press _*Enter_ to open it.
 
   ![][9]
 
-2. When you've found a template you want to use, click the template to select it.
+2. Templates are grouped into lists. Tab through the categories, and use arrow keys to select a template. When you've found a template you want to use, press **Enter** on it.
 
   ![][10]
 
@@ -60,7 +60,7 @@ You can find a wide selection of templates in the [Google Drive Template Gallery
 # Challenge!
 
 1. Make sure you're signed in to Google, and open the [Google Drive Template Gallery][7].
-2. Find a template and select "Use this template."
+2. Find a template and press **Enter** on it to create a new file with that template.
 3. Rename the file.
 4. Try going back to your Google Drive to see that your new file has been added.
 5. If you're on a desktop computer, add a file from your computer to your Google Drive.

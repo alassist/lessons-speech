@@ -15,7 +15,7 @@ Google Drive is one of the most popular cloud storage services available today, 
 
 Google Drive doesn't just store your files; it also allows you to create, share, and manage documents with its own productivity apps. If you've ever used a suite like Microsoft Office, some things about Google Drive's apps might seem familiar. For instance, the types of files you can work with are similar to files that can be created with various Microsoft Office programs.
 
-Below are the types of files you can create and share on Google Drive:
+In the next lesson, you'll learn the types of files you can create and share on Google Drive.
 
 ## Challenge!
 
