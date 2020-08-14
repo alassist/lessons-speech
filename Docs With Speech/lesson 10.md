@@ -1,13 +1,18 @@
-[]{#anchor}[]{#anchor-1}[]{#anchor-2}Lesson 2: Basic editing
+Lesson 2: Basic editing 
+=======================
 
 In this lesson, you'll learn how to:
 
 -   Move around a document
--   Using quick movement commands
--   Using the Menu Bar
--   Searching for commands []{#anchor-3}[]{#anchor-4}
 
-[]{#anchor-5}Move around the Document
+-   Using quick movement commands
+
+-   Using the Menu Bar
+
+-   Searching for commands
+
+Move around the Document 
+------------------------
 
 Google Docs is similar to other word processing programs you've probably
 used in the past, whether that be Microsoft Word, Apple Pages, Keysoft
@@ -27,8 +32,8 @@ lot more.
 
 Note that some actions are done to a character or word, like italics and
 bold, and some to a whole paragraph, like making a heading or list. for
-more keyboard commands for editing, see [*this comprehensive
-list*](https://support.google.com/docs/answer/179738?co=GENIE.Platform%3DDesktop&oco=1).
+more keyboard commands for editing, see [[this comprehensive
+list]{.ul}](https://support.google.com/docs/answer/179738?co=GENIE.Platform%3DDesktop&oco=1).
 
 Now, move to the top of your file, with **Control + Home** on Windows,
 or **Command + Up Arrow** on Mac, or **Search + Up Arrow** on ChromeOS.
@@ -48,9 +53,10 @@ heading two the sections, heading three the subsections, and so on.
 
 To create a heading, after typing one for your document, press **Control
 + Alt + 1** on Windows or ChromeOS, or **Control + Command + 1** on Mac.
-You now have your first heading. []{#anchor-6}[]{#anchor-7}
+You now have your first heading.
 
-[]{#anchor-8}Using Quick Movement commands
+Using Quick Movement commands 
+-----------------------------
 
 You have your first heading, and you may create many more if you like,
 but your document could get very long, in the case of a book, so
@@ -75,15 +81,21 @@ Technology classroom, do not attempt to change the NVDA startup command.
 To change the shortcut key, do this:
 
 -   Press **Windows + D** to go to the desktop.
+
 -   Press "n" to find the "NVDA" icon.
+
 -   Press **Alt + Enter** to open the "properties" dialog.
+
 -   Press **Tab** until you hear "hotkey field".
+
 -   Press a different shortcut key than **Control + Alt + N**. Google
-    recommends **Control + Alt + Backslash**, but **Control + Alt +
-    Shift + N** may work just as well.
+    > recommends **Control + Alt + Backslash**, but **Control + Alt +
+    > Shift + N** may work just as well.
+
 -   Press **Tab** until you hear "ok" button, and press **Enter**.
+
 -   you may be placed into a dialog asking for administrative consent to
-    change this. Press **Enter**.
+    > change this. Press **Enter**.
 
 If NVDA is not on your desktop, there isn't much that can be done to
 change the command, however there are other ways of using the quick
@@ -103,56 +115,56 @@ document, and arrow to the item type you want to navigate by, press
 **Right Arrow**, then choose either "next" or "previous" item type. For
 example, to navigate to the next heading, press **Alt + A, H, N**. This
 can become pretty quick, and also requires less holding down of keys.
-[]{#anchor-9}[]{#anchor-10}
 
-[]{#anchor-11}Using the Menu Bar
+Using the Menu Bar 
+------------------
 
 The Menu Bar is a line of items at the top of the Google Docs window. It
 includes:
 
--   **File**
+1.  **File**
 
-    -   Manage your document, including sharing it with others,
-        downloading it as a traditional document type, sending it via
-        email, renaming it, publishing to the web, or moving it to the
-        trash.
+    1.  Manage your document, including sharing it with others,
+        > downloading it as a traditional document type, sending it via
+        > email, renaming it, publishing to the web, or moving it to the
+        > trash.
 
--   **Edit**
+    > **Edit**
 
-    -   Undo, redo, find, and other editing commands.
+    1.  Undo, redo, find, and other editing commands.
 
--   **view**
+    > **view**
 
-    -   control layout, mode of editing, and show and hide different
-        parts of the visual interface.
+    1.  control layout, mode of editing, and show and hide different
+        > parts of the visual interface.
 
--   **Insert**
+    > **Insert**
 
-    -   Insert images, links, footnotes, horizontal lines, tables of
-        contents, ETC.
+    1.  Insert images, links, footnotes, horizontal lines, tables of
+        > contents, ETC.
 
--   **format**
+    > **format**
 
-    -   Format text, paragraphs, or add headers and footers and bulleted
-        or numbered lists, or change alignment or line spacing.
+    1.  Format text, paragraphs, or add headers and footers and bulleted
+        > or numbered lists, or change alignment or line spacing.
 
--   **tools**
+    > **tools**
 
-    -   Spelling and grammar, word count, reviewing edits, preferences,
-        accessibility settings, and more.
+    1.  Spelling and grammar, word count, reviewing edits, preferences,
+        > accessibility settings, and more.
 
--   **addons**
+    > **addons**
 
-    -   If you've installed addons to Google Docs, these show up here.
+    1.  If you've installed addons to Google Docs, these show up here.
 
--   **help**
+    > **help**
 
-    -   Search commands, help topics, training, updates, reporting bugs.
+    1.  Search commands, help topics, training, updates, reporting bugs.
 
--   **accessibility**
+    > **accessibility**
 
-    -   speaking information, quick jump commands, and showing of live
-        edits from collaborators.
+    1.  speaking information, quick jump commands, and showing of live
+        > edits from collaborators.
 
 In Google Chrome, press **Alt + F** to access the "file" menu. From
 there, right arrow through the other menu bar items, like Edit, View,
@@ -166,9 +178,9 @@ the steps after that to access the menu bar. On a Mac, with VoiceOver
 on, press **VO + Tab** to send the next key command to Safari, then
 press **Control + Option + F** to go to the file menu. For Chrome
 devices, just use **Alt + F** to go to the file menu.
-[]{#anchor-12}[]{#anchor-13}
 
-[]{#anchor-14}Searching for commands
+Searching for commands 
+----------------------
 
 To search for commands, press **Alt + Slash** on Windows, or **Command +
 Slash** on Mac. Navigate to the search edit field if needed, and type

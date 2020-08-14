@@ -1,10 +1,11 @@
-[]{#anchor}[]{#anchor-1}[]{#anchor-2}Cleaning up Your Document
+Cleaning up Your Document 
+=========================
 
 Now that you know how to add and edit your document, we'll cover how to
 clean up any misspellings, wrong word choices, and grammar problems.
-[]{#anchor-3}[]{#anchor-4}
 
-[]{#anchor-5}Spell checking
+Spell checking 
+--------------
 
 To check for misspelled words, on Windows, press **Control +
 apostrophe**. On Mac, press **Command + apostrophe**. To search
@@ -20,9 +21,8 @@ Google Docs is just a computer program, and its algorithms for spelling
 and grammar checking are not perfect; no machine can equal human
 understanding of language, so do not automatically accept Google Docs'
 corrections without considering their context.
-[]{#anchor-6}[]{#anchor-7}
 
-***Find and Replace ***
+***Find and Replace***
 
 To find content in your document, press **Control + F** on Windows, or
 **Command + F** on a Mac. Type what you want to find, and either press

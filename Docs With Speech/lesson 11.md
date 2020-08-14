@@ -1,4 +1,5 @@
-[]{#anchor}[]{#anchor-1}[]{#anchor-2}Formatting Your Document
+Formatting Your Document 
+========================
 
 In Google Docs, you can format your document in many ways. You can make
 parts italicized, bold, and several other formats. In this lesson,
@@ -9,9 +10,10 @@ through that course, you'll feel at home in Docs. You can format words
 or characters in two ways:
 
 1.  Type the word or words to be formatted, select them, then apply a
-    format to them.
+    > format to them.
+
 2.  Turn on the format you'd like to write in, like italics, then write
-    the word or words to be formatted, them turn off the formatting.
+    > the word or words to be formatted, them turn off the formatting.
 
 To get a list of formatting characteristics that can be applied, simply
 use the format menu. In Chrome on Windows, press **Alt + O**. On Windows
@@ -21,9 +23,10 @@ for "Pass through", then **Control + Option + O**.
 This is very helpful to learn keyboard commands. As Google Docs changes,
 you'll never miss a new feature, or be unpleasantly surprised by a
 change. Using the menu system for Docs is important to learn its
-features. []{#anchor-3}[]{#anchor-4}
+features.
 
-[]{#anchor-5}Searching the menus
+Searching the menus 
+===================
 
 If you cannot find a command you're looking for, you can search the
 menus. This is similar to the "Tell me" feature in Microsoft Word. To do

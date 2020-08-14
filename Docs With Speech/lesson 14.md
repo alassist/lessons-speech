@@ -1,11 +1,13 @@
 *Devin Prater*
 
-[]{#anchor}Collaborate!
+Collaborate!
+============
 
 In this lesson, you'll learn how to collaborate with other users of
-Google Docs. []{#anchor-1}[]{#anchor-2}
+Google Docs.
 
-[]{#anchor-3}Share a file
+Share a file 
+------------
 
 To share a file, use the File Menu. Open the File menu, Arrow to Share,
 and press **Enter**. A dialog box will open. Here, type the name or
