@@ -1,4 +1,4 @@
-# Lesson 1: Getting Started with Google Docs
+# Lesson 9: Getting Started with Google Docs with a screen reader
 
 In this lesson, you'll learn how to:
 
@@ -22,47 +22,26 @@ Now, your screen reader will move to the "Recent documents" list. This list cont
 
 When you open Google Docs, you land on the Recent Documents list. However, that isn't the only item on the page. Take some time to explore what's on the page, using the **Tab** key.
 
-1. **Create new document**
-
-  1. This creates a new text document. The dialog for choosing a
-
-    > template opens.
-
-  > **Main Menu**
-
-  1. This opens a menu containing other Google apps, like Sheets,
-
-    > slides, forms, and also has a "settings" item.
-
-  > **search**
-
-  1. Allows you to search your documents
-
-  > **Google Account**
-
-  1. Allows one to change the Google account currently signed into
-
-    > Google Docs on the computer.
-
-  > **Filter options**
-
-  1. Allows you to filter the list of documents
-
-  > **List view**
-
-  1. Allows you to change the view of documents to a list
-
-  > **Grid view**
-
-  1. Allows you to change the list of documents to a grid.
-
-  > **Sort options**
-
-  1. Allows you to sort the documents in the list
-
-  > **Open File picker**
-
-  1. Allows you to open a file from Google Drive
+<dl>
+  <dt>Create new document</dt>
+  <dd>This creates a new text document. The dialog for choosing a template opens.</dd>
+  <dt>Main Menu</dt>
+  <dd>This opens a menu containing other Google apps, like Sheets, slides, forms, and also has a "settings" item.</dd>
+  <dt>search</dt>
+  <dd>Allows you to search your documents.</dd>
+  <dt>Google Account</dt>
+  <dd>Allows one to change the Google account currently signed into Google Docs on the computer.</dd>
+  <dt>Filter options</dt>
+  <dd>Allows you to filter the list of documents</dd>
+  <dt>List view</dt>
+  <dd>Allows you to change the view of documents to a list.</dd>
+  <dt>Grid view</dt>
+  <dd>Allows you to change the list of documents to a grid.</dd>
+  <dt>Sort options</dt>
+  <dd>Allows you to sort the documents in the list.</dd>
+  <dt>Open File picker</dt>
+  <dd>Allows you to open a file from Google Drive.</dd>
+</dl>
 
 ## Create a Document
 
@@ -70,19 +49,13 @@ To create a document, simply Tab to the "create New document" button and press *
 
 ## Configuring accessibility
 
-In Docs, screen reader mode must be enabled. To do this, press **Control
+In Docs, screen reader mode must be enabled. To do this, press **Control + Alt + Z**. You'll hear "screen reader mode enabled." Now, you can use Docs fairly well, but for better access, even if you don't have a Braille Display, you should turn on Braille Support. To do that:
 
-- Alt + Z**. You'll hear "screen reader mode enabled." Now, you can use Docs fairly well, but for better access, even if you don't have a Braille Display, you should turn on Braille Support. To do that:
-
-- Press **Alt + T** to open the Tools menu. If that doesn't work,
-
-  > press **Alt + Shift + T**.
+- Press **Alt + T** to open the Tools menu. If that doesn't work, press **Alt + Shift + T**.
 
 - Press **Up Arrow** to reach "accessibility settings."
 
-- Tab until you hear "enable braille support", and press the SpaceBar
-
-  > to check the check box. If the box is already checked, skip to the next step.
+- Tab until you hear "enable braille support", and press the SpaceBar to check the check box. If the box is already checked, skip to the next step.
 
 - Tab to the "ok" button, and press **Enter**.
 

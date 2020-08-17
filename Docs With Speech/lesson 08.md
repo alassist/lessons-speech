@@ -4,20 +4,21 @@ There may be times when you go to log in to Gmail, Google Docs, or any other Goo
 
 However, you will need some information to recover your account, whether it's your email address, the date you created your account, or your phone number.
 
-## To recover your user name:
+## To recover your username
 
-If you don't use your email address often or if you never wrote it down, you might one day find that you've forgotten it. Google makes it easy to recover your user name.
+If you don't use your email address often or if you never wrote it down, you might one day find that you've forgotten it. Google makes it easy to recover your username.
 
 1. Go to the [Google sign-in page][1] and click Need help? below the login field.
 
-![][2]
+  ![][2]
 
-1. Click Find my account.
+2. Click Find my account.
 
-![][3]
+  ![][3]
 
-1. Select either Enter your recovery email address or Enter your recovery phone number, then type your name and check off the box next to I'm not a robot. Press the Submit. button![][4]
-2. Google will send you an email or text message containing your user name.
+3. Select either Enter your recovery email address or Enter your recovery phone number, then type your name and check off the box next to I'm not a robot. Press the Submit. button![][4]
+
+4. Google will send you an email or text message containing your user name.
 
 ## To recover your password:
 
