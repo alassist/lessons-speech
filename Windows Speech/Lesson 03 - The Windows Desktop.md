@@ -30,7 +30,7 @@ screen reader has just read. Technically, it is the item which is in
 keyboard focus, being what will be activated when **Space bar** or
 **Enter** is pressed. You can hear what is in focus with **Insert +
 Tab**. For example, if it says “taskbar,” it is focused on the Windows
-Taskbar. It it says “Next button,” then it is focused on a button called
+Taskbar. If it says “Next button,” then it is focused on a button called
 “Next.” Pressing **Tab** and **Shift + Tab** changes focus to the next
 or previous item in the program that you’re in.
 
@@ -58,7 +58,7 @@ information: the name of the icon, like “Firefox,” and the position of
 the icon, like “2 of 10.” This helps you know where in the grid of icons
 that you are. Please note that, even though your screen reader calls the
 desktop a list, and most lists only require the up and down arrow keys
-to traverse, the desktop is still a grid, requiring all four arrow keys
+to traverse, the desktop is actually a grid, requiring all four arrow keys
 to traverse the grid.
 
 When you find an icon you want to open, like the Recycle Bin, press
