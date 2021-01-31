@@ -1,4 +1,4 @@
-Lesson 2: Navigating Windows
+Navigating Windows
 ------------------
 
 For people who have vision, navigating Windows is simple: find on the

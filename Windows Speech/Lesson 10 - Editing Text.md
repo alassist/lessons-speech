@@ -1,4 +1,4 @@
-Lesson 10: Editing Text
+Editing Text
 ========================
 
 beginning

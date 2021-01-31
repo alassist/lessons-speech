@@ -1,4 +1,4 @@
-Lesson 1: Introduction
+Introduction
 ======================
 
 ### Aids for reading lessons

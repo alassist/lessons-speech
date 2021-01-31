@@ -1,4 +1,4 @@
-Lesson 6: Using the Notification area
+Using the Notification area
 =====================================
 
 Introduction

@@ -1,4 +1,4 @@
-Lesson 9: Context
+Context
 =================
 
 The Context menu

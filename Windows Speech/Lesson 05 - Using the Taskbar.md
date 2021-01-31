@@ -1,4 +1,4 @@
-Lesson 5: Using the Taskbar
+Using the Taskbar
 ============================
 
 In this lesson, you’ll learn how to use the Windows Taskbar to open

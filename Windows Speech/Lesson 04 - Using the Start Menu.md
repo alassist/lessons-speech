@@ -1,4 +1,4 @@
-Lesson 4: The Start Menu
+The Start Menu
 --------------
 
 The *Start Menu* is the “launchpad” for all of your programs on the

@@ -1,4 +1,4 @@
-Lesson 7: Setting Settings
+Setting Settings
 ==========================
 
 Introduction
