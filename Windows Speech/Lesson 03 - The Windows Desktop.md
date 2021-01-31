@@ -18,8 +18,8 @@ on the desktop, the smaller they are, and the harder it becomes for a
 sighted person to single out an icon to click.
 
 For a complete file storage and retrieval program, see [File
-Explorer](Lesson 6, Using the Notification Area.md). For a clean way to find and open programs, see
-[the start menu](Lesson 4, Using the Start Menu.md). For now, the desktop should have few
+Explorer](https://moodle.alassist.us/mod/page/view.php?id=2097). For a clean way to find and open programs, see
+[the start menu](https://moodle.alassist.us/mod/page/view.php?id=2092). For now, the desktop should have few
 icons on it, including the Recycle Bin. The Recycle Bin will always be
 there.
 
