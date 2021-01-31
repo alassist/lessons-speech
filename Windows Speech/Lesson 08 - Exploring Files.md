@@ -22,18 +22,20 @@ either farther down the list of folders, or put you into the “recent
 files” list.
 
 To open a folder or file, just press **Enter** on it. You can try this
-with the “documents” folder in the list. Press **Right Arrow** until you
-hear “documents”, then press **Enter**. If this doesn’t work, let your
-instructor know. After pressing **Enter** on the “documents” folder,
-you’ll be in another list of files. This is a vertical list, and is
-navigated with the up and down arrows. There are, however, columns in
-this list, making it more like a table. These columns show other
-information about the files in the list, like their sizes, dates of
-modification, and file type. if you become stuck in one of these
+with the “documents” folder in the list. Press **Right Arrow** until
+you hear “documents”, then press **Enter**. If this doesn’t work, let
+your instructor know. After pressing **Enter** on the “documents”
+folder, you’ll be in another list of files. This is a vertical list,
+and is navigated with the up and down arrows. There are, however,
+columns in this list, making it more like a table. These columns show
+other information about the files in the list, like their sizes, dates
+of modification, and file type. if you become stuck in one of these
 columns, press **Left Arrow** a few times until you hear the *file
 name*. The file name is what the file is called, like “lesson6.html”.
-“Lesson 6” is the name, while “HTML” which stands for “Hyper Text Markup
-Language” is the file type. To move out of a folder, and up into the list of folders, where you were before, press **Alt + Up arrow**.
+“Lesson 6” is the name, while “HTML” which stands for “Hyper Text
+Markup Language” is the file type. To move out of a folder, and up
+into the list of folders, where you were before, press **Alt + Up
+arrow**.
 
 File types
 ----------
@@ -68,7 +70,7 @@ HTML
 :   web page file
 
 EXE
-:   Executable program.
+:   Executable program
 
 MSI
 :   Program Installer file.
@@ -89,8 +91,11 @@ DMG
 :   Disk Image; this usually contains a program made for Mac computers.
 
 Some operating systems, like Mac and Linux, do not need file type
-suffixes, because it is in the file itself what it is, so some files you
-may download will not always have a suffix.
+suffixes, because it is in the file itself what it is, so some files
+you may download will not always have a suffix. If your computer
+doesn’t show these suffixes, the setting to show them is disabled, and
+you will have to arrow right until you hear what type of file you’re
+on.
 
 Tabbing around
 --------------
@@ -147,14 +152,14 @@ cut, **Control + C** for copy, and **Control + V** for Paste.
 Activity
 --------
 
--   Open File Explorer.
--   Find the “Documents” folder.
--   When focused on a file, open the Home tab on the ribbon.
+- Open File Explorer.
+- Find the “Documents” folder.
+- When focused on a file, open the Home tab on the ribbon.
 -   Find the “copy” command.
--   Press **escape** a few times to exit the ribbon.
--   Copy a document from the “Documents” folder to the “downloads”
+- Press **escape** a few times to exit the ribbon.
+- Copy a document from the “Documents” folder and paste it into the “downloads”
     folder using the keyboard commands given above.
--   In the downloads folder, press the **delete** key to delete the file
+- In the downloads folder, press the **delete** key to delete the file
     just copied. If this doesn’t work, make sure you select the file
     with **space bar** or the arrow keys.
 - Move back to the list of folders with **Alt + Up Arrow**.
