@@ -6,7 +6,7 @@ Introduction
 
 Just as you can set screen reader settings, there are also Windows
 settings. These settings control things like how much power your
-computer uses; this is good for laptops, sound volume and enhancements,
+computer uses (this is good for laptops), sound volume and enhancements,
 display settings, and software updates.
 
 Opening the Settings app
@@ -22,7 +22,7 @@ screen reader says that “Windows isn’t activated,” don’t panic, just
 press **Tab** again. Here, you’ll be in a grid of categories, even if
 your screen reader says that it is a list. Use the **Left** and
 **Right** arrow keys to navigate through each item. Use the **Up** or
-**Down** keys to move several items at a time. Find the “eAse of Access”
+**Down** keys to move several items at a time. Find the “Ease of Access”
 item, and press **Enter**.
 
 If you use the Narrator screen reader, you may already be familiar with
