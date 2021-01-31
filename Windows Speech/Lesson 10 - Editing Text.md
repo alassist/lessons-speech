@@ -1,6 +1,3 @@
-Editing Text
-========================
-
 beginning
 ---------
 
@@ -62,29 +59,28 @@ editors: Emacs, Visual Studio Code, Notepad, and Word pad, word
 processors: like Microsoft Word, Google Docs, and LibreOffice, and
 online forms: like username fields, and comment text entry areas.
 
-1.  Moving the cursor
+#### Moving the cursor
 
-    In Windows, you can move the cursor by using the arrow keys, home,
-    end, page up, page down, and a combination of these with the control
-    key. This is what you did with the sample passage above. The cursor
-    moves to the left of what the screen reader says.
+In Windows, you can move the cursor by using the arrow keys, home,
+end, page up, page down, and a combination of these with the control
+key. This is what you did with the sample passage above. The cursor
+moves to the left of what the screen reader says.
 
-    imagine that the cursor is to the left of what the screen reader
-    says. It is like the erasing head of a Perkins Brailler. So, if you
-    move the cursor one character to the left, the cursor moves from its
-    current position, and deletes the character before the one spoken by
-    the screen reader. In this way, actions are performed.
+imagine that the cursor is to the left of what the screen reader
+says. It is like the erasing head of a Perkins Brailler. So, if you
+move the cursor one character to the left, the cursor moves from its
+current position, and reads the character before the one spoken by
+the screen reader. In this way, actions are performed.
 
-    In our test paragraph, position the cursor so your screen reader is
-    at the end of the last line in the paragraph. Now, press
-    **Backspace**. You’ll here the previous character be deleted. If you
-    need help with this section, you may always ask your instructor for
-    help. Now that we have the period deleted, backspace two more times.
-    This gets rid of the 3, and another period. This leaves you with
-    “Emacs 26” instead of “Emacs 26.3.”
+In our test paragraph, position the cursor so your screen reader is
+at the end of the last line in the paragraph. Now, press
+**Backspace**. You’ll here the previous character be deleted. If you
+need help with this section, you may always ask your instructor for
+help. Now that we have the period deleted, backspace two more times.
+This gets rid of the 3, and another period. This leaves you with
+“Emacs 26” instead of “Emacs 26.3.”
 
-select text
-===========
+## select text
 
 To select text, use **Shift** with any cursor movement commands. For
 example, use **Control + Shift + Right Arrow** to select the next word,
@@ -100,19 +96,19 @@ paste text.
 ### Undo
 
 If you ever make a mistake when typing, use the *Undo* function of the
-program you are using. The usual hotkey is **Control + Z**. Try this
-now.
+program you are using. The usual keyboard command is **Control + Z**.
+Try this now.
 
 ### Cut
 
-To cut something is to move it from one place. Then, you can paste the
-text somewhere else. To cut, first select the text to be cut, then press
-**Control + X**.
+To cut something means to move it from one place to the clipboard.
+Then, you can paste the text from the clipboard somewhere else. To
+cut, first select the text to be cut, then press **Control + X**.
 
 ### Copy
 
-To copy text, like copying a file, select the text, and press **Control
-+ C**.
+To copy text, like copying a file, select the text, and press
+**Control + C**.
 
 ### Paste
 
@@ -123,10 +119,10 @@ The Clipboard
 -------------
 
 The clipboard is a space in computer short-term memory that holds the
-text you cut or copy. The text does not leave the clipboard once you’ve
-copied text, so you can paste the text again, somewhere else. So, your
-screen reader, when copying, cutting, or pasting text, may say “cut to
-clipboard,” “copied to clipboard,” or “pasted from clipboard.”
+text you cut or copy. The text does not leave the clipboard once
+you’ve copied text, so you can paste the text again, somewhere else.
+Your screen reader, when copying, cutting, or pasting text, may say
+“cut to clipboard,” “copied to clipboard,” or “pasted from clipboard.”
 
 Footnotes
 =========
