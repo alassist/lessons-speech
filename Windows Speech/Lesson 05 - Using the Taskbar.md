@@ -61,5 +61,3 @@ be done, you can skip it.
 -   Add Google chrome to the Taskbar.
 -   Open Google Chrome using its position number.
 -   Remove Google Chrome from the Taskbar.
-
-[Go to lesson 6](Lesson%2006%20-%20Using%20the%20Notification%20Area.md)

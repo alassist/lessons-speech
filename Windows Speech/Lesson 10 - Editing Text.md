@@ -133,5 +133,3 @@ Footnotes
 
 [^1]: [Cursor on
     Wikipedia](https://en.wikipedia.org/wiki/Cursor_(user_interface))
-
-[Go to Appendix 1](Appendix%2001%20-%20Windows%20Keyboard%20Commands.md)

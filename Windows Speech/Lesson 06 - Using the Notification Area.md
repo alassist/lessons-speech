@@ -50,5 +50,3 @@ To use the notification area:
 -   Tab to the “right click” button to activate the context menu of an
     item.
 -   use **Escape** to exit the list
-
-[Go to lesson 7](Lesson%2007%20-%20Setting%20Settings.md)
