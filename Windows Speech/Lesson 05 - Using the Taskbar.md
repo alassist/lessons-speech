@@ -29,7 +29,7 @@ Quickly switching Windows
 To quickly switch from one window to another, press **Alt + Tab**. To
 move to a window that is not the two most recently used windows, hold
 down Alt, and press Tab until you hear the window you want to move to,
-and release Alt.
+then release Alt.
 
 Pin a program to the taskbar
 ------------------------------------------------------------
@@ -37,12 +37,12 @@ Pin a program to the taskbar
 After using the Taskbar for a while, you may want to add programs to it.
 To do this, follow the steps below:
 
--   Open the start Menu, by pressing the **Windows** key.
--   Type the name of the program, until it is in focus.
--   Press the **Context** key. This is also called the **Applications**
+- Open the start Menu, by pressing the **Windows** key.
+- Type the name of the program, until it is in focus.
+- Press the **Context** key. This is also called the **Applications**
     key.
--   Arrow down to “Pin to taskbar”.
--   Press **Enter**.
+- Arrow down to “Pin to taskbar”.
+- Press **Enter**.
 
 Now, the program you’ve selected has been added to the Taskbar. You
 can explore the Taskbar to find its position, if you would like to use
@@ -56,8 +56,8 @@ Become familiar with the taskbar by performing the following actions.
 If an item is not available on the taskbar, or is otherwise unable to
 be done, you can skip it.
 
--   Navigate to the Taskbar.
--   From the taskbar, open Microsoft Edge by using its position number
--   Add Google chrome to the Taskbar.
--   Open Google Chrome using its position number.
--   Remove Google Chrome from the Taskbar.
+- Navigate to the Taskbar.
+- From the taskbar, open Microsoft Edge by using its position number
+- Add Google chrome to the Taskbar.
+- Open Google Chrome using its position number.
+- Remove Google Chrome from the Taskbar.
