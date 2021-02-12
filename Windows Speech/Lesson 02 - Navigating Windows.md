@@ -79,13 +79,13 @@ in quotes, like “Press the ‘h’ key to move to the next heading.”
 Now that you know basic navigation, try the following activities for
 practicing what you’ve learned.
 
--   Press the **Up Arrow** to navigate to the previous line, then press
+- Press the **Up Arrow** to navigate to the previous line, then press
     **Insert + Down Arrow** to continue reading.
--   Press **Shift + Tab** to navigate to the previous control, then
+- Press **Shift + Tab** to navigate to the previous control, then
     press the “h” key until you hear “activity heading level 3” and
     press **Insert + Down Arrow** to continue reading.
--   Press **Insert + F12**. What does this keyboard shortcut do?
--   The next section will be a quiz. Tab to “lesson 2 quiz” and activate
+- Press **Insert + F12**. What does this keyboard shortcut do?
+- The next section will be a quiz. Tab to “lesson 2 quiz” and activate
     the Link with **space bar** or **Enter**. Use the Arrow keys to
     navigate this page, and **Space Bar** to interact with items if
     needed, for example, to type in an Edit Box, or Check a checkbox or

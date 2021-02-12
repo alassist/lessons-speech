@@ -69,10 +69,10 @@ F4**.
 Activity
 --------
 
--   Set focus to the Windows Desktop
--   Navigate to the Recycle Bin
--   Open the Recycle Bin, then close it.
--   On the Desktop, navigate to an icon, press **Shift + F10**, then
+- Set focus to the Windows Desktop
+- Navigate to the Recycle Bin
+- Open the Recycle Bin, then close it.
+- On the Desktop, navigate to an icon, press **Shift + F10**, then
     press **Up Arrow**. What option did you hear?
--   In the next section, complete the quiz before moving on to the next
+- In the next section, complete the quiz before moving on to the next
     lesson.

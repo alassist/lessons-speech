@@ -36,7 +36,7 @@ There are, however, a few drawbacks as well:
 
 ## Getting started
 
-Before you get started with Google Docs, you'll need to have the
+Before you get started with Google Sheets, you'll need to have the
 following programs:
 
 - A screen reader: NVDA works best, but JAWS can be used.
@@ -57,3 +57,53 @@ bar. That will be discussed later, but it is important to understand
 differences such as the example given here.
 
 ## Opening Google Sheets
+
+Google Sheets is a web app. Therefore, to open Google Sheets, you’ll
+use a web browser. Even though Google Sheets is a web app, an normal
+web address is used to access it. To open Google Sheets, do the
+following:
+
+1. If you don’t already have one open, run a web browser.
+2. Go to the address bar, if you aren’t already there.
+3. Enter the address “sheets.google.com” without the surrounding
+   quotes.
+4. Press **Enter**.
+
+## The Google Sheets interface
+
+When Google Sheets opens, you’ll be placed into a list of your most
+recently opened files. If this isn’t your experience, try pressing
+Tab, or **Control + Alt + Z**. The **Control + Alt + Z** keyboard
+command turns on screen reader support in Google Sheets.
+
+## Navigating Google Sheets
+
+Now that you’ve navigated to Google Sheets, we can navigate through
+all of the controls within the main screen. This is similar to the
+“home screen” of Microsoft Office, when the program is opened without
+a document being open.
+
+Starting from the focused item, there is the list of recently opened
+items. This is a list that starts with the most recently opened item.
+If you press **Down Arrow**, you’ll find the next item in reverse
+chronological order. This list is grouped into “headings” of “today,”
+“last seven days,” and so on. Your screen reader will let you know
+when you arrive at the next group heading. You can continue to press
+**Down Arrow** to reach more items..
+
+If you press the **Tab** key, you’ll find the “More actions button.” This
+button brings up actions you can perform on the current file; You can
+remove it, or open it in a new tab. If you press **Tab** again, you’ll
+find the “Main menu button.” This is inside a “banner,” so don’t be
+alarmed if you hear the word “banner” spoken by your screen reader.
+These are Landmarks, parts of a web page.
+
+The “main menu” item is a “collapsed button”, which means that when
+you press the button, it will open something else. In the case of the
+“main menu” button, it opens a list. Within this list is:
+
+* Docs: Opens Google Docs, used for writing documents.
+* Sheets: Opens Sheets, which you’re already in, so there is no need
+  to use this.
+* Slides: Opens Google Slides, for creating and viewing presentations.
+* 
