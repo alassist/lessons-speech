@@ -19,10 +19,11 @@ already on the computer, so all that a user must do is plug it in and
 power it on to begin using it.
 
 Windows allows a blind person to complete many computing tasks, like
-browsing the Internet, writing documents, playing accessible games, and
-listening to music. All this is achieved using a screen reader, which
-reads screen contents and allows a person who cannot see the screen navigate the computer
-using keyboard commands for both Windows and the screen reader.
+browsing the Internet, writing documents, playing accessible games,
+and listening to music. All this is achieved using a screen reader,
+which reads screen contents and allows a person who cannot see the
+screen to navigate the computer using keyboard commands for both
+Windows and the screen reader.
 
 For blind users, a screen reader must either be installed, if there are
 no usable screen readers installed, or ran, if there are, so that the
@@ -92,11 +93,11 @@ Getting Started
 To help get you started navigating these lessons, here are some keys to
 press for navigation.
 
--   Tab moves forward by control on a web page. A control can be a
+- Tab moves forward by control on a web page. A control can be a
     button to press, a link to another page, a checkbox to check or
     uncheck, a combo box to choose an item from, or a list of radio
     buttons, to choose only one option out of a few choices.
--   Space Bar activates a button, opens a link, opens a combo box,
+- Space Bar activates a button, opens a link, opens a combo box,
     chooses a radio button, or checks a checkbox.
 
 So, when you reach the end of this lesson, press **TAB** until you hear
