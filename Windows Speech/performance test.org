@@ -22,7 +22,7 @@ the tasks on a computer, in the presence of an instructor.
 10. [ ] Set focus to the Windows Taskbar.
 11. [ ] What is the Notification area?
 12. [ ] Move focus to the notification area.
-13. [ ] [ ] Open the Windows Settings app.
+13. [ ] Open the Windows Settings app.
 14. [ ] What is File Explorer?
 15. [ ] Open File Explorer.
 16. [ ] Within File Explorer, open the Documents folder.
