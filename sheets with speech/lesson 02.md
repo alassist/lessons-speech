@@ -19,3 +19,9 @@ To create a Spreadsheet from Google Drive, go to “drive.google.com”, and eit
 ## Create a Sheet from the Chrome address bar
 
 To create a Sheet from anywhere, just using your Chrome address bar, press **Control + L** to open the address or location bar, then type "sheets.new". This opens a blank Sheet immediately.
+
+## Naming a Sheet
+
+When you've created a Sheet, it is simply called "untitled". That quickly gets unwieldy when you have many untitled sheets, so let's start the good habbit of naming things. To start, create a new Sheet using any of the options listed above. It doesn't matter how you create the sheet, just that you find an option that works best, and quickest, for you. Once you're in the new sheet, which you can varify by moving around and hearing things like "A2, B2, C1" and such, we can rename the spreadhseet.
+
+To rename a Spreadsheet, press **Alt + F**. This brings you to the Google Sheets menu bar, into the "file" menu. You can perform many functions here, and there is more than just the file menu, but we'll look at the other options later. From here, press "r". This opens the "rename" dialog box. Type "Sheets with Speech", and press **Enter**. You can use any name, but if you do so, from now on, use your chosen name instead of "Sheets with Speech."    
