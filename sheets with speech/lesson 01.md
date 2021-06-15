@@ -1,4 +1,4 @@
-# Introduction to Sheets
+# Lesson 1: Introduction to Sheets
 
 Google Sheets is a spreadsheet program from Google. It allows you to work with numbers, and text that is associated with numbers, in numerous ways. You can use it to keep a budget, keep up with quantifiable items you have, or produce charts and graphs.
 
@@ -7,7 +7,8 @@ Google Sheets is a “Web app” which runs in your web browser. Unlike Microsof
 - Google Sheets is free. There are no costs to using it; all you need is a Google account.
 - You don’t have to save your files, Sheets saves all edits and allows you to revert to an older version of the file.
 - None of your sheets take up space on your computer.
-- All of your sheets can be read and edited on any of your devices.
+
+* All of your sheets can be read and edited on any of your devices.
 
 There are, however, a few drawbacks as well:
 
@@ -43,7 +44,7 @@ When Google Sheets opens, you’ll be placed into a list of your most recently o
 
 Now that you’ve navigated to Google Sheets, we can navigate through all of the controls within the main screen. This is similar to the “home screen” of Microsoft Office, when the program is opened without a document being open.
 
-Starting from the focused item, there is the list of recently opened items. This is a list that starts with the most recently opened item. If you press **Down Arrow**, you’ll find the next item in reverse chronological order. This list is grouped into “headings” of “today,” “last seven days,” and so on. Your screen reader will let you know when you arrive at the next group heading. You can continue to press **Down Arrow** to reach more items.
+Starting from the focused item, there is the list of recently opened items. This is a list that starts with the most recently opened item. If you press the **Down Arrow**, you’ll find the next item in reverse-chronological order. This list is grouped into “headings” of “today,” “last seven days,” and so on. Your screen reader will let you know when you arrive at the next group heading. You can continue to press **Down Arrow** to reach more items.
 
 If you press the **Tab** key, you’ll find the “More actions button.” This button brings up actions you can perform on the current file; You can remove it, or open it in a new tab. If you press **Tab** again, you’ll find the “Main menu button.” This is inside a “banner,” so don’t be alarmed if you hear the word “banner” spoken by your screen reader. These are Landmarks, parts of a web page.
 
@@ -59,20 +60,18 @@ The “main menu” item is a “collapsed button”, which means that when you 
 
 After the main menu, there is a “Sheets” link, which just goes back to the sheets page which you’re on now. After the link is a “Search bar” edit field for searching for sheets, and a “search” button to submit the search. You can also press **Enter** after typing your search keywords.
 
-After the search bar is a “Google apps” collapsed button. If you press **Enter** on it, you’ll be taken to a list of links where you can choose another app, like Gmail or Search, to go to. Once you find the app you want, you can press **Enter** to go to it, or if you don’t want to choose another app, press **Escape** to close the list.
+After the search bar, you’ll find a “Google apps” collapsed button. If you press **Enter** on it, you’ll be taken to a list of links where you can choose another app, like Gmail or Search, to go to. Once you find the app you want, you can press **Enter** to go to it, or if you prefer not to choose another app, press **Escape** to close the list.
 
-after the “Google Apps” collapsed button is the “Google Account” collapsed button. This button allows you to choose another Google account to use Sheets with. This can be useful if you have more than one Google account, with separate sheets stored within each account.
+After the “Google Apps” collapsed button is the “Google Account” collapsed button. This button allows you to choose another Google account to use Sheets with. This can be useful if you have more than one Google account, with separate sheets stored within each account.
 
-Next is the “Recently used” list box, which contains templates for spreadsheets that you’ve used before. Passed that is the “template gallery” button, which contains all templates, not just the most recently used ones. Passed the gallery button is a “more actions” button which, when expanded, allows you to “hide all templates,” if you don’t plan on using any.
+Next is the “Recently used” list box, which contains templates for spreadsheets that you’ve used before. Past that is the “template gallery” button, which contains all templates, not just the most recently used ones. Passed the gallery button is a “more actions” button which, when expanded, allows you to “hide all templates,” if you don’t plan on using any.
 
 After the “more actions” button for dealing with templates is the “owner Filter Options,” collapsed button. Inside this menu are options to filter the “recently opened” Sheets list by Sheets “Owned by anyone” or “owned by me.”
 
-Next is a button that changes the “view” of the list of recently opened Sheets. There are two views: list view and grid view. List view shows the Sheets in a list, one on each line. In grid view, the Sheets are in a grid, several per line. if the button says “grid view,” then Sheets is in list view, and pressing the button will change this to grid view. If the button says “list view,” then Sheets is in grid view, and pressing the button will change this to list view.
+Next is a button that changes the “view” of the list of recently opened Sheets. There are two views: list view and grid view. List view shows the Sheets in a list, one on each line. In grid view, the Sheets are in a grid, several per line. If the button says “grid view,” then Sheets is in list view, and pressing the button will change this to grid view. If the button says “list view,” then Sheets is in grid view, and pressing the button will change this to list view.
 
-Next is “Sort Options,” a button which allows you to control how files are sorted. You can choose between “Last opened by me,” “Last Modified by me,” “Last Modified,” and “Title.” By default, “Last opened by me,”is selected.
+Next is “Sort Options,” a button which allows you to control how files are sorted. You can choose between “Last opened by me,” “Last Modified by me,” “Last Modified,” and “Title.” By default, “Last opened by me,” is selected.
 
 Finally, is the “open file picker” button. This allows you to open a file from Google Drive, or upload a file from your computer to be opened in Sheets. If you are familiar with Google Drive, you can navigate this to find a file there. There is also a search box in this dialog to find a file, filtered to only find Sheets.
 
 After the “open file picker” button is the list of Sheets, again sorted by most recently opened. Now that you know the layout of the Sheets “home screen,” the next lesson will cover creating a new Sheet and opening existing Sheets.
-
-
