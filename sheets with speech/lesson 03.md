@@ -6,10 +6,10 @@ Google Sheets, being a web application, has different interface items than a nor
 
 The Menu bar is where you’ll find all that you can do with your spreadsheet. It contains functions pertaining to the file itself, editing, inserting objects, formatting, extra tools, like spell check, accessibility options, and other such menus. Opening the menu is different for different browsers. Ways to open the Menu bar are listed below:
 
-* On Windows with Firefox, press **Alt + Shift + F**.
-* On Windows with Chrome, press **Alt + F**.
-* In ChromeOS, press **Alt + F**.
-* On macOS, first press **Control + Option + Tab** to ignore the following keys from VoiceOver and send it directly to the browser, then **Control + Option + F**.
+- On Windows with Firefox, press **Alt + Shift + F**.
+- On Windows with Chrome, press **Alt + F**.
+- In ChromeOS, press **Alt + F**.
+- On macOS, first press **Control + Option + Tab** to ignore the following keys from VoiceOver and send it directly to the browser, then **Control + Option + F**.
 
 From there, you can press the arrow keys to move throughout the menus. Using the Left and Right arrow moves from menu to menu. For example, when you press the **Right Arrow** from the File menu, you’ll move to the Edit menu. If you press the **Left Arrow** from the edit menu, you’ll move to the File menu. Using the Up and Down arrow keys moves within a menu. If you press the **Down Arrow** from the File menu, you’ll find options like “new” and “share.” To activate any item in the menus, like “Copy” in the Edit menu, press **Enter**.
 
@@ -37,7 +37,6 @@ Using the knowledge gained in this lesson, let’s make sure accessibility is co
 6. Tab twice to the “Ok” button and press **Enter**.
 
 Now, you have Sheets, and all other Google Suite programs, fully accessible, and can move on to the next lesson.
-
 
 # Lesson 4: Moving around a Spreadsheet
 
