@@ -9,4 +9,4 @@ change.
 
 * [iPhone checklist](iphone/iPhone-checklist.org)
 * [AIRA course](aira/description.html)
-* [Windows Basics with Speech course](Windows%20Speech/Description.html)
+* [Windows Basics with Speech course](Windows%20Speech/toc.html)
