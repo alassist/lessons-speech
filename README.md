@@ -8,5 +8,5 @@ change.
 ## Contents
 
 * [iPhone checklist](iphone/iPhone-checklist.org)
-* [AIRA course](aira/description.md)
-* [Windows Basics with Speech course](Windows%20Speech/Description.md)
+* [AIRA course](aira/description.html)
+* [Windows Basics with Speech course](Windows%20Speech/Description.html)
