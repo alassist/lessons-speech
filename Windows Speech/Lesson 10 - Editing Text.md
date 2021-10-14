@@ -1,5 +1,7 @@
-beginning
----------
+# Lesson Ten: Editing Text
+
+## beginning
+
 
 Up to now, we’ve simply moved around windows. Now, let’s start creating
 something. First, let’s open a program where we can write things.
