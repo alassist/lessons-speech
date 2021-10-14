@@ -10,4 +10,3 @@ AIRA can be used for tasks that are made possible, faster, or more easily with s
 items, shopping, traveling, watching television which hasn’t been described, reading print materials, or reading small screens on
 appliances.
 
-[Go to lesson 2](lesson%2002.md)
