@@ -14,4 +14,3 @@ Getting started with AIRA requires having a smartphone, either an iPhone or an A
 
 If you’d like to use AIRA anywhere, and not just in free locations like AIDB campuses and regional centers, you can sign up as an AIRA explorer. This involves paying for a monthly plan, starting at $30 per month. To do this, open the AIRA app, tap the “more” tab, and choose “Upgrade to an Explorer,” then select the plan that’s right for you. Provide your personal information as well as billing information, review the purchase, and check out.
 
-[Go to lesson 3](lesson%2003.md)
