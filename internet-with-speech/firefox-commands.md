@@ -1,3 +1,5 @@
+# Firefox keyboard commands
+
 ## Notes
 
 These keyboard commands are taken from the Firefox help pages. Because
