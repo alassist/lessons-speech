@@ -12,3 +12,4 @@ change.
 * [Windows Basics with Speech course](Windows%20Speech/toc.html)
 * [Docs with Speech](Docs%20With%20Speech/lesson%2001.html)
 * [ChromeVox Basics](chromevox%20basics/description.html)
+* [Internet Basics with Speech](internet-basics/toc.html)
