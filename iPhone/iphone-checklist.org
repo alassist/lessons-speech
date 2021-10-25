@@ -18,7 +18,7 @@ space after the colon, and type the information. A space has been
 created at the end of each set of items for notes from the instructor
 or assessor.
 
-* Basic
+* Basic [/]
 This checklist will cover basic iPhone familiarity with hardware,
 through using Siri. This is primarily to be used with the elderly, or
 those who have no need of using apps with VoiceOver. Advanced users
@@ -28,7 +28,7 @@ section.
 In order for these items to be considered complete, the user must be
 able to find or complete the item without assistance.
 
-** iPhone Hardware [0/0]
+** iPhone Hardware [0/9]
 This section concerns the iPhone’s hardware: the buttons, mute switch,
 screen, and functions of each button. The student should be able to
 complete the following:
