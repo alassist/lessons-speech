@@ -6,13 +6,19 @@ In this lesson, you’ll learn about keyboard focus, navigating with the Tab key
 
 ## Keyboard focus
 
-Keyboard focus is the way in which the Chromebook keeps up with where you are on the screen when using keyboard commands. It is like a mouse cursor, except it is not shown on the screen unless you are editing text. Your screen reader *can* be set to read what is under the mouse, but it is not very helpful for people with no vision. People with usable vision can use this feature, possibly with magnification. Since some Chromebooks do not have touch screens, ours focuses on the keyboard.
+Keyboard focus is the way in which the Chromebook keeps up with where you are on
+the screen when using keyboard commands. It is like a mouse cursor, except it is
+not shown on the screen unless you are editing text. Your screen reader *can* be
+set to read what is under the mouse, but it is not very helpful for people with
+no vision. People with usable vision can use this feature, possibly with
+magnification. Since some Chromebooks do not have touch screens, this course focuses
+on the keyboard.
 
 With the keyboard, you are able to move around the screen. The screen reader will read each item the keyboard focus arrives on as you move it. The screen reader will not automatically read your screen, however. You must use keyboard commands to tell the computer to move to the next item, or to the previous item, or any number of other commands. Later in this course, you will learn how to tell the screen reader to read an entire page or document, but you still must perform a keyboard command to do so.
 
 ## Navigating with the Tab key
 
-When you press the **Tab** key, the keyboard focus moves to the next form field, link, or control on the screen, with some exceptions. You cannot move to text with the tab key, and cannot read line by line with the tab key, only from one control to the next. It is useful for moving around a web program, but not useful for reading an article. You can also use Tab to move around Android apps. If you are within the status tray or the Shelf, Tab will move through only items in that area. Tab will also not move from a web page or app to the status area.
+When you press the **Tab** key, the keyboard focus moves to the next form field, link, or control on the screen, with some exceptions. You cannot move to text with the tab key, and cannot read line by line with the tab key, only from one control to the next. It is useful for moving around a web app, but not useful for reading an article. You can also use Tab to move around Android apps. If you are within the status tray or the Shelf, Tab will move through only items in that area. Tab will also not move from a web page or app to the status area.
 
 To move backward, the opposite of Tab, use **Shift + Tab**. This command also will not move from a web page or app to the Status tray or Launcher.
 
@@ -100,7 +106,7 @@ Please perform the following steps to practice using the status tray:
 
 1. Press **Alt + Shift + S** to move to the status tray.
 2. Note how much battery power you have left.
-3. Tab to “Airplane mode” and make sure to turn it off.
+3. Tab to “Airplane mode” and make sure that it's off.
 4. Find the “shut down” button.
 5. Press **Escape** to exit the Status Tray. Do not press the shut down button.
 

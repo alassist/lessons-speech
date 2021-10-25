@@ -40,7 +40,9 @@ means that you will mostly use websites, like <https://www.alassist.us>, and web
 applications, like Gmail, Google Docs, or Google Classroom. Some Chromebooks can
 run Android apps, which are mobile programs. These may or may not be accessible,
 depending on the app. If the Android app is accessible, ChromeVox will work with
-that app.
+that app. ChromeVox can also run Linux apps, but only programs which run in the
+Linux terminal are accessible with ChromeVox for now, and only those which do
+not provide their own textual editing interfaces.
 
 ## The Chromebook keyboard
 
@@ -104,12 +106,12 @@ tutorial.
 
 ### The ChromeVox Tutorial
 
-If the ChromeVox tutorial doesn‘t start when ChromeVox starts, hold down the
+If the ChromeVox tutorial doesn't start when ChromeVox starts, hold down the
 Search key, and press O, then, while still holding Search, press T. This is the
 kind of keyboard command that is common with ChromeVox. You hold down the Search
 key, called the ChromeVox key, press a key, then another key while still holding
 Search. Some of these are easy to remember, like **Search + O, T** meaning “Open
-tutorial,” and others are not so easy.
+tutorial,” and others are less memorable.
 
 The first lesson in the ChromeVox tutorial is about moving around a page. To complete this lesson, use the following keyboard commands:
 
@@ -123,10 +125,6 @@ The first lesson in the ChromeVox tutorial is about moving around a page. To com
 </dl>
 
 If you move to the end of a page, and move right one more time, you will hear a sound, and be placed onto the first item on the page. Inversely, if you move to the start of a page, then move left one more time, you will be placed at the end of the page. Continue the tutorial, and come back to this lesson when done.
-
-## Keyboard Help
-
-If you move to the end of a page and move right one more time, you will hear a sound, and be placed onto the first item on the page. Inversely, if you move to the start of a page, then move left one more time, you will be placed at the end of the page. Continue the tutorial, and come back to this lesson when done.
 
 ## Keyboard Help
 
