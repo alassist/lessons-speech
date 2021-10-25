@@ -1,3 +1,5 @@
+# Appendix 1
+
 ## Browser basic keyboard commands
 
 | Result                                                   | Keystroke                                    |
