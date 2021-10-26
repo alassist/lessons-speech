@@ -24,7 +24,7 @@
 - [Lesson 3.6: Internet on Your Mobile Phone](3.6.html)
 - [Lesson 3.7: The Future of Internet Connections](3.7.html)
 
-Unit 04 - Browser Basics
+## Unit 04 - Browser Basics
 
 - [Lesson 4.1: Introduction](4.1.html)
 - [Lesson 4.2: Common Web Browsers](4.2.html)
