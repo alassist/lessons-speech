@@ -1,3 +1,5 @@
+# Lesson 2
+
 If you don't yet have a Gmail account, [learn how to create an
 account](https://support.google.com/accounts/answer/27441).
 

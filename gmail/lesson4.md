@@ -1,3 +1,5 @@
+# Lesson 4
+
 Along with your screen reader navigation keystrokes, Gmail keyboard
 shortcuts make it easier to navigate and take actions in Gmail.
 

@@ -1,5 +1,6 @@
-Inbox navigation
-----------------
+# Lesson 5
+
+## Inbox navigation
 
 By default, most Gmail inboxes are organized in three tabs:
 
@@ -40,8 +41,7 @@ move between tabs, press **Tab**. To select the tab, press **Enter**.
 If you only have the Primary tab enabled, the table tab list isn't
 present at the top of your inbox.
 
-Browse a list of conversations {#browse-a-list-of-conversations}
-------------------------------
+## Browse a list of conversations {#browse-a-list-of-conversations}
 
 In Gmail, messages are grouped into conversations. For example, if you
 send your friend Kim an email, Kim's response to you is grouped with
@@ -87,8 +87,7 @@ the conversation table:
 -   Labels: If you've added labels to a conversation, this information
     isn't announced in the inbox.
 
-Select and take action on conversations {#select-and-take-action-on-conversations}
----------------------------------------
+## Select and take action on conversations {#select-and-take-action-on-conversations}
 
 The conversation action bar contains buttons and drop-down menus that
 apply to currently selected conversations. The conversation action bar
@@ -159,8 +158,7 @@ Settings button
 :   Press Enter to adjust your settings, send feedback, or get help with
     Gmail.
 
-Read messages in a conversation {#read-messages-in-a-conversation}
--------------------------------
+## Read messages in a conversation {#read-messages-in-a-conversation}
 
 To open a conversation from your inbox or another list, press **Enter**.
 The page now displays all the messages in the conversation, as well as

@@ -1,3 +1,5 @@
+# Lesson 3
+
 Gmail standard view uses a consistent page structure to enable easy
 navigation. The following sections explain what you'll find in each part
 of the Gmail interface.
@@ -22,7 +24,7 @@ of conversations, the heading is "Conversations." When you're viewing an
 individual conversation, the heading is the subject.
 
 Aria Landmarks are landmarks, which you can traverse with the “D” key in
-NVDA, and the “r” key with jAWS. When headings are given, it is assuming
+NVDA, and the “r” key with JAWS. When headings are given, it is assuming
 that you are using Gmail with your screen reader’s navigation features,
 and not with Gmail’s operation keyboard commands.
 
@@ -90,11 +92,10 @@ The Chat or Hangouts section of the page allows you to start chat and
 video hangouts.
 
 The ARIA landmark for this section is "Complementary." If you've
-upgraded to the new Google Hangouts, the heading is "Hangouts." If
-you're using the old chat, the heading is "Chat." For the best
-experience with a screen reader, we recommend the new Google Hangouts.
-Learn more about [keyboard shortcuts for Hangouts in
-Gmail](https://support.google.com/hangouts/answer/3112005).
+upgraded to the new Google Chat, the heading is "Chat, with the number of unread
+messages." If you're using the old Hangouts, the heading is "Hangouts." For the best
+experience with a screen reader, we recommend the new Google Chat.
+Learn more about [Keyboard shortcuts in Google Chat](https://support.google.com/chat/answer/7649271?hl=en).
 
 ### Google bar
 
@@ -119,7 +120,9 @@ Account
 
 At the top of the application, near the Google bar, you'll also hear two
 hidden links for screen readers: basic HTML view and accessibility
-documentation.
+documentation. Basic HTML view is an older view that is simpler, but has less
+features. Google could remove this at any time, so it is best to learn the
+Standard view.
 
 ### Gmail action bar
 

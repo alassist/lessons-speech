@@ -1,3 +1,5 @@
+# Lesson 1
+
 If you want to find an email, it can be difficult to browse through
 hundreds of old messages or click through multiple labels. Instead of
 browsing, try using Gmail search:

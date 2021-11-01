@@ -1,4 +1,6 @@
-### To compose a new message, follow these steps: {#to-compose-a-new-message-follow-these-steps}
+# Lesson 6
+
+## To compose a new message, follow these steps: {#to-compose-a-new-message-follow-these-steps}
 
 1.  If you've enabled keyboard shortcuts, press c to open a new message.
     Otherwise, navigate to the Compose button in the navigation list,

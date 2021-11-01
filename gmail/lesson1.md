@@ -1,13 +1,14 @@
-Gmail standard view includes all Gmail features and is the default
-view for [supported
+# Lesson 1
+
+Gmail standard view includes all Gmail features and is the default view for [supported
 browsers](https://support.google.com/mail/answer/6557).
 
 We recommend the following screen readers for Gmail standard view:
 
 | Operating system  | Screen reader | Browser       |
-|-------------------|---------------|---------------|
+| ----------------- | ------------- | ------------- |
 | Microsoft Windows | NVDA          | Google Chrome |
-| MacOS (Mac)               | VoiceOver     | Google Chrome |
+| MacOS (Mac)       | VoiceOver     | Google Chrome |
 | Chrome OS         | ChromeVox     | Google Chrome |
 
 For unsupported browsers, Gmail also provides a basic HTML view that
