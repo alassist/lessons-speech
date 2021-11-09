@@ -1,6 +1,8 @@
 # Lesson 6
 
-## To compose a new message, follow these steps: {#to-compose-a-new-message-follow-these-steps}
+## Composing a message
+
+To compose a new message, follow these steps:
 
 1.  If you've enabled keyboard shortcuts, press c to open a new message.
     Otherwise, navigate to the Compose button in the navigation list,
@@ -27,7 +29,9 @@
     (Windows, Chrome OS) or **Command + Enter** (Mac) to send, or press
     **Tab** to the Send button and press Enter.
 
-### Before sending your message, the following additional options are available: {#before-sending-your-message-the-following-additional-options-are-available}
+### Aditional options
+
+Before sending your message, the following additional options are available:
 
 Add formatting
 :   To add formatting, such as bold or italic text, select the text

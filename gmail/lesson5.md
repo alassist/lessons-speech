@@ -37,11 +37,13 @@ list" when you enter the tabs, followed by the tab name, whether the tab
 is selected, and the tab order. For example, if the "Primary" tab is
 selected, you might hear "Primary, tab selected, 1 of 3 heading." To
 move between tabs, press **Tab**. To select the tab, press **Enter**.
+While in the list of conversations, you can move to the next tab by
+pressing the ` (accent) key.
 
 If you only have the Primary tab enabled, the table tab list isn't
 present at the top of your inbox.
 
-## Browse a list of conversations {#browse-a-list-of-conversations}
+## Browse a list of conversations
 
 In Gmail, messages are grouped into conversations. For example, if you
 send your friend Kim an email, Kim's response to you is grouped with
@@ -53,7 +55,11 @@ and the list of conversations.
 
 The list of conversations is formatted as a table. You can use table
 navigation, or you can simply press the **up** and **down** arrows, or
-“J” and “K”,  to move through the conversation list. You'll hear the
+“J” and “K”,  to move through the conversation list. You can also
+navigate by column using the **Left** or **Right** arrows. You can
+then use **Up* or **Down** arrows to move down the list by that
+column. You can use this to read only the senders in the conversation,
+or only the subject. This allows you to quickly triage your email.You'll hear the
 following information about conversations in the list:
 
 -   Selected: By default, the conversation isn't selected. Once you
@@ -81,13 +87,10 @@ The following information is also present in the conversation list, but
 isn't announced by default unless you navigate column by column within
 the conversation table:
 
--   Importance: The importance marker appears on messages that Gmail
-    predicts are important to you. If you don't want importance markers,
-    you can turn them off in your Gmail settings.
 -   Labels: If you've added labels to a conversation, this information
     isn't announced in the inbox.
 
-## Select and take action on conversations {#select-and-take-action-on-conversations}
+## Select and take action on conversations
 
 The conversation action bar contains buttons and drop-down menus that
 apply to currently selected conversations. The conversation action bar
@@ -100,6 +103,7 @@ following options:
 Select
 :   Press Enter to open a drop-down menu with options for selecting
     messages, such as All, None, Read, Unread, Starred, or Unstarred.
+    Note that you can do all of these actions with hotkeys.
 
 Refresh
 :   Press Enter to load the latest version of your conversation table.
@@ -130,10 +134,8 @@ includes the following options:
     messages like these, and Mute.
 
 <aside markdown="1">
-
 **Note:** Many of these options are also available as [keyboard
 shortcuts](https://support.google.com/mail/answer/6594).
-
 </aside>
 
 The following additional buttons are always present:
@@ -186,7 +188,6 @@ Importance marker button
 :   Set to on in messages Gmail predicts are important to you.
 
 Labels buttons
-
 :   List of labels that are applied to this conversation. Select Enter
     on a label to view a list of all messages with this label.
 
@@ -195,7 +196,6 @@ Labels buttons
     -   One or more messages.
 
 Attachments area
-
 :   If the message has an attachment, you'll hear "attachments area."
     You can take the following actions on attachments:
 

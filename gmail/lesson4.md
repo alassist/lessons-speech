@@ -8,10 +8,10 @@ remaining shortcuts by following the steps below:
 
 1.  Navigate to the Settings button in the Gmail action bar, then press
     **Enter**.
-2.  Navigate down the Settings menu to Settings, then press **Enter**.
+2.  Navigate through the Settings menu to Settings using the **Tab** key, then press **Enter**.
 3.  Move down the page, using Tab, to the "Keyboard shortcuts" option.
 4.  Select "Keyboard shortcuts on."
-5.  Navigate to the Save changes link, then press **Enter**.
+5.  Navigate to "Save changes," then press **Enter**.
 
 <aside>
 <p><b>Note</b>: If you're using NVDA, you need to be in focus mode to use
