@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 7
 
 If you want to find an email, it can be difficult to browse through
 hundreds of old messages or click through multiple labels. Instead of
@@ -12,7 +12,7 @@ browsing, try using Gmail search:
 4. To exit your search results and return to your inbox, press the left
     arrow to move to the navigation list, and select Inbox.
 
-### When you search in Gmail: {#when-you-search-in-gmail}
+### When you search in Gmail:
 
 -   Gmail searches the messages in the All Mail label, which includes
     messages that you've sent or received but haven't deleted. The Spam
@@ -27,7 +27,7 @@ search terms, or you can use a form for entering advanced search
 options. Both of these search methods are described in the following two
 sections.
 
-### Search operators {#search-operators}
+### Search operators
 
 By default, your search terms are matched against the words in every
 part of the message and sometimes in attachments. If you like, you can
@@ -59,7 +59,7 @@ examples:
 To learn more, [read a list of all search
 operators](https://support.google.com/mail/answer/7190).
 
-### Advanced search options {#advanced-search-options}
+### Advanced search options
 
 1.  You can use advanced search options in addition to search operators.
     To use advanced search options follow these steps:

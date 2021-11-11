@@ -10,16 +10,18 @@ select any label in the navigation list to bring up all conversations
 that have that label. You can also search for conversations in a label
 by using the label: search operator (e.g. label:vacation).
 
-### To add labels to conversations, follow these steps: {#to-add-labels-to-conversations-follow-these-steps}
+## Adding a label
+
+To add labels to conversations, follow these steps:
 
 1.  In any conversation list, select the checkbox next to a message to
-    select it. If you're already viewing a single conversation, you can
+    select it. If you're using keyboard shortcuts, simply press x. If you're already viewing a single conversation, you can
     skip this step.
 2.  Press L to open the labels menu, or navigate to the labels menu in
     the conversation action bar and press Enter.
 3.  Navigate down the list, then press Enter to apply the label.
 
-<!-- -->
+## Create a new label
 
 1.  To create a new label, use one of the following options:
 

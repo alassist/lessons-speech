@@ -69,7 +69,7 @@ Spell-check
     5.  When you've finished spell-checking, navigate to the Send button
         to send your message.
 
-### To reply or forward a message, follow these steps: {#to-reply-or-forward-a-message-follow-these-steps}
+### To reply or forward a message, follow these steps:
 
 -   In a conversation page, select the Reply button or choose a
     different option from the More menu, such as Reply all or Forward.

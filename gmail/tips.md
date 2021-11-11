@@ -1,3 +1,5 @@
+# Tips
+
 Welcome to Gmail standard view! Here are some tips for using Gmail with
 a screen reader:
 
