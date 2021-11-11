@@ -24,16 +24,17 @@ of conversations, the heading is "Conversations." When you're viewing an
 individual conversation, the heading is the subject.
 
 Aria Landmarks are landmarks, which you can traverse with the “D” key in
-NVDA, and the “r” key with JAWS. When headings are given, it is assuming
+NVDA, and the “r” key with JAWS. When headings and landmarks are given, it is assumed
 that you are using Gmail with your screen reader’s navigation features,
-and not with Gmail’s operation keyboard commands.
+and not with Gmail’s own keyboard commands.
 
 ### Compose button
 
 The Compose button lets you start composing a new email. When your
 screen reader's browse mode function is turned off if necessary,
-pressing the letter "C" will activate the compose button. You'll find
-more details about composing messages below.
+pressing the letter "C" will activate the compose button. Keyboard
+Shortcuts must be activated for this to work. You'll find
+more details about composing messages in a future lesson.
 
 ### Navigation list
 
@@ -88,8 +89,8 @@ More labels section
 
 ### Chat or Hangouts
 
-The Chat or Hangouts section of the page allows you to start chat and
-video hangouts.
+The Chat or Hangouts section of the page allows you to send and
+receive chat messages and voice or video calls.
 
 The ARIA landmark for this section is "Complementary." If you've
 upgraded to the new Google Chat, the heading is "Chat, with the number of unread
@@ -146,7 +147,7 @@ Advanced search options button
 Search Gmail button
 :   Performs the search (or press Enter while in the search edit box).
 
-Navigate button
+Navigation button
 :   Press Enter to open a navigation menu. Options include Gmail,
     Contacts, and Tasks.
 

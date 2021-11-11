@@ -160,7 +160,7 @@ Settings button
 :   Press Enter to adjust your settings, send feedback, or get help with
     Gmail.
 
-## Read messages in a conversation {#read-messages-in-a-conversation}
+## Read messages in a conversation
 
 To open a conversation from your inbox or another list, press **Enter**.
 The page now displays all the messages in the conversation, as well as
