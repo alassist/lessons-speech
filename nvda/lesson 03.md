@@ -17,12 +17,15 @@ To navigate the Windows interface, you'll use a few keys and commands.
 - Escape closes menus and dialog boxes.
 - Control + Tab navigates an interface with tabs.
 
-Find out more regarding Windows controls in the *Windows basics with Speech* course.
+Find out more regarding Windows controls in the *Windows basics with
+Speech* course.
 
-Focus
-=====
+# Focus
 
-To deal with keyboard navigation, there is a system of tracking what the screen reader is currently focusing on. This is called focus, and you can tell what is in focus by recalling the last item on screen that NVDA just spoke.
+To deal with keyboard navigation, there is a system of tracking what
+the screen reader is currently focusing on. This is called focus, and
+you can tell what is in focus by recalling the last item on screen
+that NVDA just spoke.
 
 For example, if NVDA says “taskbar,” that means that the Windows Taskbar is in focus. If NVDA says:
 
@@ -34,17 +37,16 @@ For example, if NVDA says “taskbar,” that means that the Windows Taskbar is 
 
 Then the “No” button is in focus.
 
-NVDA navigation aids
-====================
+# NVDA navigation aids
 
-There are a few commands to help users figure out where they are in the Windows environment if you get lost:
+There are a few commands to help users figure out where they are in
+the Windows environment if you get lost:
 
 - Insert + Tab: Read the currently focused control
 - Insert + B: Read the entire window that is currently focused
 - Insert + T: Read the title of the current window
 
-Activity
---------
+## Activity
 
 Now, let's practice dealing with focus. Please complete the following:
 
@@ -61,34 +63,51 @@ Now, let's practice dealing with focus. Please complete the following:
 - Press **Alt + F4** to close the program.
 - Practice these steps until you feel comfortable with them, then move on to the next section.
 
-Screen reader Jargon
-====================
+# Screen reader Jargon
 
-With any technical subject comes jargon, which can be hard to understand, or even sound silly. These jargon words, however, convey essential information about the items which the screen reader is focusing on. Below is a list of terms that you'll hear when using NVDA, and their definitions.
+With any technical subject comes jargon, which can be hard to
+understand, or even sound silly. These jargon words, however, convey
+essential information about the items which the screen reader is
+focusing on. Below is a list of terms that you'll hear when using
+NVDA, and their definitions.
 
 - Block quote: A long quote which takes multiple lines.
 - button: A round item with a label which can be clicked, or activated with Space or Enter.
-w-drop-down button: a button which opens a menu. Press the Space Bar to activate.
+-drop-down button: a button which opens a menu. Press the Space Bar to
+activate it.
 - spin button: a numeric entry field which can be typed into, but also increased or decreased using the arrow keys.
 - split button: a button which can be activated with the Enter key, but has alternative actions which can be accessed using the Space bar.
-- toggle button : a button which toggles a setting on or off. Toggle it with the Enter key.
+- toggle button : a switch which toggles a setting on or off. Toggle it with the Enter key.
 - Combo box : a closed box, which can be opened to reveal a list of items. Open with Alt + Down arrow, choose an item with the arrow keys, and close with Alt + Up arrow.
 - Check box: A box which can be checked or unchecked with the Space key.
 - Dialog: a window in a program which appears with text in the center, and buttons to answer the text with, for example yes, no, or OK. Tab through the options in a dialog box. Options which can be acted upon are regular Windows controls.
 - document: A place where text is written and edited. Using tab only indents text, so use F6 to move to another part of the program.
 - Edit: A box for text entry that is one line only.
-- Password edit: an edit field where text typed into the field will not be spoken, only “star”.
-- embedded object: An object on a website that is a web application embedded into the site (usually an Adobe flash program, not often used), but can also be a video player or modern web app.
+- Password edit: an edit field where text typed into the field will
+  not be spoken, only “star” will be spoken.
+- embedded object: An object on a website that is a web application
+  embedded into the site (usually an Adobe flash program, not often
+  used), but can also be a video player, document, or modern web app.
 - graphic: an image.
 - heading: a headline, which can be in range 1 to 6, 1 being most important, 6 being least important.
-- landmark: A navigational device on a website which allows one to find important parts of it.
-- link: A hyperlink to a different part of a web page, to a different website, or in a program, opens an Internet page for showing further information. Activate these with the Enter key.
-- Menu bar: a bar of menus across the top of a program. Press the Alt key to access.
-- menu button: a button which opens a menu. Press Enter or Space to activate.
-- radio button: a button, in a list of buttons, of which only one can be chosen. Press Space to activate one.
-- status bar: a bar at the bottom of a program which gives statistics, like a word count or number of errors. Press **NVDA + Page Down** to read it.
-- tab control: a list of tabs which change the “page” of the program you're in.
-- tree view: a list with items which can be expanded to show other items, or collapsed to hide them.
+- landmark: A navigational device on a website which allows one to
+  find important parts of the page.
+- link: A hyperlink to a different part of a web page, to a different
+  website, or in a program, opens an Internet page for showing further
+  information. Activate these with the Enter key.
+- Menu bar: a bar of menus across the top of a program. Press the Alt
+  key to access.
+- menu button: a button which opens a menu. Press Enter or Space to
+  activate.
+- radio button: a button, in a list of buttons, of which only one can
+  be chosen. Press Space to activate one.
+- status bar: a bar at the bottom of a program which gives statistics,
+  like a word count or number of errors. Press **NVDA + Page Down** to
+  read it.
+- tab control: a list of tabs which change the “page” of the program
+  you're in.
+- tree view: a list with items which can be expanded to show other
+  items, or collapsed to hide them.
 - window: a program's frame on the screen.
 - separator: a horizontal line.
 - Menu: used to select an item from a list.
