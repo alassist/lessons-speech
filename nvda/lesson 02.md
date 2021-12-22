@@ -1,20 +1,31 @@
-Basic Navigation
-================
+# Basic Navigation
 
-To navigate Windows, you will use a few keyboard commands. These are not screen reader commands, but are Windows concepts which enable a blind person to use a computer, no matter which screen reader they use. More in-depth Windows concepts are given in the *Windows Basics with Speech* course, but the beginnings will be given here.
+To navigate Windows, you will use a few keyboard commands. These are
+not screen reader commands, but are Windows concepts which enable a
+blind person to use a computer, no matter which screen reader they
+use. More in-depth Windows concepts are given in the *Windows Basics
+with Speech* course, but the beginnings will be given here.
 
-The Tab key
------------
+## The Tab key
 
-The **Tab** key, located one key above the Caps Lock key, moves between objects on the screen. For example, on a web page, it moves between any non-text item on the page, including links, forms, buttons, text entry boxes, the address bar, and so on. In programs, it moves between any non-text controls in the program. We'll focus on reading text in programs later on, and in a web browser in the *Internet with Speech* course.
+The **Tab** key, located one key above the Caps Lock key, moves
+between objects on the screen. For example, on a web page, it moves
+between any non-text item on the page, including links, forms,
+buttons, text entry boxes, the address bar, and so on. In programs, it
+moves between any non-text controls in the program. We'll focus on
+reading text in programs later on, and in a web browser in the
+*Internet with Speech* course.
 
-Arrow keys
-----------
+## Arrow keys
 
-The **Arrow keys** navigate text. The Up and Down arrow keys navigate up and down one line. The Left and Right arrow keys navigate left and right one letter, or character, which includes letters, numbers, symbols, and spaces. Combined with modifier keys, which will be covered later, they move by different amounts, or select text, or both.
+The **Arrow keys** navigate text. The Up and Down arrow keys navigate
+up and down one line. The Left and Right arrow keys navigate left and
+right one letter, or character, which includes letters, numbers,
+symbols, and spaces. Combined with modifier keys, which will be
+covered later, they move by different amounts, or select text, or
+both.
 
-Modifier keys
--------------
+## Modifier keys
 
 The **Modifier Keys** are keys that do not generally act when pressed, but act when pressed with another key. To use a modifier to modify another key, hold down the modifier key, press the key to be modified, and release both keys. Do not hold down the modified key. The modifier keys are:
 
@@ -22,7 +33,7 @@ The **Modifier Keys** are keys that do not generally act when pressed, but act w
 - Alt: To the left and right of the space bar, used to open a     program's menu, or perform commands within that menu system.
 - Windows: To the left of the left alt key, opens the start menu if     pressed, if it modifies a key that makes a key command, it does     system actions, like bringing up the menu to run commands and shut     down the computer.
 - Control: To the left of the Windows key on most keyboards, to the     right of the context key, does program and text commands, like     moving by words and paragraphs, selecting all text, playing media,     and many other functions.
-- Screen reader modifier: NVDA's modifier key. Press it with     another key to execute NVDA commands. the Insert key can be     combined with the control key to do even more commands. Hereafter,     it will be called the NVDA key, or the Insert key, in other     courses.
+- Insert (Screen reader modifier): NVDA's modifier key. Press it with     another key to execute NVDA commands. the Insert key can be     combined with the control key to do even more commands. Hereafter,     it will be called the NVDA key, or the Insert key, in other     courses.
 
 On laptop keyboard layouts, the screen reader modifier key is the capslock key, for NVDA's usage. If your laptop has a number pad, it may be easier to use NVDA in desktop layout, as you have a full desktop keyboard.
 
