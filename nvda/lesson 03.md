@@ -1,7 +1,13 @@
-Navigating the computer Using Focus
-=======================
+# Navigating the computer Using Focus
 
-Using a computer with a screen reader will be hard at first. You cannot see every item that is available, at once, and there may be items that a screen reader will skip over or not read correctly due to accessibility issues in programs and websites. However, the more you use NVDA, the easier it'll become, and the more confident you will be in your ability to navigate the Windows environment. You can also use advanced navigation features, taught later, which may help when using programs which were not made with support for screen readers.
+Using a computer with a screen reader will be hard at first. You
+cannot see every item that is available, at once, and there may be
+items that a screen reader will skip over or not read correctly due to
+accessibility issues in programs and websites. However, the more you
+use NVDA, the easier it'll become, and the more confident you will be
+in your ability to navigate the Windows environment. You can also use
+advanced navigation features, taught later, which may help when using
+programs which were not made with support for screen readers.
 
 To navigate the Windows interface, you'll use a few keys and commands.
 
