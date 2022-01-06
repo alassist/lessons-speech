@@ -10,6 +10,7 @@ select any label in the navigation list to bring up all conversations
 that have that label. You can also search for conversations in a label
 by using the label: search operator (e.g. label:vacation).
 
+<<<<<<< HEAD
 ## Adding a label
 
 To add labels to conversations, follow these steps:
@@ -21,6 +22,7 @@ To add labels to conversations, follow these steps:
     the conversation action bar and press Enter.
 3.  Navigate down the list, then press Enter to apply the label.
 
+<<<<<<< HEAD
 ## Create a new label
 
 1.  To create a new label, use one of the following options:
