@@ -1,4 +1,6 @@
-# Navigating through objects
+# Lesson 7
+
+## Navigating through objects
 
 NVDA has a navigation method which navigates through the objects, or
 items, on the screen. Objects are items on the screen, like boxes to
@@ -107,7 +109,7 @@ To navigate by object, use the following commands:
 </tbody>
 </table>
 
-## Activity
+### Activity
 
 Follow these steps to familiarize yourself with object navigation.
 Please read the instructions before performing the steps.

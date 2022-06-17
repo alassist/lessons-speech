@@ -1,4 +1,6 @@
-# Basic Navigation
+# Lesson 2
+
+## Basic Navigation
 
 To navigate Windows, you will use a few keyboard commands. These are
 not screen reader commands, but are Windows concepts which enable a
@@ -6,7 +8,7 @@ blind person to use a computer, no matter which screen reader they
 use. More in-depth Windows concepts are given in the *Windows Basics
 with Speech* course, but the beginnings will be given here.
 
-## The Tab key
+### The Tab key
 
 The **Tab** key, located one key above the Caps Lock key, moves
 between objects on the screen. For example, on a web page, it moves
@@ -16,7 +18,7 @@ moves between any non-text controls in the program. We'll focus on
 reading text in programs later on, and in a web browser in the
 *Internet with Speech* course.
 
-## Arrow keys
+### Arrow keys
 
 The **Arrow keys** navigate text. The Up and Down arrow keys navigate
 up and down one line. The Left and Right arrow keys navigate left and
@@ -25,7 +27,7 @@ symbols, and spaces. Combined with modifier keys, which will be
 covered later, they move by different amounts, or select text, or
 both.
 
-## Modifier keys
+### Modifier keys
 
 The **Modifier Keys** are keys that do not generally act when pressed, but act when pressed with another key. To use a modifier to modify another key, hold down the modifier key, press the key to be modified, and release both keys. Do not hold down the modified key. The modifier keys are:
 
@@ -40,7 +42,7 @@ capslock key, for NVDA's usage. If your laptop has a number pad, it
 may be easier to use NVDA in desktop layout, as you have a full
 desktop keyboard.
 
-## Writing Modifiers
+### Writing Modifiers
 
 Modifier keys are used to modify the functions of other keys. To show
 that a key modifies another, this course, and many others, shows it by
@@ -50,7 +52,7 @@ release all keys. This is how keys are modified. If the course says to
 press **INSERT + N**, it means that you should hold down either the
 Insert or Capslock key, press N, then release both keys.
 
-# Help with the keyboard
+## Help with the keyboard
 
 With NVDA, you can learn where keys are on the keyboard using
 *Keyboard Help Mode*. This mode allows you to press keys, just about
@@ -66,19 +68,19 @@ keyboard.
 
 To use Input help mode, press **Insert + 1**. This is a toggle key, which means that the key turns a function on and off. So, if you press it when it is off, Input Help mode turns on. If you press the key command when it is on, the mode is turned off.
 
-## Activity
+### Activity
 
 Complete the following actions:
 
--   Turn on Input Help mode.
--   Press the letter “S”.
--   Press the "Space" key.
--   Press the **Tab** key.
--   Press **Insert + Down Arrow**.
--   Turn off Keyboard Help mode.
--   Repeat these steps until you are comfortable with them, then     continue to the next section by pressing **Down Arrow** until you     hear "Heading level 1, what time is it?"
+- Turn on Input Help mode.
+- Press the letter “S”.
+- Press the "Space" key.
+- Press the **Tab** key.
+- Press **Insert + Down Arrow**.
+- Turn off Keyboard Help mode.
+- Repeat these steps until you are comfortable with them, then     continue to the next section by pressing **Down Arrow** until you     hear "Heading level 1, what time is it?"
 
-# What time is it?
+## What time is it?
 
 For your first NVDA command, besides the keyboard help command, you'll
 learn to have your computer tell the current time. This is useful for
@@ -88,23 +90,23 @@ F12**. NVDA will speak the time, and show it in braille, if you have a
 braille display connected and in use. Note that the time in braille
 will only appear for a few seconds.
 
-## Quick tip
+### Quick tip
 
 If you press **INSERT + F12** twice quickly, you'll hear the current date.
 
-## Activity
+### Activity
 
 Complete the following actions:
 
--   Check the time using NVDA's key command.
--   Check the date using NVDA's key command.
--   Turn on keyboard help mode
--   Check the time while in Keyboard Help mode
--   Check the date while in Keyboard Help mode
--   Turn off Keyboard help mode
--   Repeat these steps until you feel comfortable with them, then move on to the next section: "Stopping and Pausing Speech."
+- Check the time using NVDA's key command.
+- Check the date using NVDA's key command.
+- Turn on keyboard help mode
+- Check the time while in Keyboard Help mode
+- Check the date while in Keyboard Help mode
+- Turn off Keyboard help mode
+- Repeat these steps until you feel comfortable with them, then move on to the next section: "Stopping and Pausing Speech."
 
-# Stopping and pausing speech
+## Stopping and pausing speech
 
 Sometimes, you may wish to stop NVDA's speech. Perhaps you must step
 away from the computer, answer a phone call, or stop the speech to
@@ -120,17 +122,17 @@ what it was just speaking.
 
 NVDA can also be paused. To do this, press Shift. NVDA will pause speaking, and wait to be resumed or have another command issued which will have it speak something different.
 
-## Activity
+### Activity
 
 Complete the following actions:
 
--   Have NVDA begin reading this section using **INSERT + Down Arrow**. Please read the rest of the instructions before following them.
--   Press **Shift** to pause speech, then **Shift** again to resume it.
--   Press **Control** to stop speech, then **INSERT + Down Arrow** to     begin reading again.
--   Turn on Keyboard Help mode
--   Press Control
--   Press Shift
--   Turn off Keyboard Help mode
--   Repeat these steps until you feel comfortable with them, then move on to Lesson 03.
+- Have NVDA begin reading this section using **INSERT + Down Arrow**. Please read the rest of the instructions before following them.
+- Press **Shift** to pause speech, then **Shift** again to resume it.
+- Press **Control** to stop speech, then **INSERT + Down Arrow** to     begin reading again.
+- Turn on Keyboard Help mode
+- Press Control
+- Press Shift
+- Turn off Keyboard Help mode
+- Repeat these steps until you feel comfortable with them, then move on to Lesson 03.
 
 Notice that when NVDA begins reading again, it begins at the place where it was stopped, not where it originally began reading.

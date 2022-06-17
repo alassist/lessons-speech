@@ -1,4 +1,6 @@
-# Reviewing Text with NVDA
+# Lesson 6
+
+## Reviewing Text with NVDA
 
 Sometimes, using the arrow keys to read text isn’t what you want, or
 can do, to review text in the program you’re in. Othertimes, you may
@@ -10,7 +12,7 @@ document, or text area. This is called the Review Cursor, and is
 different from the Windows text cursor which you use with the Arrow
 keys.
 
-# Review Cursor Keys
+## Review Cursor Keys
 
 The following table contains NVDA functions, and the ways to use them,
 either through a Desktop keyboard, laptop keyboard, or touch screen.
@@ -169,15 +171,16 @@ either through a Desktop keyboard, laptop keyboard, or touch screen.
 </tbody>
 </table>
 
-## Review modes
+### Review modes
 
 NVDA’s text review function has a few modes which control how much can
 be reviewed. One can use the following keys to control this:
 
 *NVDA + Numpad1: Switch to previous review mode.
+
 * NVDA + Numpad 7: Switch to next review mode.
 
-# Uses For Reviewing Text
+## Uses For Reviewing Text
 
 There are a few cases for why reviewing text with the review cursor
 can be useful.
@@ -190,9 +193,9 @@ can be useful.
 * If you move, using the navigator object discussed later, you will
   have to review that object using the review cursor.
 
-## Activity
+### Activity
 
-- Use the review cursor to read the line above this one, then use
+* Use the review cursor to read the line above this one, then use
   **Insert + Up Arrow** to verify that your system cursor is still on
   this line.
 

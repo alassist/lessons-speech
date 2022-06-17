@@ -1,4 +1,6 @@
-# NVDA on the Internet
+# Lesson 4
+
+## NVDA on the Internet
 
 NVDA works well with the Internet. You can use many web browsers, which
 connect to websites to show their content. NVDA has two modes of
@@ -10,7 +12,7 @@ sound when you come across for form to log into this site, you are put
 into Focus mode in order to type your username and password, and taken
 out of it when you reach the login button.
 
-# Reading the Web
+## Reading the Web
 
 Navigating the Internet in Browse mode is much like navigating text
 documents. In fact, much of the Internet, for now, is made up of
@@ -21,7 +23,7 @@ host entire programs running on Internet servers, like Google Drive.
 
 NVDA provides users a way to read web pages like a Notepad document, or navigate controls like a regular program. You can use your arrow keys to read line by line. You can read the entire document with Insert + Down Arrow. You can move to the next link or control with the Tab key, and activate it with the Enter key. You can find out what page you’re on with Insert + T. However, there are quicker ways to navigate the Internet, which you will learn about in the next section.
 
-# Finding text
+## Finding text
 
 When you know what you’re looking for, finding text can make
 navigating websites quick and easy. For example, if you know that,
@@ -32,7 +34,7 @@ first try, press **Insert + F3**, and NVDA will look for the next
 occurrence of that text. To find the previous occurrence, press
 **Insert + Shift + F3**.
 
-## Activity
+### Activity
 
 Please read through the following activity, then perform it to find text on a web page:
 
@@ -41,7 +43,7 @@ Please read through the following activity, then perform it to find text on a we
 - Type “activity” without the quotation marks.
 - Press **Enter**. You will be taken to the Activity section.
 
-# Finding objects
+## Finding objects
 
 The web contains many types of items. There are headings, links,
 lists, forms, check boxes, buttons, radio buttons, separators, images,
@@ -74,7 +76,7 @@ while adding the shift key causes them to jump to the previous item:
 - a: annotation (comment, editor revision, etc.)
 - w: spelling error
 
-## Activity
+### Activity
 
 Please perform the following steps to quickly navigate to an object:
 
@@ -84,7 +86,7 @@ Please perform the following steps to quickly navigate to an object:
   again by searching for text in this sentence.
 - Press “K” to move to the next link.
 
-# Listing objects
+## Listing objects
 
 There may be times when you don’t need to find text on a page, and do
 not know how to spell something, but know what type of object it is.
@@ -97,7 +99,7 @@ are elements, both ordered lists and unordered ones, with list items
 inside them. This is why the dialog used to find items is called the
 “elements list.”
 
-## Activity
+### Activity
 
 Please complete the following steps to use the Elements List:
 

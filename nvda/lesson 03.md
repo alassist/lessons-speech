@@ -1,4 +1,6 @@
-# Navigating the computer Using Focus
+# Lesson 3
+
+## Navigating the computer Using Focus
 
 Using a computer with a screen reader will be hard at first. You
 cannot see every item that is available, at once, and there may be
@@ -20,7 +22,7 @@ To navigate the Windows interface, you'll use a few keys and commands.
 Find out more regarding Windows controls in the *Windows basics with
 Speech* course.
 
-# Focus
+## Focus
 
 To deal with keyboard navigation, there is a system of tracking what
 the screen reader is currently focusing on. This is called focus, and
@@ -29,15 +31,13 @@ that NVDA just spoke.
 
 For example, if NVDA says “taskbar,” that means that the Windows Taskbar is in focus. If NVDA says:
 
-> Confirmation dialog
-
-> Do you want to save this file?
-
+> Confirmation dialog  
+> Do you want to save this file?  
 > No button
 
 Then the “No” button is in focus.
 
-# NVDA navigation aids
+## NVDA navigation aids
 
 There are a few commands to help users figure out where they are in
 the Windows environment if you get lost:
@@ -46,7 +46,7 @@ the Windows environment if you get lost:
 - Insert + B: Read the entire window that is currently focused
 - Insert + T: Read the title of the current window
 
-## Activity
+### Activity
 
 Now, let's practice dealing with focus. Please complete the following:
 
@@ -63,7 +63,7 @@ Now, let's practice dealing with focus. Please complete the following:
 - Press **Alt + F4** to close the program.
 - Practice these steps until you feel comfortable with them, then move on to the next section.
 
-# Screen reader Jargon
+## Screen reader Jargon
 
 With any technical subject comes jargon, which can be hard to
 understand, or even sound silly. These jargon words, however, convey

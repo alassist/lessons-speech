@@ -1,11 +1,13 @@
-# Introduction
+# Lesson 1
+
+## Introduction
 
 Welcome to the NVDA Basics course. In this course, you will learn how
 to use the NVDA screen reader. This course will be useful for people
 who have used other screen readers in the past, and for those who have
 never used a screen reader before.
 
-# How to use this course within Moodle
+### How to use this course within Moodle
 
 This course is divided into lessons. To navigate to the next lesson,
 press the **tab** key until you hear “lesson 2” or whichever lesson
@@ -18,7 +20,7 @@ find the beginning of the lesson, then use **Insert + Down Arrow**,
 hold Insert and press Down Arrow then release both keys, to begin
 reading the next lesson.
 
-# About NVDA
+### About NVDA
 
 NVDA, [NonVisual Desktop Access](https://www.nvaccess.org), is a
 [Screen reader](https://en.wikipedia.org/wiki/Screen_reader) for the
@@ -30,7 +32,7 @@ program which does not comply with Windows [accessibility
 standards](https://developer.microsoft.com/en-us/windows/accessible-apps)
 will not be made accessible with NVDA.
 
-# Downloading NVDA
+### Downloading NVDA
 
 You can download NVDA from the [NvAccess download
 page](https://www.nvaccess.org/download/). Choose to either donate, or
@@ -50,7 +52,7 @@ on keyboard layouts. If you are using NVDA on a workstation at
 Gentry's Assistive Technology program, NVDA is already installed, and
 the welcome dialog box will not open when you start NVDA.
 
-# Starting NVDA
+### Starting NVDA
 
 When you first turn on your personal computer, or sit down at a public
 workstation with NVDA installed, it probably will not be on when the

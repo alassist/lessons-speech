@@ -1,4 +1,6 @@
-# Editing Text with NVDA
+# Lesson 5
+
+## Editing Text with NVDA
 
 Editing text mostly deals with Windows keyboard commands, so use the
 knowledge you’ve gained from the *Windows Basics with Speech* course
@@ -13,11 +15,11 @@ As taught in *Windows Basics with Speech*, Windows contains a cursor
 used in typing text, which moves forward as you type. NVDA has its own
 virtual review cursor, which will be taught later.
 
-# Reading a line
+## Reading a line
 
 While you write, you may wish to read the line you’re on. To do this, press **Insert + Up Arrow**. NVDA will speak the line which the cursor is on.
 
-## Activity
+### Activity
 
 Please complete the following steps to read a line:
 
@@ -32,7 +34,7 @@ Please complete the following steps to read a line:
 - Press **Insert + Up arrow**, which will read that line, without you needing to arrow to it. This may be used to help you remember what to write next.
 - Practice these steps until you feel comfortable with them, then continue to the next section.
 
-# Reading the Rest of the document
+## Reading the Rest of the document
 
 NVDA can read an entire document, from the place where the cursor is,
 to the end of the document. This is great for reading articles on the
@@ -41,7 +43,7 @@ document rather than reading line by line. If you’ve followed the
 instructions given in lesson 1, you also use this command to read your
 lessons.
 
-## Activity
+### Activity
 
 Please complete the following steps to read a document:
 

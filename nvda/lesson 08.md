@@ -1,16 +1,30 @@
-Browsing the Internet
-=====================
+# Lesson 8
 
-Using NVDA, you can easily browse Internet sites, like news websites, forums for discussion of topics among other people, blogs to read people’s views on items of interest, or audio and video sources, like radio and such. NVDA even works with “web apps,” which are programs that run on the web, like Gmail, Google Docs, and Microsoft Office Online.
+## Browsing the Internet
 
-Navigating the Internet with NVDA is a lot like reading a document. You use the arrow keys to read line by line, or character by character. Use the **Up** and **Down** arrow keys to navigate by line, and the **Left** and **Right** arrow keys to navigate by character. You can also navigate by word, paragraph, and page.
+Using NVDA, you can easily browse Internet sites, like news websites, forums for
+discussion of topics among other people, blogs to read people’s views on items
+of interest, or audio and video sources, like radio and such. NVDA even works
+with “web apps,” which are programs that run on the web, like Gmail, Google
+Docs, and Microsoft Office Online.
 
-As you navigate an Internet “document,” called a web page, you will hear many types of items described by what they are, or what function they perform. You may hear “Heading 2 Lesson 8.” This means that the type of item is “heading 2,” and it is called “Lesson 8.” While “Heading 2” may not sound familiar to you, things like “button” and “list” will be more evident.
+Navigating the Internet with NVDA is a lot like reading a document. You use the
+arrow keys to read line by line, or character by character. Use the **Up** and
+**Down** arrow keys to navigate by line, and the **Left** and **Right** arrow
+keys to navigate by character. You can also navigate by word, paragraph, and
+page.
 
-Internet Item Types
-===================
+As you navigate an Internet “document,” called a web page, you will hear many
+types of items described by what they are, or what function they perform. You
+may hear “Heading 2 Lesson 8.” This means that the type of item is “heading 2,”
+and it is called “Lesson 8.” While “Heading 2” may not sound familiar to you,
+things like “button” and “list” will be more evident.
 
-As mentioned before, there are several types of items, called “elements” in other places, that make up web pages. Below is a list of common types of items, and what they are for.
+## Internet Item Types
+
+As mentioned before, there are several types of items, called “elements” in
+other places, that make up web pages. Below is a list of common types of items,
+and what they are for.
 
 <dl>
 <dt>heading</dt>
@@ -56,12 +70,16 @@ navigating the site. A “complementary” landmark usually contains notes
 or sidebar material.</dd>
 </dl>
 
-moving to item types
-====================
+## moving to item types
 
-While reading a web page, you might find that reading line by line, or even paragraph by paragraph, becomes very slow. You’re at the top of a page, which has lots of links to take you to different areas of the website, but you want to get to an article or the content of the page. Using NVDA, you can move directly to the part of a page you are looking for.
+While reading a web page, you might find that reading line by line, or even
+paragraph by paragraph, becomes very slow. You’re at the top of a page, which
+has lots of links to take you to different areas of the website, but you want to
+get to an article or the content of the page. Using NVDA, you can move directly
+to the part of a page you are looking for.
 
-The following keys by themselves jump to the next available item, while adding the shift key causes them to jump to the previous item:
+The following keys by themselves jump to the next available item, while adding
+the shift key causes them to jump to the previous item:
 
 - h: heading
 - l: list
@@ -87,16 +105,30 @@ The following keys by themselves jump to the next available item, while adding t
 - a: annotation (comment, editor revision, etc.)
 - w: spelling error
 
-Finding text on a page
-======================
+## Finding text on a page
 
-There may be times when you know some text you’d like to move to, but don’t know quite where it is, or what item it is near, on a page. For this, there is a *find* command. With this command, you can find a phrase, a word, or even part of a word, anywhere on the page, no matter what type of item it is.
+There may be times when you know some text you’d like to move to, but don’t know
+quite where it is, or what item it is near, on a page. For this, there is a
+*find* command. With this command, you can find a phrase, a word, or even part
+of a word, anywhere on the page, no matter what type of item it is.
 
-To open the Find function, you press **Insert + Control + f**. This opens the find dialog box, where you can type some text to search for. After you’ve typed your text, press **Enter**, and the page will be searched for that text. If it is found, NVDA will move the cursor to that point on the page, but if it is not found, NVDA will alert you of that fact.
+To open the Find function, you press **Insert + Control + f**. This opens the
+find dialog box, where you can type some text to search for. After you’ve typed
+your text, press **Enter**, and the page will be searched for that text. If it
+is found, NVDA will move the cursor to that point on the page, but if it is not
+found, NVDA will alert you of that fact.
 
 The Elements List
 =================
 
-The *Elements list* is a function of NVDA which shows a list of all items on a page of a certain type. Usually, it is used to show a list of all links, and is useful if you want to have a list of items, without text or anything else. For searching for links by text, it is better, and more quick, to use the Find function.
+The *Elements list* is a function of NVDA which shows a list of all items on a
+page of a certain type. Usually, it is used to show a list of all links, and is
+useful if you want to have a list of items, without text or anything else. For
+searching for links by text, it is better, and more quick, to use the Find
+function.
 
-To access the Elements list, press **Insert + F7**. This will open a list of links. If you press **Shift + Tab**, you can arrow through a list of item types, to change the type of item that is listed. Then, when you tab back to the list, the new list of items is shown. When you’ve found the item you want to activate, press **Enter** to move to it.
+To access the Elements list, press **Insert + F7**. This will open a list of
+links. If you press **Shift + Tab**, you can arrow through a list of item types,
+to change the type of item that is listed. Then, when you tab back to the list,
+the new list of items is shown. When you’ve found the item you want to activate,
+press **Enter** to move to it.
