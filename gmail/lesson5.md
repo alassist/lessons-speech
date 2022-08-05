@@ -5,13 +5,13 @@
 By default, most Gmail inboxes are organized in three tabs:
 
 Primary
-:   Your main mail.
+: Your main mail.
 
 Social
-:   Mail from social networks and other social sites.
+: Mail from social networks and other social sites.
 
 Promotions
-:   Deals, offers, and other marketing mail.
+: Deals, offers, and other marketing mail.
 
 This organization makes it easy to focus on messages that are important
 to you first and to scan through bulk mail all at once later. You can
@@ -22,10 +22,10 @@ list.
 
 To change your inbox settings, choose one of these options:
 
--   After the last inbox tab, choose the option to Select which tabs to
-    show or hide.
--   Navigate to the Settings button in the Gmail action bar, then press
-    **Enter**. In the Settings menu, select Configure inbox.
+- After the last inbox tab, choose the option to Select which tabs to
+  show or hide.
+- Navigate to the Settings button in the Gmail action bar, then press
+  **Enter**. In the Settings menu, select Configure inbox.
 
 In the dialog, select or deselect tabs to enable in your inbox. Options
 include Primary (always enabled), Social, Promotions, Updates, and
@@ -57,38 +57,38 @@ The list of conversations is formatted as a table. You can use table
 navigation, or you can simply press the **up** and **down** arrows, or
 “J” and “K”,  to move through the conversation list. You can also
 navigate by column using the **Left** or **Right** arrows. You can
-then use **Up* or **Down** arrows to move down the list by that
+then use **Up** or **Down** arrows to move down the list by that
 column. You can use this to read only the senders in the conversation,
-or only the subject. This allows you to quickly triage your email.You'll hear the
+or only the subject. This allows you to quickly triage your email. You'll hear the
 following information about conversations in the list:
 
--   Selected: By default, the conversation isn't selected. Once you
-    select the conversation, by pressing X, you can perform actions on
-    it using the action bar.
--   Starred: By default, the conversation isn't starred. Once you star a
-    conversation, you can view all the starred conversations under the
-    Starred label.
--   Unread: If the conversation contains unread messages, you'll hear
-    this announced.
--   Senders: The names of senders that have contributed to the
-    conversation. If there are multiple senders, you'll hear a shortened
-    list.
--   Number of messages in the conversation, if the conversation has more
-    than one message.
--   Date or time: The date or time the email was sent.
--   Subject: The subject of an email and any label that you've assigned
-    to conversation. In some cases the first few words of the message,
-    the snippet,  might be displayed.
--   Other flags: You'll hear any special information about the
-    conversation, such as "Has attachment."
--   Message snippet: You'll hear the beginning of the message text.
+- Selected: By default, the conversation isn't selected. Once you
+  select the conversation, by pressing X, you can perform actions on
+  it using the action bar.
+- Starred: By default, the conversation isn't starred. Once you star a
+  conversation, you can view all the starred conversations under the
+  Starred label.
+- Unread: If the conversation contains unread messages, you'll hear
+  this announced.
+- Senders: The names of senders that have contributed to the
+  conversation. If there are multiple senders, you'll hear a shortened
+  list.
+- Number of messages in the conversation, if the conversation has more
+  than one message.
+- Date or time: The date or time the email was sent.
+- Subject: The subject of an email and any label that you've assigned
+  to conversation. In some cases the first few words of the message,
+  the snippet,  might be displayed.
+- Other flags: You'll hear any special information about the
+  conversation, such as "Has attachment."
+- Message snippet: You'll hear the beginning of the message text.
 
 The following information is also present in the conversation list, but
 isn't announced by default unless you navigate column by column within
 the conversation table:
 
--   Labels: If you've added labels to a conversation, this information
-    isn't announced in the inbox.
+- Labels: If you've added labels to a conversation, this information
+  isn't announced in the inbox.
 
 ## Select and take action on conversations
 
@@ -101,16 +101,16 @@ If no conversation is selected, the conversation action bar includes the
 following options:
 
 Select
-:   Press Enter to open a drop-down menu with options for selecting
-    messages, such as All, None, Read, Unread, Starred, or Unstarred.
-    Note that you can do all of these actions with hotkeys.
+: Press Enter to open a drop-down menu with options for selecting
+messages, such as All, None, Read, Unread, Starred, or Unstarred.
+Note that you can do all of these actions with hotkeys.
 
 Refresh
-:   Press Enter to load the latest version of your conversation table.
+: Press Enter to load the latest version of your conversation table.
 
 More
-:   Press Enter to expand the menu. If no messages are selected, the
-    only option under the menu is to Mark all as read.
+: Press Enter to expand the menu. If no messages are selected, the
+only option under the menu is to Mark all as read.
 
 If you've enabled keyboard shortcuts, simply press “x” to select a
 conversation.
@@ -118,20 +118,20 @@ conversation.
 When one or more conversations are selected, the conversation action bar
 includes the following options:
 
--   Select: Select or unselect other conversations.
--   Archive: Archiving removes messages from your inbox, but keeps them
-    in your account so that you can always find them later. You can find
-    archived messages in your All Mail label, or by searching in Gmail.
--   Mark as spam.
--   Delete: Move a conversation to the trash label, where it will stay
-    for about 30 days before it's permanently deleted.
--   Move to a label: Move to a label, or to spam or trash. You can also
-    create a label or manage labels from this drop-down.
--   Labels: Add or remove a label for the selected conversations, or
-    create a new label.
--   More: Press Enter to expand the menu and explore options including
-    Mark as read, Mark as not important, Add to tasks, Star, Filter
-    messages like these, and Mute.
+- Select: Select or unselect other conversations.
+- Archive: Archiving removes messages from your inbox, but keeps them
+  in your account so that you can always find them later. You can find
+  archived messages in your All Mail label, or by searching in Gmail.
+- Mark as spam.
+- Delete: Move a conversation to the trash label, where it will stay
+  for about 30 days before it's permanently deleted.
+- Move to a label: Move to a label, or to spam or trash. You can also
+  create a label or manage labels from this drop-down.
+- Labels: Add or remove a label for the selected conversations, or
+  create a new label.
+- More: Press Enter to expand the menu and explore options including
+  Mark as read, Mark as not important, Add to tasks, Star, Filter
+  messages like these, and Mute.
 
 <aside markdown="1">
 **Note:** Many of these options are also available as [keyboard
@@ -141,24 +141,24 @@ shortcuts](https://support.google.com/mail/answer/6594).
 The following additional buttons are always present:
 
 Inbox section options
-:   This pop-up menu gives you the option to show more messages within
-    the conversation table, show up to a certain amount of messages,
-    hide a section when it's empty of messages, and to View all Inbox
-    settings.
+: This pop-up menu gives you the option to show more messages within
+the conversation table, show up to a certain amount of messages,
+hide a section when it's empty of messages, and to View all Inbox
+settings.
 
 Older button
-:   This button is enabled if there are older messages matching your
-    label or search that aren't currently listed on the page. Press
-    Enter to see older conversations.
+: This button is enabled if there are older messages matching your
+label or search that aren't currently listed on the page. Press
+Enter to see older conversations.
 
 Newer button
-:   This button is enabled if there are newer messages matching your
-    label or search that aren't currently listed on the page. Press
-    Enter to see newer conversations.
+: This button is enabled if there are newer messages matching your
+label or search that aren't currently listed on the page. Press
+Enter to see newer conversations.
 
 Settings button
-:   Press Enter to adjust your settings, send feedback, or get help with
-    Gmail.
+: Press Enter to adjust your settings, send feedback, or get help with
+Gmail.
 
 ## Read messages in a conversation
 
@@ -182,22 +182,22 @@ As you browse the conversation page, you'll hear the following
 information:
 
 Conversation subject
-:   The subject is heading level 2.
+: The subject is heading level 2.
 
 Importance marker button
-:   Set to on in messages Gmail predicts are important to you.
+: Set to on in messages Gmail predicts are important to you.
 
 Labels buttons
-:   List of labels that are applied to this conversation. Select Enter
-    on a label to view a list of all messages with this label.
+: List of labels that are applied to this conversation. Select Enter
+on a label to view a list of all messages with this label.
 
     -   Each label has a close button (x). Select the x to remove the
         label from the conversation.
     -   One or more messages.
 
 Attachments area
-:   If the message has an attachment, you'll hear "attachments area."
-    You can take the following actions on attachments:
+: If the message has an attachment, you'll hear "attachments area."
+You can take the following actions on attachments:
 
     -   Preview: Press Enter on the attachment to preview in Projector.
         To exit, press Escape.
@@ -210,10 +210,12 @@ Attachments area
 The following controls are also present on the page:
 
 Expand all button
-:   Expands all messages.
+: Expands all messages.
 
 Print all button
-:   Prints the conversation.
+: Prints the conversation.
 
 In new window button
-:   Opens the conversation in a new window.
+: Opens the conversation in a new window.
+
+Move on to [Lesson 6](https://moodle.alassist.us/mod/url/view.php?id=2663)

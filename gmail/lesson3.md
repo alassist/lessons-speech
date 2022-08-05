@@ -63,29 +63,29 @@ Arrow**, and you’ll be placed back into the content area.
 Here are options that can appear in your list of labels:
 
 Inbox
-:   Conversations that contain incoming messages.
+: Conversations that contain incoming messages.
 
 Starred
-:   Conversations that you've marked with a star.
+: Conversations that you've marked with a star.
 
 Important
-:   Conversations that Gmail predicts are important to you.
+: Conversations that Gmail predicts are important to you.
 
 Sent Mail
-:   Conversations that contain messages that you've sent.
+: Conversations that contain messages that you've sent.
 
 Drafts
-:   Conversations that include a message you were writing and haven't
-    yet sent.
+: Conversations that include a message you were writing and haven't
+yet sent.
 
 Categories
-:   Conversations categorized by type, such as promotional emails.
+: Conversations categorized by type, such as promotional emails.
 
 Your other labels
-:   Any other labels you created.
+: Any other labels you created.
 
 More labels section
-:   Other, less-frequently used labels, such as spam and trash.
+: Other, less-frequently used labels, such as spam and trash.
 
 ### Chat or Hangouts
 
@@ -109,15 +109,15 @@ The ARIA landmark for this section is "Banner."
 The following links and pop-up menus are available in the Google bar:
 
 Apps
-:   This pop-up menu opens to allow you to navigate to other Google
-    applications.
+: This pop-up menu opens to allow you to navigate to other Google
+applications.
 
 Unread notifications
-:   This pop-up menu opens to show notifications from your account.
+: This pop-up menu opens to show notifications from your account.
 
 Account
-:   This pop-up menu enables you to sign out, add an account, manage
-    your account, or view Google's privacy policy.
+: This pop-up menu enables you to sign out, add an account, manage
+your account, or view Google's privacy policy.
 
 At the top of the application, near the Google bar, you'll also hear two
 hidden links for screen readers: basic HTML view and accessibility
@@ -135,33 +135,35 @@ The Gmail action bar includes the ARIA landmark and heading "Search."
 The following options are available in the Gmail action bar:
 
 Gmail link
-:   Link to current page. Press Enter to refresh.
+: Link to current page. Press Enter to refresh.
 
 Search Gmail edit box
-:   Type search terms to find Gmail messages. You'll learn more about
-    search later in this course.
+: Type search terms to find Gmail messages. You'll learn more about
+search later in this course.
 
 Advanced search options button
-:   Opens advanced search options form.
+: Opens advanced search options form.
 
 Search Gmail button
-:   Performs the search (or press Enter while in the search edit box).
+: Performs the search (or press Enter while in the search edit box).
 
 Navigation button
-:   Press Enter to open a navigation menu. Options include Gmail,
-    Contacts, and Tasks.
+: Press Enter to open a navigation menu. Options include Gmail,
+Contacts, and Tasks.
 
 ### Footer
 
 The Gmail page footer includes these links:
 
 Manage
-:   Link to manage your Google storage.
+: Link to manage your Google storage.
 
 Terms & Privacy
-:   Link to Google's Legal notices, Privacy and Program policies, and
-    Terms of Service.
+: Link to Google's Legal notices, Privacy and Program policies, and
+Terms of Service.
 
 Account activity
-:   Link to open the account activity box showing the last times and
-    places your Gmail account has been signed into.
+: Link to open the account activity box showing the last times and
+places your Gmail account has been signed into.
+
+Move on to [Lesson 4](https://moodle.alassist.us/mod/url/view.php?id=2661)

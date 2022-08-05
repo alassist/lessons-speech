@@ -8,7 +8,7 @@ remaining shortcuts by following the steps below:
 
 1.  Navigate to the Settings button in the Gmail action bar, then press
     **Enter**.
-2.  Navigate through the Settings menu to Settings using the **Tab** key, then press **Enter**.
+2.  Navigate through the Settings menu to "see all Settings" using the **Tab** key, then press **Enter**.
 3.  Move down the page, using Tab, to the "Keyboard shortcuts" option.
 4.  Select "Keyboard shortcuts on."
 5.  Navigate to "Save changes," then press **Enter**.
@@ -24,3 +24,5 @@ shortcuts in Gmail by pressing the question mark (?). Along with a list
 of shortcuts, the dialog contains a link to [view all Gmail shortcuts in
 the Help Center](https://support.google.com/mail/answer/6594). To close
 the dialog, press Escape.
+
+Move on to [Lesson 5](https://moodle.alassist.us/mod/url/view.php?id=2662)
