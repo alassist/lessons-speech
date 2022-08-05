@@ -92,6 +92,28 @@ the conversation table:
 
 ## Select and take action on conversations
 
+There are a few ways you can select and take action on conversations in Gmail.
+You can use keyboard shortcuts, or the action bar. Keyboard shortcuts are
+quicker, so they'll be in focus here.
+
+Let's say you have a lot of spam or old emails that you want to get rid of. To
+select these messages, use the **Up** or **Down** arrow to find the first
+message, and press X to select it. Then, move to the next email, and select it
+with X as well.
+
+Once you've selected all the emails you want to act upon, remember the following
+keyboard shortcuts:
+
+- e: Archive. This puts the email away somewhere safe, getting it out of your
+  way, but not in the trash. This is good for work emails, or receipts.
+- Pound, shift + 3: Deletes the email, moving it to the trash.
+- Bang, shift + 1: Slams that email into the spam folder. Spam is deleted 30
+  days later.
+- M: Mutes a conversations.
+- B: Snooze: allows you to set a later date and time to get that email.
+
+There are several more options you can learn about in the list of keyboard shortcuts.
+
 The conversation action bar contains buttons and drop-down menus that
 apply to currently selected conversations. The conversation action bar
 is different from the Gmail action bar described above, which contains

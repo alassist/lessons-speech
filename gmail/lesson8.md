@@ -10,7 +10,6 @@ select any label in the navigation list to bring up all conversations
 that have that label. You can also search for conversations in a label
 by using the label: search operator (e.g. label:vacation).
 
-<<<<<<< HEAD
 ## Adding a label
 
 To add labels to conversations, follow these steps:
@@ -22,16 +21,17 @@ To add labels to conversations, follow these steps:
     the conversation action bar and press Enter.
 3.  Navigate down the list, then press Enter to apply the label.
 
-<<<<<<< HEAD
 ## Create a new label
 
 1.  To create a new label, use one of the following options:
 
-    -   In the navigation list, select the Create new label link at the
-        very end of the list. Enter the new label name, then press Tab
-        to the Create button and press Enter.
-    -   Open the labels menu by pressing L or navigating to the
-        conversation action bar and selecting the labels menu. Navigate
-        to the very end of the list to the "Create new" option. Enter
-        the new label name, then press Tab to the Create button and
-        press Enter.
+    - In the navigation list, select the Create new label link at the
+      very end of the list. Enter the new label name, then press Tab
+      to the Create button and press Enter.
+    - Open the labels menu by pressing L or navigating to the
+      conversation action bar and selecting the labels menu. Navigate
+      to the very end of the list to the "Create new" option. Enter
+      the new label name, then press Tab to the Create button and
+      press Enter.
+
+Move on to [Lesson 9](https://moodle.alassist.us/mod/url/view.php?id=2666)

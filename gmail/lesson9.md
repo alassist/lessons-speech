@@ -11,4 +11,6 @@ To view or change your Gmail settings, follow these steps:
     **Enter** to open a tab.
 
 [Learn about all Gmail
-settings.](https://support.google.com/mail/topic/3394219)
+settings](https://support.google.com/mail/topic/3394219)
+
+Move on to [Gmail tips](https://moodle.alassist.us/mod/url/view.php?id=2667)
