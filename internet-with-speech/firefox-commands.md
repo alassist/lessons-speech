@@ -403,3 +403,5 @@ Seek to the beginning
 
 Seek to the end
 :   End
+
+[Move on to Google Chrome Commands](https://moodle.alassist.us/mod/url/view.php?id=2655)
