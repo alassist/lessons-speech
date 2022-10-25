@@ -1,31 +1,29 @@
-# Lesson 4: the Menu bar
+# Lesson 4: Moving around a Spreadsheet
 
-Google Sheets has a ton of functions and options. These are in the menu bar. In this lesson, we'll review how to get to the menu bar, and what all is in each menu. As Google Sheets is an ever-changing system, the menus may change with it. We'll try to keep this up-to-date, but your experience may vary.
+Cells are containers in a sheet which can hold numbers and text. They are similar to spaces on a chessboard where Chess pieces go. Since there are many cells in a Sheet, they are referenced by their row and column information.
 
-## Finding the Menu bar
+Google Sheets is laid out in columns and rows. Columns are the cells that go down the sheet vertically. Rows are cells that go from left to right. Columns are labeled with letters, like A, B, and C, while rows are labeled with numbers, like 1, 2, and 3. So, A1 is column one, row one. B1 is column two, row 1. The column and row labels used together, like A1, is called the cell coordinates. You can use the cell coordinates to refer to a cell in many ways.
 
-To open the Menu bar, do the following:
+To move around the sheet from one item to the next, you use the arrow keys. If you move to the right, using **Right Arrow**, you'll move one column to the right. If you press **Left Arrow**, you'll move one column to the left. Picture this as feeling the top of the column as you move, so that as you move to the right, you feel another column of data. To move one row down, use the **Down Arrow**. To move one row up, use **Up Arrow**. This is similar to feeling down and finding a horizontal line, another row.
 
-- On Windows, press **Alt + F** if on Chrome, or **Alt + Shift + F** if on other browsers.
-- On Mac, press **VO + Tab** to pass the next key command through VoiceOver, then do **Control + Option + F**.
-- On ChromeOS, press **Alt + F**.
+## Using The Go-to dialog box
 
-Now, you'll be on the File menu. Here, you can press **Up arrow** or **Down arrow** to move into that menu and explore what's in it, or use **Left arrow** and **Right arrow** to move to the other menus, like Edit and View. Let's start by going across, with **Right arrow**, the menus.
+You can use the Go-to dialog box to easily find a cell that is not near where you currently are. For example, let's say that you're at cell A1, and you need to go to cell G40. You can't quickly get there with arrow keys alone.
 
-### File menu
+To use the Go-to dialog box, press **Control + J**, type the cell reference, and press **Enter**. You can remember this by thinking of "jumping" to another location. When you open the Go-to dialog box, you'll be placed in the edit field where you can type the cell reference. So, if you want to go to cell G40, just type "G40" without the quotes, and press **Enter**. You are taken to that cell.
 
-The File menu contains things to do with your file, not so much the Sheets functions. From here, you can create a new file in Docs, Sheets, Slides, and more. You can also open another file, rename the file, make a copy of the file, share the file, print the file, import a file, download the file, make the file available offline, publish the spreadsheet to the web, and view Sheets settings.
+## Entering Data
 
-### The Edit menu
+Now, let's practice entering data, and moving around it. To enter data into a cell, just type the data you want to be in the cell. You can edit the data within the cell by using arrow keys to move around the text, backspace or delete to remove letters or numbers, and shift with arrow keys and home and end to do their number editing functions. But now, you're stuck inside the cell, right?
 
-The Edit menu contains options for editing the sheet. These include formatting and ways to copy, cut, and paste cells. You can undo changes, or redo them. In addition to copying, cutting, and pasting, you can "paste special" which allows you to paste only values of a cell and more. You can find and replace, delete values, delete the current row or column, delete cells and shift in different directions, o clear notes.
+When you're in a sheet, you can imagine navigating cells as being in your screen reader's "Browse" or "virtual PC Cursor" mode. When you're editing inside of a cell, you can imagine being in your screen reader's "focus" mode, or having the "Virtual PC Cursor" turned off. This gives you an idea of how to exit the editing mode: press Escape.
 
-### The View menu
+There are quicker ways of editing and moving around cells. After all, most of the time you'll be moving from column to column, or from row to row, so you'll need to be able to move and edit the next cell quickly. To do this, you'll type into the first column, and then press Tab, to move over to the next column. When you're done with that, you press Tab until all needed columns, like the months of the year, are filled out. Then, you press the Enter key. This returns you to column one, but on the next row: row 2.
 
-The View menu may not have many useful actions for speech users, but we'll go over what it contains, just in case you're working with a sighted person, or presenting to a sighted audience. The view menu contains options to freeze cells, show or hide gridlines, protect ranges of cells, show or hide the formula bar, show or hide formulas, zoom in or out of the spreadsheet, and put the spreadsheet into fullscreen mode.
+### Practice: Editing Cells
 
-### The Insert menu
+Let's practice entering data and moving around a cell. You should practice this until you feel comfortable with it, as you'll be using this all the time in Sheets.
 
-In the Insert menu, you can insert cells, charts, and media. You can insert rows above and below, and columns left and right. You can insert cells and have the others shift in the other direction. You can also insert charts, images, drawings, forms, functions, links, checkboxes, comments, and new sheets.
-
-### The Format menu
+* First, let's create a new sheet to work with. Open a new window or tab, and type the address "sheets.new" without the quotation marks, and press **Enter**. A new sheet will open.
+* You'll be in the cell A1. Type the word "January" without the quotes.
+* Now, press the **Tab** key. You'll then be in the next column. Type the word "February." Press the **Tab** key, and continue entering the months of the year into the subsequent columns.
