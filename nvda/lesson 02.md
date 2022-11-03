@@ -31,11 +31,11 @@ both.
 
 The **Modifier Keys** are keys that do not generally act when pressed, but act when pressed with another key. To use a modifier to modify another key, hold down the modifier key, press the key to be modified, and release both keys. Do not hold down the modified key. The modifier keys are:
 
-- Shift: Capitalizes a letter, or performs different actions when used     with non-character keys, like Tab.
-- Alt: To the left and right of the space bar, used to open a     program's menu, or perform commands within that menu system.
-- Windows: To the left of the left alt key, opens the start menu if     pressed, if it modifies a key that makes a key command, it does     system actions, like bringing up the menu to run commands and shut     down the computer.
-- Control: To the left of the Windows key on most keyboards, to the     right of the context key, does program and text commands, like     moving by words and paragraphs, selecting all text, playing media,     and many other functions.
-- Insert (Screen reader modifier): NVDA's modifier key. Press it with     another key to execute NVDA commands. the Insert key can be     combined with the control key to do even more commands. Hereafter,     it will be called the NVDA key, or the Insert key, in other     courses.
+- Shift: Capitalizes a letter, or performs different actions when used with non-character keys, like Tab.
+- Alt: To the left and right of the space bar, used to open a program's menu, or perform commands within that menu system.
+- Windows: To the left of the left alt key, opens the start menu if pressed, if it modifies a key that makes a key command, it does system actions, like bringing up the menu to run commands and shut down the computer.
+- Control: To the left of the Windows key on most keyboards, to the right of the context key, does program and text commands, like moving by words and paragraphs, selecting all text, playing media, and many other functions.
+- Insert (Screen reader modifier): NVDA's modifier key. Press it with another key to execute NVDA commands. the Insert key can be combined with the control key to do even more commands. Hereafter, it will be called the NVDA key, or the Insert key, in other courses.
 
 On laptop keyboard layouts, the screen reader modifier key is the
 capslock key, for NVDA's usage. If your laptop has a number pad, it
@@ -78,7 +78,7 @@ Complete the following actions:
 - Press the **Tab** key.
 - Press **Insert + Down Arrow**.
 - Turn off Keyboard Help mode.
-- Repeat these steps until you are comfortable with them, then     continue to the next section by pressing **Down Arrow** until you     hear "Heading level 1, what time is it?"
+- Repeat these steps until you are comfortable with them, then continue to the next section by pressing **Down Arrow** until you hear "Heading level 1, what time is it?"
 
 ## What time is it?
 
@@ -128,11 +128,11 @@ Complete the following actions:
 
 - Have NVDA begin reading this section using **INSERT + Down Arrow**. Please read the rest of the instructions before following them.
 - Press **Shift** to pause speech, then **Shift** again to resume it.
-- Press **Control** to stop speech, then **INSERT + Down Arrow** to     begin reading again.
+- Press **Control** to stop speech, then **INSERT + Down Arrow** to begin reading again.
 - Turn on Keyboard Help mode
 - Press Control
 - Press Shift
 - Turn off Keyboard Help mode
-- Repeat these steps until you feel comfortable with them, then move on to Lesson 03.
+- Repeat these steps until you feel comfortable with them, then move on to Lesson 3.
 
 Notice that when NVDA begins reading again, it begins at the place where it was stopped, not where it originally began reading.
