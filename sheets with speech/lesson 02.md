@@ -27,4 +27,3 @@ When you've created a Sheet, it is simply called "untitled". That quickly gets u
 To rename a Spreadsheet, press **Alt + F**. This brings you to the Google Sheets menu bar, into the "file" menu. You can perform many functions here, and there is more than just the file menu, but we'll look at the other options later. From here, press "r". This opens the "rename" dialog box. Type "Sheets with Speech", and press **Enter**. You can use any name, but if you do so, from now on, use your chosen name instead of "Sheets with Speech."
 
 Move on to the next lesson to find out about the Sheets interface with a spreadsheet open.
-

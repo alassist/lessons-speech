@@ -4,7 +4,7 @@ Google Sheets, being a web application, has different interface items than a nor
 
 ## The Menu bar
 
-The Menu bar is where you’ll find all that you can do with your spreadsheet. It contains functions pertaining to the file itself, editing, inserting objects, formatting, extra tools, like spell check, accessibility options, and other such menus. Opening the menu is different for different browsers. Ways to open the Menu bar are listed below:
+The Menu bar is where you’ll find all that you can do with your spreadsheet. It contains functions pertaining to the file itself, editing, inserting objects, formatting, extra tools like spell check, accessibility options, and other such menus. Opening the menu is different for different browsers. Ways to open the Menu bar are listed below:
 
 - On Windows with Firefox, press **Alt + Shift + F**.
 - On Windows with Chrome, press **Alt + F**.
@@ -38,16 +38,3 @@ Using the knowledge gained in this lesson, let’s make sure accessibility is co
 
 Now, you have Sheets, and all other Google Suite programs, fully accessible, and can move on to the next lesson.
 
-# Lesson 4: Moving around a Spreadsheet
-
-Cells are containers in a sheet which can hold numbers and text. They are similar to spaces on a chessboard where Chess pieces go. Since there are many cells in a Sheet, they are referenced by their row and column information.
-
-Google Sheets is laid out in columns and rows. Columns are the cells that go down the sheet vertically. Rows are cells that go from left to right. Columns are labeled with letters, like A, B, and C, while rows are labeled with numbers, like 1, 2, and 3. So, A1 is column one, row one. B1 is column two, row 1. The column and row labels used together, like A1, is called the cell coordinates. You can use the cell coordinates to refer to a cell in many ways.
-
-To move around the sheet from one item to the next, you use the arrow keys. If you move to the right, using **Right Arrow**, you'll move one column to the right. If you press **Left Arrow**, you'll move one column to the left. Picture this as feeling the top of the column as you move, so that as you move to the right, you feel another column of data. To move one row down, use the **Down Arrow**. To move one row up, use **Up Arrow**. This is similar to feeling down and finding a horizontal line, another row.
-
-## Using The Go-to dialog box
-
-You can use the Go-to dialog box to easily find a cell that is not near where you currently are. For example, let's say that you're at cell A1, and you need to go to cell G40. You can't quickly get there with arrow keys alone.
-
-To use the Go-to dialog box, press **Control + J**, type the cell reference, and press **Enter**. When you open the Go-to dialog box, you'll be placed in the edit field where you can type the cell reference. So, if you want to go to cell G40, just type "G40" without the quotes, and press **Enter**. You are taken to that cell.
