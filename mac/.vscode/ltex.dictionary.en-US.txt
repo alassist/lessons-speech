@@ -9,3 +9,12 @@ customizability
 TextEdit
 refreshable
 AppleVis
+VoiceOver-specific
+vo-f
+VO-arrowing
+arrowing
+vo-command-return
+WebAIM
+Typeforms
+Uncontracted
+uncontracted

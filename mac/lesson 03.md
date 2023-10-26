@@ -17,7 +17,7 @@ On any Apple keyboard, such as the Apple Wireless Keyboard that comes with most 
 * option
 * arrow keys
 
-The VoiceOver keys, control and option, are used to control VoiceOver, hence the name. Often, you will see commands like "vo-f"; that just means control-option-f. Again, the control and option keys are next to each other, the two middle keys in the group of four to the left of the spacebar. There are no VoiceOver keys on the right side of the spacebar because there is no control key there.
+The VoiceOver keys, control and option, are used to control VoiceOver, hence the name. Often, you will see commands like "vo-f"; that just means control-option-f. Again, the control and option keys are next to each other, the two middle keys in the group of four to the left of the space bar. There are no VoiceOver keys on the right side of the space bar because there is no control key there.
 
 On non-Apple keyboards, things get more interesting. Since I have no way of knowing the layout of your keyboard, I will instead explain which non-Apple keys map to what on the Mac.
 
@@ -41,7 +41,7 @@ Now that we are on the same page as far as where the keys are, let's start press
 
 ## Key Description Mode
 
-Perhaps the easiest way to check what a keystroke does, or simply practice keystrokes or trackpad commands, is to press buttons and see what happens. Fortunately, VoiceOver allows you to do just that. To enter this mode, which VoiceOver calls "Keyboard Help," press **Control-Option-K**. When you are in this mode, no VoiceOver commands will be executed, and most system commands are stopped as well. Only VoiceOver commands are actually described, though. For example, if you are in Text Edit and enter Keyboard Help, pressing **Control-Option-W** will tell you that what you just pressed reads the current word. Pressing **Command-S**, on the other hand, will cause VoiceOver to say the keys you pressed, but will not say that those keys are to save the current document, since **Command-S** is not a VoiceOver command. Still, this is a perfect mode to just press keys and key combinations to see what does what, and, for the most part, you can't hurt anything because almost no commands will go through. When you are done, just hit the escape key (the top left key on most keyboards) and your Mac will return to normal. 
+Perhaps the easiest way to check what a keystroke does, or simply practice keystrokes or trackpad commands, is to press buttons and see what happens. Fortunately, VoiceOver allows you to do just that. To enter this mode, which VoiceOver calls "Keyboard Help," press **Control-Option-K**. When you are in this mode, no VoiceOver commands will be executed, and most system commands are stopped as well. Only VoiceOver commands are actually described, though. For example, if you are in Text Edit and enter Keyboard Help, pressing **Control-Option-W** will tell you that what you just pressed reads the current word. Pressing **Command-S**, on the other hand, will cause VoiceOver to say the keys you pressed, but will not say that those keys are to save the current document, since **Command-S** is not a VoiceOver command. Still, this is a perfect mode to just press keys and key combinations to see what does what, and, for the most part, you can't hurt anything because almost no commands will go through. When you are done, just hit the escape key (the top left key on most keyboards) and your Mac will return to normal.
 
 Keyboard Help is a misleading term, as it is even more powerful than that. If you use the Trackpad Commander, this mode will also describe, but not run, any touch gestures you care to test out. It will do the same for any other Commanders you have set up. Quick Nav is the only exception; to hear descriptions of what the arrow keys do, you must enable Quick Nav, then turn on Keyboard Help. Even then, you will not be told what single keys (such as H for headings) do.
 
@@ -51,12 +51,12 @@ Hold down the **Control** and **Option** keys, then hit **H** twice. You will be
 
 ## Searching the Menu Bar
 
-While this is not specific to VoiceOver, it is worth mentioning as it can be a huge time-saver. Most every Mac app includes menus (File, Edit, Window, and others), each of which has commands. Often, these commands have keystrokes bound to them, such as **Command-Q** for quit or **Command-S** for save. If you cannot recall a particular keystroke, though, or if the option you want does not have an assigned keystroke and you haven't assigned your own, you can just run a quick search. How?
+While this is not specific to VoiceOver, it is worth mentioning as it can be a huge time-saver. Almost every Mac app includes menus (File, Edit, Window, and others), each of which has commands. Often, these commands have keystrokes bound to them, such as **Command-Q** for quit or **Command-S** for save. If you cannot recall a particular keystroke, though, or if the option you want does not have an assigned keystroke, and you haven't assigned your own, you can just run a quick search. How?
 
 1. Press **Control-Option-M** to move to the Menu Bar, then navigate to the Help menu. Usually, you can just press H, but if another menu also starts with H you may need to type more of the word "help". Alternatively, simply use left or right arrow to move to the Help menu. Once you are on it, press down arrow.
 
-2. VoiceOver should say, "Search. Search result, interactive." At this point, just start typing the name of the command you are looking for. Don't press enter, just type some or all of the command's name. 
+2. VoiceOver should say, "Search. Search result, interactive." At this point, just start typing the name of the command you are looking for. Don't press enter, just type some or all of the command's name.
 
 3. Once you have typed what you want, press down arrow to examine the results. First will be a section of matches to items in the current app's menus; once you hear the one you want, simply press enter. After that list will be matches in the Mac's built-in help; pressing enter on one of those will open the relevant section in the macOS Help Viewer. Note that this help is not VoiceOver-specific.
 
-4. If you do not find the command you want, or wish to abandon the search, just press escape (you may need to do that a few times) and the menu, then the menu bar, will close and you will be back in the main window of the app you started from.
+4. If you do not find the command you want, or wish to abandon the search, just press escape (you may need to do that a few times) and the menu, then the menu bar, will close, and you will be back in the main window of the app you started from.

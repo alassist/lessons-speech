@@ -19,36 +19,36 @@ Once email accounts are added in System Preferences, messages will appear in the
 The Mail interface contains:
 
 - Toolbar
-- Favorites bar 
+- Favorites bar
 - Mailboxes list
 - Messages list
 - Preview pane (optional)
 
-You can navigate messages with **up/down arrow** without interacting. 
+You can navigate messages with **up/down arrow** without interacting.
 
 ## Reading Messages
 
 - **Up/down arrow** - Move through list
-- **Enter** - Open in window 
-- **VO-J** - Move to preview pane 
-- **VO-A** - Read from cursor 
+- **Enter** - Open in window
+- **VO-J** - Move to preview pane
+- **VO-A** - Read from cursor
 
 ## Conversations
 
 Threaded message replies are grouped into collapsed/expanded conversations.
 
-- **Right arrow** - Expand conversation 
+- **Right arrow** - Expand conversation
 - **Left arrow** - Collapse conversation
 
 If conversation controls stop working, disable then re-enable VoiceOver.
 
 ## Composing Emails
 
-### Addressing 
+### Addressing
 
-- Start typing name 
+- Start typing name
 - **Up/down arrow** to cycle suggestions
-- **Enter** to confirm selection 
+- **Enter** to confirm selection
 
 ### Editing Addresses
 
@@ -69,7 +69,7 @@ Save from File menu. No shortcut.
 ### Manually Locating
 
 1. **Enter** to open message
-2. Interact with text 
+2. Interact with text
 3. **VO-arrow** to attachment
 4. **VO-Shift-M** for options
 
@@ -87,11 +87,11 @@ The Accessibility Inspector is a tool built into macOS to inspect apps for acces
 
 1. Open Accessibility Inspector from the Accessibility section of System Preferences.
 
-2. Choose Mail from the list of running apps. 
+2. Choose Mail from the list of running apps.
 
 3. The inspector will analyze Mail and show the hierarchy of interface elements.
 
-4. Select an element to view its accessibility attributes like label, role, position, etc. 
+4. Select an element to view its accessibility attributes like label, role, position, etc.
 
 5. The inspector can suggest fixes for common issues like missing labels.
 

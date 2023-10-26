@@ -13,7 +13,7 @@ This appendix provides a reference for common keyboard shortcuts in macOS for na
 
 ## Navigation
 
-- Up Arrow - Move up 
+- Up Arrow - Move up
 - Down Arrow - Move down
 - Left Arrow - Move left  
 - Right Arrow - Move right
@@ -21,9 +21,9 @@ This appendix provides a reference for common keyboard shortcuts in macOS for na
 - Option-Right Arrow - Next word
 - Page Up - Scroll up page
 - Page Down - Scroll down page
-- Home - Scroll to top 
+- Home - Scroll to top
 - End - Scroll to bottom
-- Spacebar - Quick Look selection
+- Space bar - Quick Look selection
 
 ## Apps
 
@@ -61,7 +61,7 @@ This appendix provides a reference for common keyboard shortcuts in macOS for na
 - Command-Q - Quit app
 - Command-, - Preferences
 
-## Accessibility 
+## Accessibility
 
 - VoiceOver on/off: Command-F5
 - Zoom in/out: Command +/-

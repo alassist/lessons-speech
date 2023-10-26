@@ -37,13 +37,13 @@ Use **VO-V** to open rotor to Verbosity settings. Choose:
 
 Can also set in VoiceOver Utility > Verbosity > Text.
 
-## Selecting Text 
+## Selecting Text
 
 Use standard Mac shortcuts like **Shift-arrow** to select text. But cursor tracking must be enabled in VoiceOver settings.
 
-To select non-contiguous text: 
+To select non-contiguous text:
 
-1. Turn off cursor tracking with **VO-Shift-F3**. 
+1. Turn off cursor tracking with **VO-Shift-F3**.
 2. Move to first section, press **VO-Command-Spacebar**.
 3. Repeat for additional selections.
 
@@ -67,14 +67,14 @@ Some apps like TextEdit display possible completions for partial words.
 1. Type partial word.
 2. Press **F5** or **Escape**.
 3. Down arrow through suggestions.
-4. Press **spacebar** to insert selected word.
+4. Press **space bar** to insert selected word.
 
 ## Checking Spelling
 
 Many apps let you check spelling as you type. Misspelled words are underlined.
 
 1. Interact with text area (**VO-Shift-DownArrow**).
-2. Find misspelled word: **Command-;** 
+2. Find misspelled word: **Command-;**
 3. Hear suggestions: **VO-Shift-M**
 4. Choose correction.
 5. Continue to next misspelling: **Command-;**

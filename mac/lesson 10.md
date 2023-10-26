@@ -19,7 +19,7 @@ VoiceOver can display braille contracted or uncontracted.
 - Pan left/right to move across wide lines.
 - Can auto-advance lines after panning.
 
-## Dots 7 and 8 
+## Dots 7 and 8
 
 - Indicate cursor position and text selection.
 - Flashing dots show "I-beam" text cursor.
@@ -28,7 +28,7 @@ VoiceOver can display braille contracted or uncontracted.
 
 Status cells provide context about screen contents:
 
-- Text 
+- Text
 - Attributes
 - Typeforms
 - etc.
@@ -39,7 +39,7 @@ Can configure number of cells and location.
 
 ### Navigating
 
-- Move cursor to item's location by pressing key above it. 
+- Move cursor to item's location by pressing key above it.
 - Perform default action on controls by pressing key twice.
 
 ### Selecting Text

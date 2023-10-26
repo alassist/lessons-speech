@@ -3,7 +3,7 @@
 In this lesson, you'll learn the key skills for effectively using the Finder in macOS to navigate and manage your files and folders. Topics covered include:
 
 - Understanding and selecting default view modes
-- Copying, moving, and deleting files 
+- Copying, moving, and deleting files
 - Navigating folders and drives
 - Setting folder hotkeys
 - Making selections
@@ -27,39 +27,39 @@ For this course, we will focus on List View (**command-2**), since it limits you
 
 ## Copying and Moving Files
 
-* To copy a file, navigate to it and press **command-C**. 
-* To paste the copy, go to the target folder and press **command-V**.
-* To move instead of copy, use **command-option-V** when pasting.
-* In List View, the file will paste into the current folder. 
-* In Column View, it will paste into the focused folder, which may be different than the open folder.
+- To copy a file, navigate to it and press **command-C**.
+- To paste the copy, go to the target folder and press **command-V**.
+- To move instead of copy, use **command-option-V** when pasting.
+- In List View, the file will paste into the current folder.
+- In Column View, it will paste into the focused folder, which may be different from the open folder.
 
 ## Navigating Folders
 
 ### List View
 
-* Open a folder with **command-O** or **command-down arrow**.
-* Close a folder with **command-W**.
-* Expand folder contents with **right arrow**. 
-* Collapse folder with **left arrow** (may need to press twice).
-* Quickly jump to subfolders by typing first letters.
+- Open a folder with **command-O** or **command-down arrow**.
+- Close a folder with **command-W**.
+- Expand folder contents with **right arrow**.
+- Collapse folder with **left arrow** (may need to press twice).
+- Quickly jump to subfolders by typing first letters.
 
-### Column View 
+### Column View
 
-* Expand folder contents with **right arrow**.
-* Collapse folder with **left arrow** (may need to press twice).
-* First letter navigation can get unpredictable due to auto-expanding previous folders.
+- Expand folder contents with **right arrow**.
+- Collapse folder with **left arrow** (may need to press twice).
+- First letter navigation can get unpredictable due to auto-expanding previous folders.
 
 ## Folder Shortcuts
 
 Use the following hotkeys to quickly jump to common folders:
 
-* Home: **command-shift-H**
-* Documents: **command-shift-O**   
-* Desktop: **command-shift-D**
-* Downloads: **command-option-L**
-* Applications: **command-shift-A**
-* Utilities: **command-shift-U**
-* AirDrop: **command-shift-R**
+- Home: **command-shift-H**
+- Documents: **command-shift-O**
+- Desktop: **command-shift-D**
+- Downloads: **command-option-L**
+- Applications: **command-shift-A**
+- Utilities: **command-shift-U**
+- AirDrop: **command-shift-R**
 
 See Apple support for [full list of Finder keyboard shortcuts](https://support.apple.com/en-gb/HT201236).
 
@@ -77,10 +77,10 @@ This will now persist that view for that folder/drive. Repeat for any other loca
 
 ## Making Selections
 
-* Select contiguous files: hold **shift** while arrowing up/down.
-* Add to selection: continue holding **shift** and arrow in opposite direction. 
-* Deselect all: release **shift** and arrow once.
-* Select first/last item: **shift-option-up arrow** or **shift-option-down arrow**
+- Select contiguous files: hold **shift** while arrowing up/down.
+- Add to selection: continue holding **shift** and arrow in opposite direction.
+- Deselect all: release **shift** and arrow once.
+- Select first/last item: **shift-option-up arrow** or **shift-option-down arrow**
 
 For non-contiguous:
 
@@ -91,17 +91,17 @@ For non-contiguous:
 
 ## External Drives
 
-* View connected drives: **command-shift-C** 
-* Open drive: use arrows and **command-O** as usual
-* Set default view for new drive using steps above.
-* Eject drive: with drive focused, press **command-E**.
+- View connected drives: **command-shift-C**
+- Open drive: use arrows and **command-O** as usual
+- Set default view for new drive using steps above.
+- Eject drive: with drive focused, press **command-E**.
 
 ## Tags
 
 Finder tags provide an easy way to categorize files for later searching. Some examples:
 
 - Red tag for urgent documents
-- Blue tag for financial records 
+- Blue tag for financial records
 - Purple tag for images
 - Orange tag for receipts
 
@@ -110,6 +110,6 @@ To tag a file:
 1. With file highlighted, press **command-I** to Get Info.
 2. Select the Tags field.
 3. Choose a tag color.
-4. Close the Info window. 
+4. Close the Info window.
 
 You can now visually filter files by tag color or search for tagged files.

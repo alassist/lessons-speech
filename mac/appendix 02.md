@@ -1,6 +1,6 @@
 # Common VoiceOver Commands and Gestures
 
-This appendix covers frequently used VoiceOver navigation and reading commands. 
+This appendix covers frequently used VoiceOver navigation and reading commands.
 
 NOTE: VO refers to the VoiceOver modifier keys - Control + Option or Caps Lock.
 
@@ -15,49 +15,49 @@ Open VoiceOver Utility
 Open VoiceOver Help menu
 : VO-H
 
-Toggle screen curtain 
+Toggle screen curtain
 : VO-Shift-F11
 
-## Navigating 
+## Navigating
 
-Move to next item			
+Move to next item
 : VO-Right Arrow
 
-Move to previous item			
+Move to previous item
 : VO-Left Arrow
 
-Move to first item			
-: VO-Command-Home 
+Move to first item
+: VO-Command-Home
 
 Move to last item
 : VO-Command-End
 
-## Interacting	
+## Interacting
 
 Start/stop interacting with item
-: VO-Shift-Down/Up Arrow	
+: VO-Shift-Down/Up Arrow
 
-Activate item 
+Activate item
 : VO-Space
 
 ## Reading Text
 
-Read all from cursor 
-: VO-A	
+Read all from cursor
+: VO-A
 
-Read current line			
+Read current line
 : VO-L
 
-Read current word			
+Read current word
 : VO-W
 
-Read current character		
+Read current character  
 : VO-C
 
-Jump to next/previous:			
+Jump to next/previous:
 
 - Heading: VO-Command-H/Shift-H
-- Link: VO-Command-L/Shift-L 
+- Link: VO-Command-L/Shift-L
 - Table: VO-Command-T/Shift-T
 - List: VO-Command-X/Shift-X
 - Form control: VO-Command-J/Shift-J
@@ -68,7 +68,7 @@ Next/previous:
 
 - Heading: VO-Command-H/Shift-H
 - Link: VO-Command-L/Shift-L
-- Form control: VO-Command-J/Shift-J 
+- Form control: VO-Command-J/Shift-J
 
 Open web rotor: VO-U
 
