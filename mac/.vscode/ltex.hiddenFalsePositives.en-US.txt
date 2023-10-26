@@ -1,0 +1,5 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qfind next heading: VO-Command-H\nfind next heading at same level: VO-Command-M\nfind next link: VO-Command-L\nfind next form control: VO-Command-J\nfind next table: VO-Command-T\nfind next list: VO-Command-X\nfind next frame: VO-Command-F\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QWhen focused on a notification in this view, press VO-Space to open it in the app or website that sent it, or use the Actions menu to view options specific to the notification.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QWhat time is it in London?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QWhat's Apple's stock price?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHow many ounces are in a pound?\\E$"}

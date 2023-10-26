@@ -1,0 +1,11 @@
+VO-Command-Spacebar
+VO-Spacebar
+VO-Shift-DownArrow
+VO-Shift-UpArrow
+VoiceOver
+NVDA
+FileVault
+customizability
+TextEdit
+refreshable
+AppleVis

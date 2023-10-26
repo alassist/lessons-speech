@@ -15,7 +15,7 @@ Press **VO-O** to open Notification Center. Pending notifications are at the top
 When focused on a notification:
 
 - Press **VO-Command-Spacebar** to open Actions menu.
-- **VO-Up/Down Arrow** to navigate actions. 
+- **VO-Up/Down Arrow** to navigate actions.
 - Press **VO-Spacebar** to select action.
 
 ### Managing Notifications
@@ -35,7 +35,7 @@ When in Notification Center:
 
 ### Interacting with Widgets
 
-- Interact with widget (**VO-Shift-DownArrow**). 
+- Interact with widget (**VO-Shift-DownArrow**).
 - **VO-Arrows** to read content.
 - **VO-Shift-UpArrow** when done.
 
@@ -52,12 +52,11 @@ Control Center provides quick access to system settings like Wi-Fi, volume, brig
 
 - Notification Center (**VO-O**)
 - Menu bar (top right corner)
-- **VO-Shift-O** 
+- **VO-Shift-O**
 
 ### Navigating Control Center
 
 - **VO-Left/Right Arrow** moves between sections.
-- **VO-Up/Down Arrow** moves between controls in a section. 
 
 ### Changing Settings
 
