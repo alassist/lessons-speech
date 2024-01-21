@@ -1,6 +1,6 @@
 # NVDA keyboard commands
 
-### Browse Mode
+## Browse Mode
 
 | Name                         | Key            | Description                                                                                                                                          |
 |------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -121,5 +121,3 @@ embedded object:
 | Name                                    | Key                | Description                                                                               |
 |-----------------------------------------|--------------------|-------------------------------------------------------------------------------------------|
 | Move to containing browse mode document | NVDA+control+space | Moves the focus out of the current embedded object and into the document that contains it |
-
-[Optional: download EBook for offline or mobile viewing](https://moodle.alassist.us/mod/url/view.php?id=2657)
