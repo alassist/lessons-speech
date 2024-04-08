@@ -46,5 +46,3 @@ Following are a list of Google Chrome keyboard commands.
 | **Home**                                                                                             | Go to top of page.                                                                                                                                                                                             |
 | **[EndEnd](file:///jargon/e/endkey.htm)**                                                                                               | Go to bottom of page.                                                                                                                                                                                          |
 | **Alt+Down Arrow**                                                                                                                   | Display all previous text entered in a text box and available options on a Drop-down Menu (combo box).                                                                                      |
-
-[Move on to NVDA commands](https://moodle.alassist.us/mod/url/view.php?id=2656)

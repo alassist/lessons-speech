@@ -53,5 +53,3 @@ the practice of the student.
 -   [Wall Street Journal Homepage](http://www.wsj.com/)
 -   [Clok online
     game](https://clok.contrarium.net/index.php?title=Main_Page)
-
-[Move on to Fireofx commands](https://moodle.alassist.us/mod/url/view.php?id=2654)

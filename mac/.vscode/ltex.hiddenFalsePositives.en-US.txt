@@ -1,0 +1,10 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qfind next heading: VO-Command-H\nfind next heading at same level: VO-Command-M\nfind next link: VO-Command-L\nfind next form control: VO-Command-J\nfind next table: VO-Command-T\nfind next list: VO-Command-X\nfind next frame: VO-Command-F\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QWhen focused on a notification in this view, press VO-Space to open it in the app or website that sent it, or use the Actions menu to view options specific to the notification.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QWhat time is it in London?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QWhat's Apple's stock price?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHow many ounces are in a pound?\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTo close the menu, press escape.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTo move instead of copy, use command-option-V when pasting.\\E$"}
+{"rule":"HE_VERB_AGR","sentence":"^\\QRed tag for urgent documents\nBlue tag for financial records\nPurple tag for images\nOrange tag for receipts\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QUp Arrow - Move up\nDown Arrow - Move down\nLeft Arrow - Move left\nRight Arrow - Move right\nOption-Left Arrow - Previous word\nOption-Right Arrow - Next word\nPage Up - Scroll up page\nPage Down - Scroll down page\nHome - Scroll to top\nEnd - Scroll to bottom\nSpacebar - Quick Look selection\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QUp Arrow - Move up\nDown Arrow - Move down\nLeft Arrow - Move left\nRight Arrow - Move right\nOption-Left Arrow - Previous word\nOption-Right Arrow - Next word\nPage Up - Scroll up page\nPage Down - Scroll down page\nHome - Scroll to top\nEnd - Scroll to bottom\nSpace bar - Quick Look selection\\E$"}
