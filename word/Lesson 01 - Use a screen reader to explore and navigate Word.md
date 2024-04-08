@@ -64,9 +64,9 @@ To exit the Options window and return to the main view, press the Tab key until 
 
 To navigate the content of your document by elements, you can use the Narrator scan mode. To turn on the scan mode, press the SR key+Spacebar.
 
-With the scan mode enabled, you can use the Up and Down arrow keys and keyboard shortcuts to navigate your document and cycle between paragraphs, other elements, areas, and landmarks. For detailed information on how to use the Narrator scan mode, refer to Chapter 3: Using scan mode in the Narrator user guide.   
+With the scan mode enabled, you can use the Up and Down arrow keys and keyboard shortcuts to navigate your document and cycle between paragraphs, other elements, areas, and landmarks. For detailed information on how to use the Narrator scan mode, refer to the external page, [Chapter 3: Using scan mode](https://support.microsoft.com/en-au/windows/chapter-3-using-scan-mode-7b2af804-5a2f-90fd-b0e0-672f7cbbf2da) in the Narrator user guide.  
 
-To find the JAWS cursor that suits your needs, refer to So Many Cursors, So Little Time, Understanding Cursors in JAWS, on the JAWS Training page . To learn how to use the NVDA Browse mode which is also optionally available for Word, refer to 6. Browse Mode, in the NVDA user guide .
+To find the JAWS cursor that suits your needs, refer to the external site: [So Many Cursors, So Little Time, Understanding Cursors in JAWS](https://www.freedomscientific.com/webinars/so-many-cursors-so-little-time-understanding-cursors-in-jaws/), on the JAWS Training page . To learn how to use the NVDA Browse mode which is also optionally available for Word, refer to the external site: [6. Browse Mode](https://www.nvaccess.org/files/nvda/documentation/userGuide.html#BrowseMode), in the NVDA user guide .
 
 #### Use the Navigation pane
 
@@ -116,7 +116,7 @@ To turn on the Focus mode, press Alt+W, O.
 
 To turn off the Focus mode, press Esc.
 
-#### Navigate between floating shapes 
+#### Navigate between floating shapes
 
 To quickly move the focus to the first floating shape such as a text box or a chart, press Ctrl+Alt+5.
 
