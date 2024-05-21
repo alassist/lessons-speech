@@ -1,8 +1,8 @@
 # Lesson 7
 
-If you want to find an email, it can be difficult to browse through
-hundreds of old messages or click through multiple labels. Instead of
-browsing, try using Gmail search:
+If you want to find an email, it can be difficult to browse through hundreds of
+old messages or click through multiple labels. Instead of browsing, try using
+Gmail search:
 
 1. Move to the Search Gmail edit box in the Gmail action bar, or press
    / (slash) if using Gmail keyboard commands.
@@ -12,7 +12,7 @@ browsing, try using Gmail search:
 4. To exit your search results and return to your inbox, press the left
    arrow to move to the navigation list, and select Inbox, or press G then I.
 
-### When you search in Gmail:
+## When you search in Gmail
 
 - Gmail searches the messages in the All Mail label, which includes
   messages that you've sent or received but haven't deleted. The Spam
@@ -27,7 +27,7 @@ search terms, or you can use a form for entering advanced search
 options. Both of these search methods are described in the following two
 sections.
 
-### Search operators
+## Search operators
 
 By default, your search terms are matched against the words in every
 part of the message and sometimes in attachments. If you like, you can
@@ -41,7 +41,7 @@ etc. Here are some examples of searches using search operators:
 | is:unread                  | All unread messages.                                                                |
 | from:david                 | Messages with "David" in the sender field.                                          |
 | to:david                   | Messages with "David" in the recipient field.                                       |
-| from:pluto@disney.com      | Messages with the email address pluto@disney.com in the sender field.               |
+| from:pluto@disney.com      | Messages with the email address <pluto@disney.com> in the sender field.               |
 | from:david subject:concert | Messages with "David" in the sender field and "concert" in the subject field.       |
 | rock OR concert            | Messages that contain either "rock" or "concert." Note that OR must be capitalized. |
 | "rock concert with David"  | Messages that contain the exact phrase "rock concert with David."                   |
@@ -61,9 +61,9 @@ operators](https://support.google.com/mail/answer/7190).
 
 ### Advanced search options
 
-1.  You can use advanced search options in addition to search operators.
+1. You can use advanced search options in addition to search operators.
     To use advanced search options follow these steps:
-2.  Navigate to the Advanced search options button in the Gmail action
+2. Navigate to the Advanced search options button in the Gmail action
     bar, then press Enter.
 
 - A form opens where you can enter your search criteria. Press Tab to
@@ -82,14 +82,11 @@ operators](https://support.google.com/mail/answer/7190).
 - To restrict your search to particular dates, use the "Date within"
   fields.
 
-1.  Once you completed all the required fields, press Tab to the "Search
+1. Once you completed all the required fields, press Tab to the "Search
     Mail" button and press Enter.
 
     - **Note:** Instead of searching, you can select the Create a
       filter with this search link. This option takes you to another
       form where you can choose what to do with messages that meet
       your search criteria, such as skip the inbox or apply labels.
-
-2.  To leave the form without searching, press Escape.
-
-Move on to [Lesson 8](https://moodle.alassist.us/mod/url/view.php?id=2665)
+2. To leave the form without searching, press Escape.
