@@ -4,30 +4,30 @@
 
 To compose a new message, follow these steps:
 
-1.  If you've enabled keyboard shortcuts, press c to open a new message.
-    Otherwise, navigate to the Compose button in the navigation list,
-    and press Enter to open a new message.
-2.  Type the recipient in the To field. If you’ve typed that email
-    address before, Gmail will show a list of suggestions. If it chooses
-    the correct address right away, press **Enter** and the address will
-    be entered for you. Else, if the address isn’t the right one, press
-    the **Down arrow** to choose another. Otherwise, continue typing the
-    address, and press **Enter** when you’re done.
-3.  Optional: Use the From field to change the sending email address
-    from a pop-up menu. Learn how to [send mail from a different address
-    or alias](https://support.google.com/mail/answer/22370).
-4.  Optional: To add Cc recipients, press **Control + Shift + C**
-    (Windows, Chrome OS) or **Command + Shift + C** (Mac). To add Bcc
-    recipients, press **Control + Shift + B** (Windows, Chrome OS) or
-    **Command + Shift + B** (Mac).
-5.  Press **Tab** to the subject field.
-6.  Type the subject, then press **Tab** to the message body.
-7.  Type your message.
-8.  Optional: Refer to the next section for additional choices, such as
-    changing formatting, adding attachments, or spell-checking.
-9.  When you're ready to send the message, press **Control + Enter**
-    (Windows, Chrome OS) or **Command + Enter** (Mac) to send, or press
-    **Tab** to the Send button and press Enter.
+1. If you've enabled keyboard shortcuts, press c to open a new message.
+   Otherwise, navigate to the Compose button in the navigation list,
+   and press Enter to open a new message.
+2. Type the recipient in the To field. If you’ve typed that email
+   address before, Gmail will show a list of suggestions. If it chooses
+   the correct address right away, press **Enter** and the address will
+   be entered for you. Else, if the address isn’t the right one, press
+   the **Down arrow** to choose another. Otherwise, continue typing the
+   address, and press **Enter** when you’re done.
+3. Optional: Use the From field to change the sending email address
+   from a pop-up menu. Learn how to [send mail from a different address
+   or alias](https://support.google.com/mail/answer/22370).
+4. Optional: To add Cc recipients, press **Control + Shift + C**
+   (Windows, Chrome OS) or **Command + Shift + C** (Mac). To add Bcc
+   recipients, press **Control + Shift + B** (Windows, Chrome OS) or
+   **Command + Shift + B** (Mac).
+5. Press **Tab** to the subject field.
+6. Type the subject, then press **Tab** to the message body.
+7. Type your message.
+8. Optional: Refer to the next section for additional choices, such as
+   changing formatting, adding attachments, or spell-checking.
+9. When you're ready to send the message, press **Control + Enter**
+   (Windows, Chrome OS) or **Command + Enter** (Mac) to send, or press
+   **Tab** to the Send button and press Enter.
 
 ### Aditional options
 
@@ -62,7 +62,6 @@ you'd like to use or the Ignore option. 4. Continue spell-checking by pressing *
 Chrome OS) or **Command + '** (Mac) to move to the next
 misspelling. Use **Control + ;** (Windows, Chrome OS) or
 **Command + ;** (Mac) to move to the previous misspelling.
-
 5. When you've finished spell-checking, navigate to the Send button
    to send your message.
 
@@ -77,6 +76,4 @@ misspelling. Use **Control + ;** (Windows, Chrome OS) or
 
 To close a new message without sending it, press Escape. The message is
 automatically saved as a draft. When you're ready to resume working on
-your draft, navigate to the Drafts label in the navigation list.
-
-Move on to [Lesson 7](https://moodle.alassist.us/mod/url/view.php?id=2664)
+your draft, navigate to the Drafts label in the navigation list. if you want to discard the draft, press **Control + Shift + D**.

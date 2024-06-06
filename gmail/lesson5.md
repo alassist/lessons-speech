@@ -198,7 +198,7 @@ unread messages are expanded, and the rest are collapsed. Because only
 expanded messages have a heading, you can easily find the unread
 messages in a conversation. Use keyboard shortcuts “n” and “p”, when the
 screen reader is in focus mode, to navigate to next and previous
-messages.
+messages. If you want to reply to a message, press the R key. If you want to reply to everyone the message was sent to, press A. To archive, press E. To delete, press Pound (#). To forward a message to someone else, press F, then type in their email address, Tab to Send, and press Enter. Practice these actions to get used to using keyboard commands like this in Gmail.
 
 As you browse the conversation page, you'll hear the following
 information:
@@ -239,5 +239,3 @@ Print all button
 
 In new window button
 : Opens the conversation in a new window.
-
-Move on to [Lesson 6](https://moodle.alassist.us/mod/url/view.php?id=2663)

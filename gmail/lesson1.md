@@ -4,7 +4,7 @@ Gmail is an email service, and has its own email viewer (called a
 client) also called Gmail. Gmail also has chat features, and can allow you
 to start new meetings using Google Meet, right from Gmail. This course
 will primarily overview Gmail's Email functions. When we use the word
-"Gmail" in this course, we'll usually mean the client, not the service.
+"Gmail" in this course, we'll usually mean the web client, not the service.
 
 As you learned in Internet Basics, a service, or server, is a computer or
 program that hosts data and processes it. A client is a program, computer, or
@@ -32,5 +32,3 @@ includes fewer features. Learn more about [standard view compared to
 basic HTML view](https://support.google.com/mail/answer/15049), or [how
 to use basic HTML view with a screen
 reader](https://support.google.com/mail/answer/146375).
-
-Move on to [Lesson 2](https://moodle.alassist.us/mod/url/view.php?id=2659) to learn about signing up and signing into Gmail.

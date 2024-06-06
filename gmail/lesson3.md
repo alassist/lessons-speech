@@ -19,14 +19,13 @@ virtual cursor to use this keyboard shortcut. For NVDA users, press
 <b>Insert+Space</b> to Turn Off Browse Mode.)</p>
 </aside>
 
-The ARIA landmark for this section is “Main.” When you're viewing a list
-of conversations, the heading is "Conversations." When you're viewing an
-individual conversation, the heading is the subject.
+When you're viewing a list of conversations, the heading is "Conversations."
+When you're viewing an individual conversation, the heading is the subject.
 
 Aria Landmarks are landmarks, which you can traverse with the “D” key in
 NVDA, and the “r” key with JAWS. When headings and landmarks are given, it is assumed
 that you are using Gmail with your screen reader’s navigation features,
-and not with Gmail’s own keyboard commands.
+and not with Gmail’s own keyboard commands. It's far easier and quicker, though, to use Gmail's own keyboard commands, with focus mode in NVDA or the virtual cursor in JAWS turned off. You can still return to browse mode if you need to read a message in more detail.
 
 ### Compose button
 
@@ -43,7 +42,7 @@ cursor off in JAWS, or Focus Mode on in NVDA, use the right and left
 arrows to move between the navigation list and the main content area
 of the page.
 
-The ARIA landmark for the navigation list is "Navigation," and the
+The landmark for the navigation list is "Navigation," and the
 heading is "Labels."
 
 The navigation list includes the labels, commonly called “folders,” in
@@ -87,12 +86,12 @@ Your other labels
 More labels section
 : Other, less-frequently used labels, such as spam and trash.
 
-### Chat or Hangouts
+### Chat
 
-The Chat or Hangouts section of the page allows you to send and
-receive chat messages and voice or video calls.
+The Chat section of the page allows you to send and receive chat messages and
+voice or video calls.
 
-The ARIA landmark for this section is "Complementary." If you've
+The landmark for this section is "Complementary." If you've
 upgraded to the new Google Chat, the heading is "Chat, with the number of unread
 messages." If you're using the old Hangouts, the heading is "Hangouts." For the best
 experience with a screen reader, we recommend the new Google Chat.
@@ -104,7 +103,7 @@ The Google bar provides links and pop-up menus related to your Google
 Account, such as other Google applications, account notifications, and
 the link to sign out of your account.
 
-The ARIA landmark for this section is "Banner."
+The landmark for this section is "Banner."
 
 The following links and pop-up menus are available in the Google bar:
 
@@ -130,7 +129,7 @@ Standard view.
 The Gmail action bar lets you search your Gmail account or navigate to
 your Contacts and Tasks lists.
 
-The Gmail action bar includes the ARIA landmark and heading "Search."
+The Gmail action bar includes the landmark and heading "Search."
 
 The following options are available in the Gmail action bar:
 
@@ -165,5 +164,3 @@ Terms of Service.
 Account activity
 : Link to open the account activity box showing the last times and
 places your Gmail account has been signed into.
-
-Move on to [Lesson 4](https://moodle.alassist.us/mod/url/view.php?id=2661)

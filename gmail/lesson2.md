@@ -17,5 +17,3 @@ pages:
 
 If you need additional information or tips, [learn more about signing in
 to Gmail](https://support.google.com/mail/answer/8494).
-
-Move on to [Lesson 3](https://moodle.alassist.us/mod/url/view.php?id=2660).
