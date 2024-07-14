@@ -6,7 +6,7 @@ First, we'll learn about the hardware of the device; what's on the outside of th
 
 ## The Front of the iPhone
 
-First, place the iPhone with the screen facing upward. You can tell if the side you're holding up is the screen or not if you feel a round protrusion on one of the edges of the phone. That protrusion is the camera, and should be on the bottom of the device, on the top right edge. The screen is flat and rectangular. Depending on the model of iPhone you have, the screen will be completely flat with no irregularities, or have a small button on the bottom centre of the screen. This button is called the home button.
+First, place the iPhone with the screen facing upward. You can tell if the side you're holding up is the screen or not if you feel a round bump on one of the edges of the phone. That bump is the camera, and should be on the back of the device, on the top right edge. The screen is flat and rectangular. Depending on the model of iPhone you have, the screen will be completely flat with no buttons, or have a small button on the bottom centre of the screen. This button is called the home button.
 
 At the top of the screen is an earpiece, and is also where the front-facing camera is. This is another way that you can make sure that the iPhone is oriented correctly. Take some time to familiarize yourself with this surface; how wide and tall it is. You'll be touching this part of the phone the most.
 
@@ -18,12 +18,11 @@ On older models, you'll also have a headphone jack. This is not included in newe
 
 ## The Back of the iPhone
 
-The back of an iPhone is made of glass or ceramic material and features the device's camera, flash, and Apple logo. The camera is in the top left or right corner of the device, while the flash is located just below the camera. The Apple logo is centred on the back of the device. Depending on the model of iPhone, there may also be additional markings or text on the back of the device, such as regulatory information.
+The back of an iPhone is made of glass or ceramic material and features the device's camera, flash, and Apple logo. The camera is in the top left or right corner of the device, while the flash is located just below the camera. The Apple logo is centered on the back of the device.
 
 ## The Side of the iPhone
 
 The side of the iPhone is where you'll find the volume buttons and the mute switch. The volume buttons are located on the left side of the device. The mute switch is above the volume buttons, and is used to silence incoming calls, alarms, and other notifications. This is a physical switch, so you can easily turn it on and off.
 
 On the right side of the iPhone is the power button. On iPhone models with a home button, the power button is used to lock the device, or turn it off, or make emergency calls. On models without the home button, the side button is used to summon Siri, turn on or off a selected accessibility service, or lock the device.
-
 
