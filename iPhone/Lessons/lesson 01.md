@@ -2,7 +2,7 @@
 
 Welcome to the iPhone with Speech course. In this course, you will learn to use the Apple iPhone with the built-in VoiceOver screen reader. VoiceOver is an accessibility service that allows you to use your iPhone without sight. It works by allowing you to feel around the screen, speaking whatever your finger touches. You can then perform commands to activate items, learn more about them, change VoiceOver settings, quickly move around, and other such commands.
 
-First, we'll learn about the hardware of the device; what's on the outside of the phone. Then we'll learn how to use Siri, the built-in voice assistant. Next, we'll learn basic VoiceOver commands and features. After that, we'll learn to use the VoiceOver rotor navigation feature. Then, we'll learn about the VoiceOver settings and what they do. Finally, you'll learn tips and tricks, and ways to get the most out of your iPhone and VoiceOver experience.
+First, you'll learn about the hardware of the device; what's on the outside of the phone. Then you'll learn how to use Siri, the built-in voice assistant. Next, you'll learn basic VoiceOver commands and features. After that, you'll learn to use the VoiceOver rotor navigation feature. Then, you'll learn about the VoiceOver settings and what they do. Finally, you'll learn tips and tricks, and ways to get the most out of your iPhone and VoiceOver experience.
 
 ## The Front of the iPhone
 
@@ -14,7 +14,7 @@ At the top of the screen is an earpiece, and is also where the front-facing came
 
 Moving your hand down the screen and to the bottom of the device, you'll find a rectangular hole. This is the charging port. You can use this to easily charge your phone. The plug it comes with can be inserted into the phone either way, unlike older cables. Do not force it in if it doesn't fit, however. There are other types of charging chords that feel similar, and the one you hold may not be the correct one, if you have many devices. You can also use this port for plugging in accessories, like a flash drive, headphones, or a game controller.
 
-On older models, you'll also have a headphone jack. This is not included in newer models, after the iPhone 6S. You can still use Lightning headphones, or Bluetooth headphones, like Apple Air Pods.
+On older models, you'll also have a headphone jack. This is not included in newer models, after the iPhone 6S. You can still use Lightning headphones, or Bluetooth headphones like Apple Air Pods.
 
 ## The Back of the iPhone
 
@@ -26,3 +26,5 @@ The side of the iPhone is where you'll find the volume buttons and the mute swit
 
 On the right side of the iPhone is the power button. On iPhone models with a home button, the power button is used to lock the device, or turn it off, or make emergency calls. On models without the home button, the side button is used to summon Siri, turn on or off a selected accessibility service, or lock the device.
 
+Move on to lesson 2, where you will learn about turning on the phone,
+and using Siri.
