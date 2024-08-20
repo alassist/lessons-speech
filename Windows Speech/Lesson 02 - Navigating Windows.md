@@ -23,4 +23,15 @@ Now that you know basic navigation, try the following activities for practicing 
 - Press the **Up Arrow** to navigate to the previous line, then press **Insert + Down Arrow** to continue reading.
 - Press **Shift + Tab** to navigate to the previous control, then press the “h” key until you hear “activity heading level 3” and press **Insert + Down Arrow** to continue reading.
 - Press **Insert + F12**. What does this keyboard shortcut do?
-- The next section will be a quiz. Tab to “lesson 2 quiz” and activate the Link with **space bar** or **Enter**. Use the Arrow keys to navigate this page, and **Space Bar** to interact with items if needed, for example, to type in an Edit Box, or Check a checkbox or radio button. If you enter an Edit Box, press **Escape** when done typing, to exit the area and return to navigating with the arrow keys. Complete this quiz before moving on to the next lesson. To move to the next lesson after completing the quiz, tab to “Lesson 3”and activate the link with **Space bar** or **Enter**.
+- The next section will be a quiz. Hold down the Alt key, press Left
+  Arrow, then release both keys. Then, Tab to “lesson 2 quiz” and
+  activate the Link with **space bar** or **Enter**. Use the Arrow
+  keys to navigate this page, and **Space Bar** to interact with items
+  if needed, for example, to type in an Edit Box, or Check a checkbox
+  or radio button. If you enter an Edit Box, press **Escape** when
+  done typing, to exit the area and return to navigating with the
+  arrow keys. Complete this quiz before moving on to the next
+  lesson. To move to the next lesson after completing the quiz, hold
+  down the Shift key, and press Tab until you hear "Windows Basics
+  with speech link," and then let go of the Shift key. Press the Space
+  bar or Enter to activate it, then tab to “Lesson 3”and activate the link with **Space bar** or **Enter**.

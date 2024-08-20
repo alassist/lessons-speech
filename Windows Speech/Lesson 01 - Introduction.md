@@ -29,4 +29,12 @@ To help get you started navigating these lessons, here are some keys to press fo
 - Tab moves forward by control on a web page. A control can be a button to press, a link to another page, a checkbox to check or uncheck, a combo box to choose an item from, or a list of radio buttons, to choose only one option out of a few choices.
 - Space Bar activates a button, opens a link, opens a combo box, chooses a radio button, or checks a checkbox.
 
-So, when you reach the end of this lesson, press **TAB** until you hear“Lesson 2”, and press the Space Bar. Then, press **Insert + Down Arrow** which means holding down Insert, then pressing Down Arrow, and releasing both keys, to begin reading the page. Ways of quickly getting passed the navigational content will be covered later, or by your instructor.
+So, when you reach the end of this lesson, hold down the Alt key,
+press Left Arrow, then release both keys. This will take you to the
+list of lessons, which is like a table of contents for the
+course. Then, press **TAB** until you
+hear“Lesson 2”, and press the Space Bar. Then, press **Insert + Down
+Arrow** which means holding down Insert, then pressing Down Arrow, and
+releasing both keys, to begin reading the page. Ways of quickly
+getting passed the navigational content will be covered later, or by
+your instructor.

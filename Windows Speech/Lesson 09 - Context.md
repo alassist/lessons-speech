@@ -21,7 +21,7 @@ Now, let’s put that into use. Open the Context Menu, then choose“Refresh,”
 
 - Open File Explorer, find a file, and open the context menu on that file.
 - Open the context menu on a desktop icon, then a taskbar item, then a start menu item.
-- Copy and paste a file using the Context mEnu. You can revisit old lessons to merge what you have learned in those lessons with the use of the Context Menu.
+- Copy and paste a file using the Context menu. You can revisit old lessons to merge what you have learned in those lessons with the use of the Context Menu.
 
     <aside markdown="1">
 
