@@ -48,7 +48,7 @@ And if you press **Alt + Up Arrow** again, you'll be back in:
 
 Student-account
 
-In this way, you can navigate your file system through il Explorer.
+In this way, you can navigate your file system through File Explorer.
 
 ## File types
 
