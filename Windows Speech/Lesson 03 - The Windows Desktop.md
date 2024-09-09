@@ -20,7 +20,12 @@ In either case, you’ll hear something like “Folder view list.” This tells 
 
 When you arrow around the desktop icons, you’ll hear a few pieces of information: the name of the icon, like “Firefox,” and the position of the icon, like “2 of 10.” This helps you know where in the grid of icons that you are. Please note that, even though your screen reader calls the desktop a list, and most lists only require the up and down arrow keys to traverse, the desktop is actually a grid, requiring all four arrow keys to traverse the grid.
 
-When you find an icon you want to open, like the Recycle Bin, press **Enter**. The program, file, or folder will open, and the desktop will be placed in the background. To close an open program, press **Alt + F4**.
+When you find an icon you want to open, like the Recycle Bin, press
+**Enter**. The program, file, or folder will open, and the desktop
+will be placed in the background. To close an open program, press
+**Alt + F4**. if you don't return to the place you were previously,
+press **Alt + Tab** to switch programs. This enables you to return to
+the program you were in before.
 
 ## Activity
 
