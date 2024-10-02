@@ -22,19 +22,13 @@ When you share a file with a limited group of people, your collaborators must si
 
 ## To share a file with a limited group of people:
 
-1. Locate and select the file you want to share, then press the "Share" button. If using a screen reader in Focus mode, press the . (period) key to open the share dialog box.
-
-  ![Clicking the share button. ][1]
-
+1. Locate and select the file you want to share, then press the
+   "Share" button. If using a screen reader in Focus mode, press
+   **Control + Alt + A** to open the share dialog box.
 2. A dialog box will appear. In the People box, type the email addresses of the people you'd like to share the file with. If you want, you can add a message that will be emailed to the people you share the file with.
-
 3. Click **Send**. Your file will be shared.
 
-  ![Composing a message. ][2]
-
 For more control over your files, you can click the drop-down arrow to decide whether people can **edit, comment on, or simply view** the file.
-
-![Selecting View Only. ][3]
 
 ## Sharing with a link
 
@@ -42,25 +36,14 @@ You can easily share a file with a larger group of people by providing a link to
 
 ## To share a link:
 
-1. Locate and select the file you want to share, then press the Share button.
-
-![Clicking the share button. ][1]
-
-1. A dialog box will appear. Click Get shareable link.
-
-![Copying the shareable link. ][4]
-
---------------------------------------------------------------------------------
-
-1. A link to the file will be copied to your web clipboard. You can then paste the link in an email message or on the Web to share the file. When you're finished, click Done.
-
-![Selecting View from the drop down menu. ][5]
+1. Locate and select the file you want to share, then press
+   **Control + Alt + A**.
+2. A dialog box will appear. Click Copy link.
+3. A link to the file will be copied to your web clipboard. You can then paste the link in an email message or on the Web to share the file. When you're finished, click Done.
 
 ### Files shared with you
 
-People can also choose to share files with you. These files will appear in your Shared with Me folder. However, if you'd prefer to access a file from your Google Drive without switcdhing to this view, you can move it. To do this, navigate to your **Shared with Me** folder, hover the mouse over the desired file, then select **Add to My Drive**.
-
-![Adding the file to My Drive.][6]
+People can also choose to share files with you. These files will appear in your Shared with Me folder. However, if you'd prefer to access a file from your Google Drive without switching to this view, you can move it. To do this, navigate to your **Shared with Me** folder, hover the mouse over the desired file, then select **Add to My Drive**.
 
 ### Collaboration tools
 
@@ -76,7 +59,6 @@ Google Drive also has a feature called Suggesting mode, which is similar to the 
 2. Change to suggesting mode.
 3. Select the first three lines of the letter and center align them.
 4. Select the name Melissa Vaughn and add a comment that says "Double check the spelling."
-
 5. **Optional:** Try sharing your document with someone.
 
 [1]: <https://media.gcflearnfree.org/content/55e069731496fdb039ceeed4_01_17_2014/share-button1EDIT.jpg> "Clicking the share button. " [2]: <https://media.gcflearnfree.org/content/55e069731496fdb039ceeed4_01_17_2014/share-message.jpg> "Composing a message. " [3]: <https://media.gcflearnfree.org/content/55e069731496fdb039ceeed4_01_17_2014/view-edit-comment.jpg> "Selecting View Only. " [4]: <https://media.gcflearnfree.org/content/55e069731496fdb039ceeed4_01_17_2014/shareable-link.jpg> "Copying the shareable link. " [5]: <https://media.gcflearnfree.org/content/55e069731496fdb039ceeed4_01_17_2014/copy-link.jpg> "Selecting View from the drop down menu. " [6]: <https://media.gcflearnfree.org/content/55e069731496fdb039ceeed4_01_17_2014/add-to-drive1.jpg> "Adding the file to My Drive." [7]: <https://support.google.com/docs/answer/6239410> [8]: <https://docs.google.com/document/d/1SR6l-BxaDTfMPq0kLUYMIr3eA7WnPQTpLLWVI_Us5MI/edit?usp=sharing>

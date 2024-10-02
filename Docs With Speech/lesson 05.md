@@ -69,41 +69,20 @@ folder, use the context menu, or press **Alt + C, then F**.
 
 Deleting a file from your Google Drive is similar to deleting a file from your computer. You will have to move the file to the Trash folder and then delete it permanently, just like you would delete a file from the Trash or Recycle Bin on your computer.
 
-1. Select the file you want to delete, then press the "#" (number, hash, or pound key (Shift + 3)) key, or **Alt + Backspace** if on a ChromeOS device.
-
-  ![][14]
-
+1. Select the file you want to delete, then press the Delete key.
 2. Select Trash in the left navigation pane.
-
-  ![][15]
-
 3. The Trash folder will appear. Click Trash near the top of the screen, then select "Empty Trash." The files will be permanently deleted.
-
-  ![][16]
 
 ## To preview a file:
 
 Previewing files is a great way to make sure you're opening the right version of a file or to take a quick look at files without opening them.
 
-1. Select the file you want to preview, then open the Context menu key, arrow down to "Preview," and press **Enter**.
-
-  ![][17]
-
+1. Select the file you want to preview, then press the Context menu key, arrow down to "Preview," and press **Enter**.
 2. A preview of the file will appear.
-
-  ![][18]
 
 ### Right-clicking
 
 Pressing the Context key allows you to access the full list of actions for any file. Most of the actions listed here are accessible in other places on Google Drive, but it serves as a great shortcut.
-
-![][19]
-
-## Practice with a project
-
-Ready for an additional challenge? The following resource from Google will help you practice organizing and sharing files:
-
-[Applied Digital Skills: Organize Files in Drive][20]: In this lesson, you'll learn how to use Google Drive to store, access, and share files such as documents, presentations, forms, and photos in one central place. The lesson takes 45-90 minutes to complete.
 
 # Challenge!
 
