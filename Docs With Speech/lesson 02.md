@@ -51,11 +51,9 @@ Once you've set up your Google account, you can access Google Drive by going to 
 
 You can also navigate to Google Drive from any Google page (such as Gmail or Google search) by selecting the "Google Apps""button near the top-right corner, then choosing Drive.
 
-![Navigating to Google Drive. ][12]
-
 ## Using Google Drive with a screen reader
 
-When using Google Drive, and its editors, like Google Docs and Google Sheets, it is best to have your screen reader in its mode for interacting with web apps, forms, and other interactive systems. For NVDA, have the Focus Mode enabled, not Browse mode. For JAWS, have the Virtual PC Cursor off. For Narrator, have Scan mode off. For VoiceOver, have Quick Navigation off. It is best to use Google Drive's keyboard shortcuts. To learn about using Google Drive with a screen reader, please read [Using Google Docs with a screen reader](https://support.google.com/drive/topic/2650510?hl=en&ref_topic=14940). To learn about using google Docs with a screen reader, please read [Using Docs Editors with a screen reader](https://support.google.com/docs/answer/6282736?co=GENIE.Platform%3DDesktop&hl=en).
+When using Google Drive, and its editors, like Google Docs and Google Sheets, it is best to have your screen reader in its mode for interacting with web apps, forms, and other interactive systems. For NVDA, have the Focus Mode enabled, not Browse mode. For JAWS, have the Virtual PC Cursor off. For Narrator, have Scan mode off. For VoiceOver, have Quick Navigation off. It is best to use Google Drive's keyboard shortcuts. To learn about using Google Drive with a screen reader, please read [Using Google Drive with a screen reader](https://support.google.com/drive/topic/2650510?hl=en&ref_topic=14940). To learn about using google Docs with a screen reader, please read [Using Docs Editors with a screen reader](https://support.google.com/docs/answer/6282736?co=GENIE.Platform%3DDesktop&hl=en).
 
 ## The Google Drive interface
 
@@ -72,8 +70,6 @@ Google also has separate mobile apps for creating and editing documents, spreads
 ## Google Drive for desktop
 
 If you prefer to work on the desktop, you can download the [Google Drive desktop app][17] to your computer. Available for Windows and macOS, this app makes it a bit easier to upload your existing files and work offline. Once it's installed, you'll see a new Google Drive folder on your computer. Any files you move into this folder will automatically be uploaded to your Google Drive.
-
-![Google drive desktop.][18]
 
 ## Challenge!
 
