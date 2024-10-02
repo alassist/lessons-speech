@@ -30,33 +30,17 @@ It's easy to upload files from your computer to Google Drive. If you're using th
 
 ## To upload a file:
 
-1. From Google Drive, locate and select the New button, then select File upload.
-
-  ![Uploading a file. ][2]
-
+1. From Google Drive, locate and select the New button, then select File upload. Or, press **Alt + C, then U**.
 2. Using the Open dialog box, find a file you want to open, and press **Enter** on it to open it. You can select multiple files.
-
-  ![Locating file.][3]
-
 3. The file(s) will be uploaded to your Google Drive.
-
-  ![File in Drive.][4]
 
 ## To upload a folder:
 
 **Note**: This feature is only available if you're accessing Google Drive through Google Chrome.
 
-1. Press the New menu button, then select Folder upload.
-
-  ![Upload folder to Drive. ][6]
-
+1. Press the New menu button, then select Folder upload. Or, press **Alt + C, then I**
 2. Locate and select the folder you want to upload, then click Open. On Windows, select the folder, Tab to the folder name edit field, and press **Enter**.
-
-  ![Browsing for a folder.][7]
-
 3. The folder and the files within it will be uploaded to your Google Drive.
-
-  ![Folder on Drive.][8]
 
 # Converting files to Google Docs format
 
@@ -65,26 +49,11 @@ When you upload certain types of files--such as Microsoft Office files or PDF do
 ## To convert a file:
 
 1. Locate and open the file you want to edit.
-
-  ![Selecting a file to convert. ][9]
-
 2. A preview of the file will appear. Select Open.
-
-  ![Preview of the converted file.][10]
-
 3. The file will be converted to a Google document and appear in a new tab.
-
-  ![The converted file open in Google Docs.][11]
-
 4. If you go back to your Google Drive, you'll see that there are now two copies of the file: the original file and the new version in Google Docs format.
 
-  ![][12]
-
 You can set Google Drive to convert your files automatically when you upload them. Press the More button, select Settings, then check the box next to "Convert uploads."
-
-```
-![][13]
-```
 
 # Challenge!
 
@@ -92,6 +61,6 @@ You can set Google Drive to convert your files automatically when you upload the
 2. Convert your file to a Google document.
 3. If you used our example file, your screen should look something like this:
 
-  ![Converted practice file][15]
+![Converted practice file][15]
 
 [1]: <http://www.gcflearnfree.org/chrome> "About Google Chrome" [2]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/file-upload1.jpg> "Uploading a file. " [3]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/select-upload-file_60.jpg> "Locating file." [4]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/doc-uploaded-to-drive_2.jpg> "File in Drive." [5]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/drag-drop-doc.jpg> "Drag and drop file into Drive. " [6]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/folder-upload.jpg> "Upload folder to Drive. " [7]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/select-folder-upload.jpg> "Browsing for folder. " [8]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/folder-on-drive.jpg> "Folder on Drive. " [9]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/convert-file-select.jpg> "Selecting a file to convert. " [10]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/open-with-google-docs.jpg> "Preview of the converted file. " [11]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/finish-conversion.jpg> "The converted file open in Google Docs." [12]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/file-copy.jpg> [13]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/settings-convert-upload.jpg> [14]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/googledrive_uploading_practice.docx> [15]: <https://media.gcflearnfree.org/content/55e069701496fdb039ceeed1_01_17_2014/google_drive_uplaod_convert_edit.png>
