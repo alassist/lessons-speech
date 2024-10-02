@@ -3,7 +3,7 @@
 ## Navigating the computer Using Focus
 
 Using a computer with a screen reader will be hard at first. You
-cannot see every item that is available, at once, and there may be
+cannot see every item that is available at once, and there may be
 items that a screen reader will skip over or not read correctly due to
 accessibility issues in programs and websites. However, the more you
 use NVDA, the easier it'll become, and the more confident you will be
@@ -77,7 +77,8 @@ NVDA, and their definitions.
 activate it.
 - spin button: a numeric entry field which can be typed into, but also increased or decreased using the arrow keys.
 - split button: a button which can be activated with the Enter key, but has alternative actions which can be accessed using the Space bar.
-- toggle button : a switch which toggles a setting on or off. Toggle it with the Enter key.
+- toggle button : a switch which toggles a setting on or off. Toggle
+  it with the Enter key or Space bar.
 - Combo box : a closed box, which can be opened to reveal a list of items. Open with Alt + Down arrow, choose an item with the arrow keys, and close with Alt + Up arrow.
 - Check box: A box which can be checked or unchecked with the Space key.
 - Dialog: a window in a program which appears with text in the center, and buttons to answer the text with, for example yes, no, or OK. Tab through the options in a dialog box. Options which can be acted upon are regular Windows controls.
@@ -89,8 +90,8 @@ activate it.
   embedded into the site (usually an Adobe flash program, not often
   used), but can also be a video player, document, or modern web app.
 - graphic: an image.
-- heading: a headline, which can be in range 1 to 6, 1 being most important, 6 being least important.
-- landmark: A navigational device on a website which allows one to
+- heading: a headline, which can be in the range of 1 to 6, 1 being most important, 6 being least important.
+- landmark: A navigational aid on a website which allows one to
   find important parts of the page.
 - link: A hyperlink to a different part of a web page, to a different
   website, or in a program, opens an Internet page for showing further

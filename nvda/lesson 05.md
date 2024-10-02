@@ -9,7 +9,7 @@ Windows commands for moving around and editing text, and NVDA commands
 for reading some information. Learning to use any operating system to
 the best of its strengths, along with the abilities of any screen
 reader makes the user much more able to learn new applications,
-websites, and operating systems.
+websites, and operating systems, along with being much more productive.
 
 As taught in *Windows Basics with Speech*, Windows contains a cursor
 used in typing text, which moves forward as you type. NVDA has its own

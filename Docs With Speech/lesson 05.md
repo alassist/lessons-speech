@@ -46,31 +46,24 @@ Once you start adding files to Google Drive, you can use folders to help organiz
 
 ## To create a folder:
 
-1. From Google Drive, click the New button, then select Folder from the drop-down menu. If your screen reader is in Focus mode, press **Shift + F**.
+1. From Google Drive, click the New button, then select Folder from
+   the drop-down menu. If your screen reader is in Focus mode, press
+   **Alt + C, then F**.
 
-  ![Creating a new folder. ][8]
-
-2. A dialog box will appear. Enter a name for your folder, then click Create.
-
-  ![][9]
+2. A dialog box will appear. Enter a name for your folder, then press **Enter**.
 
 3. Your folder will appear on the left below My Drive.
 
-  ![Folder in Drive. ][10]
-
 ## To move files into folders:
 
-1. Select the files using Shift + Arrow keys, then move them with **Shift + Z**, find the folder you want to move them to, open that folder, then tab to "Move here."
-
-  ![Clicking and dragging file to folder. ][11]
+1. Select the files using Shift + Arrow keys, then move them with
+   **Control + Alt + M**, find the folder you want to move them to, open that folder, then tab to "Move here."
 
 2. The file will appear in the selected folder.
 
-  ![File moved to folder. ][12]
-
-To add multiple files to a folder, select them with **Shift + arrow keys**, and copy and paste them to a new folder. To create a new folder, use the context menu, or press **Shift + Z**.
-
-![Selecting multiple files. ][13]
+To add multiple files to a folder, select them with **Shift + arrow
+keys**, and copy and paste them to a new folder. To create a new
+folder, use the context menu, or press **Alt + C, then F**.
 
 ## To delete a file:
 

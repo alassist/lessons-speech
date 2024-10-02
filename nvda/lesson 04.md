@@ -8,7 +8,7 @@ navigating the web: Browse mode and Focus mode. In Browse mode, NVDA
 lets you read the website like a text document, with keys to quickly
 find items on the page. In Focus mode, NVDA lets you fill out forms
 and use web apps. In fact, when you press Tab, and hear the typewriter
-sound when you come across for form to log into this site, you are put
+sound when you come across the form to log into this site, you are put
 into Focus mode in order to type your username and password, and taken
 out of it when you reach the login button.
 
@@ -21,14 +21,20 @@ tables, and other content in them, so you’ll be able to get through a
 lot just by reading. Internet documents, called web pages, can even
 host entire programs running on Internet servers, like Google Drive.
 
-NVDA provides users a way to read web pages like a Notepad document, or navigate controls like a regular program. You can use your arrow keys to read line by line. You can read the entire document with Insert + Down Arrow. You can move to the next link or control with the Tab key, and activate it with the Enter key. You can find out what page you’re on with Insert + T. However, there are quicker ways to navigate the Internet, which you will learn about in the next section.
+NVDA provides users a way to read web pages like a Notepad document,
+or navigate controls like a regular program. You can use your arrow
+keys to read line by line. You can read the entire document with
+Insert + Down Arrow. You can move to the next link or control with the
+Tab key, and activate it with the Enter key. You can find out what
+page you’re on with **Insert + T**. However, there are quicker ways to
+navigate the Internet, which you will learn about in the next section.
 
 ## Finding text
 
 When you know what you’re looking for, finding text can make
 navigating websites quick and easy. For example, if you know that,
 after signing into the alassist.us site, you’re looking for your NVDA
-Basics lessons, you can search for “NVDA Basics,” or just “NVDA” to
+Foundation lessons, you can search for “NVDA Foundation,” or just “NVDA” to
 look for that link to press. If you do not find the right one on the
 first try, press **Insert + F3**, and NVDA will look for the next
 occurrence of that text. To find the previous occurrence, press
