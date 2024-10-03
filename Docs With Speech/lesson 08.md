@@ -9,15 +9,9 @@ However, you will need some information to recover your account, whether it's yo
 If you don't use your email address often or if you never wrote it down, you might one day find that you've forgotten it. Google makes it easy to recover your username.
 
 1. Go to the [Google sign-in page][1] and click Need help? below the login field.
-
-  ![][2]
-
 2. Click Find my account.
-
-  ![][3]
-
-3. Select either Enter your recovery email address or Enter your recovery phone number, then type your name and check off the box next to I'm not a robot. Press the Submit. button![][4]
-
+3. Select either Enter your recovery email address, Enter your
+   recovery phone number, or answer security questions, then type your name and check the box next to I'm not a robot. Press the Submit. button.
 4. Google will send you an email or text message containing your user name.
 
 ## To recover your password:

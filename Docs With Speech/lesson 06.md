@@ -7,9 +7,15 @@ Google Drive makes sharing your files simple. It also allows multiple people to 
 
 ## Sharing files
 
-Whenever you share a file from your Google Drive, you can let others view and even edit that same file. While you can share any file stored on your Google Drive, it's important to note that you can only use the collaboration features for files created within your Drive.
+Whenever you share a file from your Google Drive, you can let others
+view and even edit that same file. While you can share any file stored
+on your Google Drive, it's important to note that you can only use the
+collaboration features for files that can be opened  in Google apps,
+like Google Docs, Sheets, and Slides.
 
-Let's look at the example of Olenna, an art teacher who uses her Google Drive to organize letters, lesson plans, and more. Olenna's files include:
+Let's look at the example of Olenna, an art teacher who uses her
+Google Drive to organize letters, lesson plans, and more. Olenna's
+files include:
 
 - **Files she keeps private**, like her spreadsheet with classroom expenses
 - **Files she lets others edit**, like the lesson-planning documents she creates with her co-teacher
