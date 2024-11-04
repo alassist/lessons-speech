@@ -54,13 +54,79 @@ name of the screen reader. For example, **Insert + F** in JAWS is
 **Narrator + F**. In courses from E. H. Gentry, it will just be called
 Insert or, rarely, Modifier.
 
-Along with **Tab** and **Shift + Tab** are the Arrow keys. These navigate text areas, called *Edit Boxes* in Windows. These boxes contain any text, and are used in some programs to provide status messages or information. The arrow keys can also be used to navigate content on the Internet, navigating by line, up and down, or character, left and right, like in a document.
+## Modifier Keys
 
-Keyboard Shortcuts are also great ways to navigate Windows. For example, holding **Insert** pressing **Down Arrow**, then releasing both keys is a keyboard command in almost all Windows screen readers. It begins reading from the current line, to the end of the document or web page. In many courses and websites, keyboard shortcuts (or key commands) are written in a specific way. The keyboard shortcut **Insert + Down Arrow** tells the user to hold down the Insert key, press Down Arrow and release both keys. The notation **Control + S** tells the user to hold down the Control key, press “S”, and release both keys. If the user only has to press one key, though, some courses simply put the key in quotes, like “Press the ‘h’ key to move to the next heading.”
+Modifier keys are keys on the keyboard that change the function of
+other keys. These are usually the **Control** key, at the very bottom
+left of the keyboard, the **Windows** key, to the right of the Control
+key, the **Alt** key, which is to the right of the Windows key, and the
+**Shift** key, which is above the Control key.
+
+After the Alt key is the Space bar along much of the width of the
+keyboard. There are Right hand versions of the modifier keys to the
+right of the space bar. They are Alt, Windows, Applications, and Control,
+in that order. There is another Shift key above the right Control key.
+
+In some cases, computer keyboards are different than the ideal. Some
+of them do not have a Windows key on the right side of the space
+bar. Some keyboards do not have an applications key. And some
+keyboards have a key where the Windows key should be, which performs
+other functions. The keyboards at the E. H. Gentry training facility,
+or keyboards that you are loaned as part of distance learning, can be
+different in those ways. Some have a key on the right side of the
+space bar that is where the Windows key should be, but does nothing
+for screen reader users. Some do not have a Windows key at all on the
+right side of the Space bar. You must be adaptable to these kinds of
+differences, especially if you use a laptop.
+
+Using Modifier keys work a bit like using a foot pedal on a piano,
+then playing notes, which are modified by the foot pedal. They're also
+like some video games, where holding down a trigger or shoulder button
+on a game controller modifies what the face buttons do. In either
+case, you use them by holding down the modifier key, pressing another
+key, then releasing both keys.
+
+Modifier keys can do things on their own, though. If you press the
+Control key by itself, your screen reader will stop talking. If you
+press the Windows key by itself, the Start menu will open. If you
+press the Alt key by itself, the menu bar or ribbon for the
+application you're in, will open.
+
+When you use a Modifier key on another key to modify it, the full key
+press is called a *Keyboard command*. So, if you press Alt by itself,
+you'll open a menu. If you press Tab by itself, you'll move to the
+next item. But if you press **Alt + Tab**, you'll move to the next
+Window that's open, if any. **Alt + Tab** is a keyboard command,
+composed of Alt, and Tab.
+
+In this course, we'll bold keyboard commands, and there will be a plus
+sign (+) between the items that make up the keyboard command, like
+**Alt + shift + Tab**. To perform that specific command, you would
+hold Alt, and Shift, press Tab, then release all keys.
+
+## Moving around Text
+
+Along with **Tab** and **Shift + Tab** are the Arrow keys. These
+navigate text areas, called *Edit Boxes* in Windows. These boxes
+contain any text, and are used in some programs to provide status
+messages or information. The arrow keys can also be used to navigate
+content on the Internet, navigating by line, up and down, or
+character, left and right, like in a document.
+
+## Reading Continually
+
+If you want to read a document or web page continually, without having
+to press **Down arrow** so much, you can use **Insert + Down
+Arrow**. This command is available in all screen readers, and tells
+the screen reader to read from where you are on a page, like the
+heading that begins your lesson, to the end of the page. When you're
+ready to stop reading, you can press **Control** to stop it. Then,
+you can navigate normally.
 
 ## Activity
 
-Now that you know basic navigation, try the following activities for practicing what you’ve learned.
+Now that you know basic navigation, try the following activities for
+practicing what you’ve learned.
 
 - Press the **Up Arrow** to navigate to the previous line, then press **Insert + Down Arrow** to continue reading.
 - Press **Shift + Tab** to navigate to the previous control, then press the “h” key until you hear “activity heading level 3” and press **Insert + Down Arrow** to continue reading.
