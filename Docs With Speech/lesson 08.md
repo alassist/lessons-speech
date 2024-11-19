@@ -1,6 +1,9 @@
 # Locked out of your Google account?
 
-There may be times when you go to log in to Gmail, Google Docs, or any other Google site and can't seem to remember the email address or password you used when creating your account. Luckily, Google makes it easy to recover your account information.
+There may be times when you go to log in to Gmail, Google Docs, or any
+other Google site and can't seem to remember the email address or
+password you used when creating your account. Luckily, Google makes it
+easy to recover your account information.
 
 However, you will need some information to recover your account, whether it's your email address, the date you created your account, or your phone number.
 

@@ -1,38 +1,70 @@
 # Creating new files
 
-Google Drive gives you access to a suite of tools that allows you to create and edit a variety of files, including documents, spreadsheets, and presentations. There are five types of files you can create on Google Drive:
+Google Drive gives you access to a suite of tools that allows you to
+create and edit a variety of files, including documents, spreadsheets,
+and presentations. There are five types of files you can create on
+Google Drive:
 
-- **Documents**: For composing letters, flyers, essays, and other text-based files (similar to Microsoft Word documents)
-- **Spreadsheets**: For storing and organizing information (similar to Microsoft Excel workbooks)
-- **Presentations**: For creating slideshows (similar to Microsoft PowerPoint presentations)
+- **Documents**: For composing letters, flyers, essays, and other
+  text-based files (similar to Microsoft Word documents)
+- **Spreadsheets**: For storing and organizing information (similar to
+  Microsoft Excel workbooks)
+- **Presentations**: For creating slideshows (similar to Microsoft
+  PowerPoint presentations)
 - **Forms**: For collecting and organizing data
 - **Drawings**: For creating simple vector graphics or diagrams
 
-The process for creating new files is the same for all file types. Watch the video below to learn more.
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/cMRBv3BrU_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-</iframe>
-
+The process for creating new files is the same for all file
+types.
 ## To create a new file:
 
-1. From Google Drive, locate and select the New button, then choose the type of file you want to create. In our example, we'll select Google Docs to create a new document. To do this with a keyboard command, press **Alt + C, then T**.
-2. Your new file will appear in a new tab on your browser. If you aren't already in the untitled document, press **Control + Tab** to reach the untitled document tab. Press **Alt + F** in Google Chrome, or **Alt + Shift + F** in other browsers, and select "rename."
-3. The _Rename_ dialog box will appear. Type a name for your file, then click OK. For keyboard users, just type the name and press **Enter**.
-4. Your file will be renamed. You can access the file at any time from your Google Drive, where it will be saved automatically. Simply navigate to it and press **Enter** to open it.
+1. From Google Drive, locate and select the New button, then choose
+   the type of file you want to create. In our example, we'll select
+   Google Docs to create a new document. To do this with a keyboard
+   command, press **Alt + C, then T**.
+2. Your new file will appear in a new tab on your browser. If you
+   aren't already in the untitled document, press **Control + Tab** to
+   reach the untitled document tab. To rename your document to
+   something more memorable than "blank document", press **Alt + F** in Google
+   Chrome, or **Alt + Shift + F** in other browsers, and select
+   "rename."
+3. The _Rename_ dialog box will appear. Type a name for your file,
+   then press **Enter**.
+4. Your file will be renamed. You can access the file at any time from
+   your Google Drive, where it will be saved automatically. Use your
+   up and down arrows to navigate to it and press **Enter** to open
+   it.
 
-You may notice that there is no Save button for your files. This is because Google Drive uses autosave, which automatically and immediately saves your files as you edit them.
+You may notice that there is no Save button for your files. This is
+because Google Drive uses autosave, which automatically and
+immediately saves your files as you edit them.
 
 # Using templates
 
-A template is a pre-designed file you can use to quickly create new documents. Templates often include custom formatting and designs, so they can save you a lot of time and effort when starting a new project. Most templates are designed to help you create specific types of files. For instance, you could use a template to quickly create a resume or newsletter.
+A template is a pre-designed file you can use to quickly create new
+documents. Templates often include custom formatting and designs, so
+they can save you a lot of time and effort when starting a new
+project. Most templates are designed to help you create specific types
+of files. For instance, you could use a template to quickly create a
+resume or newsletter.
 
-You can find a wide selection of templates in the [Google Drive Template Gallery][7]. Unfortunately, we've found that many of these templates aren't very well-designed, and it's often difficult to find specific templates within the gallery. For this reason, we recommend using templates made by Google, which tend to be of higher quality than user-submitted templates.
+You can find a wide selection of templates in the Google Drive
+Template Gallery. Unfortunately, we've found that many of these
+templates aren't very well-designed, and it's often difficult to find
+specific templates within the gallery. For this reason, we recommend
+using templates made by Google, which tend to be of higher quality
+than user-submitted templates.
 
 ## To use an official Google template:
 
-1. Using **Shift + Tab**, navigate to the "new" button, and press **Enter**. Down arrow to the "google Docs" submenu, press **Enter**, down arrow to "from a template" and press **Enter**.
-2. Templates are grouped into lists. Tab through the categories, and use arrow keys to select a template. When you've found a template you want to use, press **Enter** on it.
-3. A new file will be created with the selected template. You can then customize the file with your own information.
+1. Using **Shift + Tab**, navigate to the "new" button, and press
+   **Enter**. Down arrow to the "google Docs" submenu, press
+   **Enter**, down arrow to "from a template" and press **Enter**.
+2. Templates are grouped into lists. Tab through the categories, and
+   use arrow keys to select a template. When you've found a template
+   you want to use, press **Enter** on it.
+3. A new file will be created with the selected template. You can then
+   customize the file with your own information.
 
 # Challenge!
 

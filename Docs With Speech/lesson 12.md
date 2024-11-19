@@ -6,13 +6,15 @@ problems.
 
 ## Spell checking
 
-To check for misspelled words, on Windows, press **Control + apostrophe**. On Mac, press **Command + apostrophe**. To search
+To check for misspelled words, on Windows, press **Control +
+apostrophe**. On Mac, press **Command + apostrophe**. To search
 backward, press **Control + Semicolon** on Windows, or **Command +
 Semicolon** on Mac. Google Docs automatically performs spell-checking
 on the document, so you don't have to press F7 if you don't want
 to. However, if you want to spell check the whole document, using a
 dialog box to correct issues, you can press **F7** to spell check,
-just like in Word. When you find a spelling error, open the Google
+just like in Word. When you find a spelling error when you're moving
+around your document, open the Google
 Docs context menu, arrow to the suggestion that you want, and press
 **Enter** to correct it. Note that Google Docs checks grammar as well
 as spelling, so move to the next or previous error will move to both

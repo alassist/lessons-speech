@@ -1,5 +1,15 @@
 # Lesson 9: Getting Started with Google Docs with a screen reader
 
+In this part of the course, lesson nine onward, you'll learn much more
+about Google Docs. You'll start from the Google Docs interface, learn
+to edit documents, format and check spelling, and collaborate with
+others on a document. In this course, you'll be given a lot of
+keyboard commands. If you ever need help with finding an action while
+you're working on a document, press **Alt + Slash**. That will open a
+search bar where you can search for an action to perform, like
+creating a link, or a list. Use your up and down arrows to choose an
+action, and **Enter** to activate the one you're on.
+
 In this lesson, you'll learn how to:
 
 - Open Google Docs
@@ -9,18 +19,17 @@ In this lesson, you'll learn how to:
 
 ## Open Google Docs
 
-To open Google Docs, in a web browser, open a new window, or new Tab tab if
-that's your preference. On Windows, press **Control + N**. On Mac,
-press **Command + N**. On Chrome devices, press **Control + N**. In
+To open Google Docs, in a web browser, open a new window, or new tab
+if that's your preference. On Windows, or Chrome devices like
+ChromeBooks, press **Control + N**. On Mac, press **Command + N**. In
 this course, we'll assume you're either using Microsoft Edge, or
 Google Chrome.
 
-Now, you have a new Window. Move to the address bar, on Windows with
-**Control + L**, on Mac with **Command + L**, and Chrome devices with
-**Control + L**. Here, type the address docs.google.com and press
-**Enter**, on Windows or Chrome devices, or **Return** on Mac. If
-you're already in the address bar, don't worry about trying to get
-there again.
+Now, you have a new Window. Move to the address bar, on Windows or
+Chrome devices with **Control + L**, or on Mac with **Command + L**.
+Here, type the address docs.google.com and press **Enter**, on
+Windows or Chrome devices, or **Return** on Mac. If you're already in
+the address bar, don't worry about trying to get there again.
 
 Now, your screen reader should move to the "Recent documents" list. If
 it doesn't, try to **Tab** or **shift + Tab** to it. It should say

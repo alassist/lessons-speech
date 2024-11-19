@@ -1,64 +1,67 @@
 # Managing your files
 
-After you've been using Google Drive for a while, you might find yourself having a difficult time keeping track of all of your files. Fortunately, Drive offers several features to help you manage and organize them. Watch the video below to learn more.
+After you've been using Google Drive for a while, you might find
+yourself having a difficult time keeping track of all of your
+files. Fortunately, Drive offers several features to help you manage
+and organize them.
 
 ## Searching for files
 
-Searching lets you look for specific files using words contained within the file or file name. To do this, locate the search bar, then enter the word or file name you're looking for. A list of suggested searches and files will appear as you type. Use the arrow keys to choose a file directly from the search results. You can also press the **Enter** key to see a full list of search results.
-
-![][1]
+Searching lets you look for specific files using words contained
+within the file or file name. To do this, set focus on the search bar
+by pressing the **/** "slash" key, then enter the word or file name
+you're looking for. A list of suggested searches and files will appear
+as you type. Use the arrow keys to choose a file directly from the
+search results. You can also press the **Enter** key to see a full
+list of search results.
 
 ## Sorting files
 
-By default, your files are already sorted from newest to oldest. However, you can apply other sorts to put your files in a different order. To sort by name, press the Name button just above the list of files. To sort by date, press the Last modified menu button, then choose the desired sort option.
-
-![][2]
+By default, your files are already sorted from newest to
+oldest. However, you can apply other sorts to put your files in a
+different order. To sort by name, press the Name button just above the
+list of files. To sort by date, press the Last modified menu button,
+then choose the desired sort option.
 
 ## To apply a filter:
 
-Filters let you hide unimportant files and focus only on the ones you're interested in. For example, if you were looking for a presentation, you could use a filter to narrow down your visible files so you would only see presentations.
+Filters let you hide unimportant files and focus only on the ones
+you're interested in. For example, if you were looking for a
+presentation, you could use a filter to narrow down your visible files
+so you would only see presentations.
 
 1. Locate and select the Search options button in the search bar.
-
-  ![Google Drive search options. ][3]
-
-2. Choose the filter you want to use. In our example, we'll set a filter for file type. Use the **up** and **down** arrows to choose one.
-
-  ![Choosing a filter. ][4]
-
-3. Choose the desired filter. In our example, we'll select Text documents.
-
-  ![Choosing desired search filter. ][5]
-
+2. Choose the filter you want to use. In our example, we'll set a
+   filter for file type. Use the **up** and **down** arrows to choose
+   one.
+3. Choose the desired filter. In our example, we'll select Text
+   documents.
 4. Press the Search button or press the **Enter** key to apply the filter.
-
-  ![Search type documents. ][6]
-
 5. Only files that match the filter will appear in the search results.
 
-  ![Document search results.][7]
-
-To clear a filter, select the text in the search bar, then press the **Backspace** or **Delete** key.
+To clear a filter, select the text in the search bar, then press the
+**Backspace** or **Delete** key.
 
 # Organizing your files
 
-Once you start adding files to Google Drive, you can use folders to help organize and group them. Folders in Google Drive work just like the folders on your computer.
+Once you start adding files to Google Drive, you can use folders to
+help organize and group them. Folders in Google Drive work just like
+the folders on your computer.
 
 ## To create a folder:
 
 1. From Google Drive, click the New button, then select Folder from
-   the drop-down menu. If your screen reader is in Focus mode, press
+   the drop-down menu. Or, put your screen reader in Focus mode, press
    **Alt + C, then F**.
-
-2. A dialog box will appear. Enter a name for your folder, then press **Enter**.
-
+2. A dialog box will appear. Enter a name for your folder, then press
+   **Enter**.
 3. Your folder will appear on the left below My Drive.
 
 ## To move files into folders:
 
 1. Select the files using Shift + Arrow keys, then move them with
-   **Control + Alt + M**, find the folder you want to move them to, open that folder, then tab to "Move here."
-
+   **Control + Alt + M**, find the folder you want to move them to,
+   open that folder, then tab to "Move here."
 2. The file will appear in the selected folder.
 
 To add multiple files to a folder, select them with **Shift + arrow
@@ -67,22 +70,33 @@ folder, use the context menu, or press **Alt + C, then F**.
 
 ## To delete a file:
 
-Deleting a file from your Google Drive is similar to deleting a file from your computer. You will have to move the file to the Trash folder and then delete it permanently, just like you would delete a file from the Trash or Recycle Bin on your computer.
+Deleting a file from your Google Drive is similar to deleting a file
+from your computer. You will have to move the file to the Trash folder
+and then delete it permanently, just like you would delete a file from
+the Trash or Recycle Bin on your computer.
 
 1. Select the file you want to delete, then press the Delete key.
 2. Select Trash in the left navigation pane.
-3. The Trash folder will appear. Click Trash near the top of the screen, then select "Empty Trash." The files will be permanently deleted.
+3. The Trash folder will appear. Click Trash near the top of the
+   screen, then select "Empty Trash." The files will be permanently
+   deleted.
 
 ## To preview a file:
 
-Previewing files is a great way to make sure you're opening the right version of a file or to take a quick look at files without opening them.
+Previewing files is a great way to make sure you're opening the right
+version of a file or to take a quick look at files without opening
+them.
 
-1. Select the file you want to preview, then press the Context menu key, arrow down to "Preview," and press **Enter**.
+1. Select the file you want to preview, then press **Control + Alt +
+   P**, or the Context menu key, arrow down to "Preview," and press
+   **Enter**.
 2. A preview of the file will appear.
 
 ### Right-clicking
 
-Pressing the Context key allows you to access the full list of actions for any file. Most of the actions listed here are accessible in other places on Google Drive, but it serves as a great shortcut.
+Pressing the Context key allows you to access the full list of actions
+for any file. Most of the actions listed here are accessible in other
+places on Google Drive, but it serves as a great shortcut.
 
 # Challenge!
 
@@ -93,4 +107,4 @@ Pressing the Context key allows you to access the full list of actions for any f
 5. Open the folder and preview the example file.
 6. Close the preview with **Escape**.
 
-[1]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/search-files.jpg> [2]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/sort-files1_60.jpg> [3]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/search-options1EDIT.jpg> "Google Drive search options. " [4]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/filter-file-type1EDIT.jpg> "Choosing a filter. " [5]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/documents-filter1.jpg> "Choosing desired search filter. " [6]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/documents-filter-search.jpg> "Search type documents. " [7]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/search-match-doc1.jpg> "Document search results." [8]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/create-folder.jpg> "Creating a new folder. " [9]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/name-folderEDIT.jpg> [10]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/folder-in-drive.jpg> "Folder in Drive. " [11]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/click-drag-file.jpg> "Clicking and dragging file to folder. " [12]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/file-in-folder.jpg> "File moved to folder. " [13]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/select-multiple-files.jpg> "Selecting multiple files. " [14]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/select-to-delete.jpg> [15]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/removed-file.jpg> [16]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/empty-trash.jpg> [17]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/preview-docEDIT3.jpg> [18]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/preview-open.jpg> [19]: <https://media.gcflearnfree.org/content/55e069721496fdb039ceeed3_01_17_2014/get-link.jpg> [20]: <https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/organize-files-in-drive/overview.html?utm_source=partners&utm_medium=social&utm_campaign=20181119-gcflearnfreeorganizedrive--cce-stu-&src=soc-par-20181119-gcflearnfreeorganizedrive--cce-stu-> [21]: <https://docs.google.com/document/d/1hG1OAsVuwEp2kIY6E3gpVWQE7BKLQ8YIdqcfnYDt4DI/edit?usp=sharing>
+[20]: <https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/organize-files-in-drive/overview.html?utm_source=partners&utm_medium=social&utm_campaign=20181119-gcflearnfreeorganizedrive--cce-stu-&src=soc-par-20181119-gcflearnfreeorganizedrive--cce-stu-> [21]: <https://docs.google.com/document/d/1hG1OAsVuwEp2kIY6E3gpVWQE7BKLQ8YIdqcfnYDt4DI/edit?usp=sharing>
