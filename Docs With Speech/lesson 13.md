@@ -3,19 +3,6 @@
 In this lesson, we'll cover other utilities that can help you through
 the process of writing documents, or plan them.
 
-## Explore
-
-Explore is a part of Google Docs that helps you find relevant images
-and information, and add them to your document. You can access Explore
-with **Control + Alt + Shift + I** for Windows, and **Command +
-Option + shift + I** on Mac. This will open a page that you can browse
-through, so on Windows, with NVDA, press **Insert + Space** until you
-hear a beep, then read the page. If there is nothing on it, press
-**Escape** and add more to the document if you'd like to use this
-feature. If you find something, follow the instructions on the page to
-"add" it, or "insert it." When you're done with the Explore page,
-press **Escape** to move back to your document.
-
 ## Calendar, Keep, and Tasks
 
 You can use Google Calendar, Keep, and Tasks in a side panel while

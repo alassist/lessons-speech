@@ -26,8 +26,86 @@ features.
 If you cannot find a command you're looking for, you can search the
 menus. This is similar to the "Tell me" feature in Microsoft Word. To
 do this, press **Alt + / (slash)** on Windows, or **Option + /
-(slash)** on Mac. Type what you want to search for, like "Insert"arrow
+(slash)** on Mac. Type what you want to search for, like "color", arrow
 through the results to find the one you want, and press **Enter**.
+
+## Examples of how to Format
+
+This section contains a few examples of how to format with Google
+Docs. You'll use the format menu, but when you practice these steps,
+try to note keyboard commands. When you use keyboard commands, you can
+perform the same formatting more quickly.
+
+### Select a Paragraph style
+
+* Open the Format menu with **Alt + O**.
+* Choose Paragraph Styles
+* Choose a style, like normal, title, heading.
+* Choose Apply.
+
+### Change paragraph alignment
+
+* Open the Format menu with **Alt + O**.
+* Arrow down to the align and indent menu.
+* Choose the "left", "Center", and "right."
+
+### Bold, italicize, or strikethrough text
+
+* Open the format menu with **Alt + O**.
+* Select the Text menu.
+* Choose the option you want, including from bold, italics, underline,
+  and strike through.
+
+### Change font style and size
+
+These steps use the "menu search" command, which is **Alt + /
+(slash)**.
+
+* Open the menu search.
+* Type the word "font" without the quotes, press Space, and then type
+  the name of the font you want to use.
+* Use the Down arrow to find the font you want, and press
+  **Enter**. If the font has different variations, you'll choose one
+  and press **Enter**.
+
+### Change the font size
+
+* Select the Format menu.
+* Select the "text" menu.
+* Arrow up to "size" and press **Enter**.
+* Choose to increase or decrease the size. Note the keyboard commands,
+  **Control + Shift + . (period)** to increase, or **Control + Shift +
+  , (comma)** to decrease.
+
+If you know the size you want to use, do the following:
+
+* Open the Menu search.
+* Type "font", and space, then the size you want to use. For example,
+  "font 16".
+* Press **Enter**.
+
+### Change the font colors
+
+* Open the menu search.
+* Type "font color" and then the color you want, like "font color
+  blue".
+* Down arrow to the desired shade.
+* Press **Enter**.
+
+### Creating lists
+
+There are a few ways to create a list. You can type the number or an
+asterisk, or star, or using keyboard commands.
+
+* To type a list, on a blank line, press the number 1, then a period,
+  then a space. Or, press star (Shift + 8), then press Space.
+* Press **Control + Shift + 7** to start, or change to, a numbered
+  list. Press **Control + Shift + 8** for a bulleted list. For a
+  checklist, press **Control + Shift + 9**.
+
+If you need to make a list inside another list, press Tab. If you make
+a checklist, you can check or uncheck the checklist item, press
+**Control + Shift + Enter**.
 
 ## Formatting with Markdown
 
