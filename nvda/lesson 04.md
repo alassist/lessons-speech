@@ -24,8 +24,8 @@ host entire programs running on Internet servers, like Google Drive.
 NVDA provides users a way to read web pages like a Notepad document,
 or navigate controls like a regular program. You can use your arrow
 keys to read line by line. You can read the entire document with
-Insert + Down Arrow. You can move to the next link or control with the
-Tab key, and activate it with the Enter key. You can find out what
+**Insert + Down Arrow**. You can move to the next link or control with
+the Tab key, and activate it with the Enter key. You can find out what
 page you’re on with **Insert + T**. However, there are quicker ways to
 navigate the Internet, which you will learn about in the next section.
 
@@ -53,7 +53,34 @@ Please read through the following activity, then perform it to find text on a we
 
 The web contains many types of items. There are headings, links,
 lists, forms, check boxes, buttons, radio buttons, separators, images,
-frames, edit fields, block quotes, and quite a few others.
+frames, edit fields, block quotes, and quite a few others. Even
+regular lines of text are part of paragraphs. When NVDA reaches one of
+these objects, it will read what type of object it is, and what it is
+called. For example, if you have a heading named "Finding Objects,"
+NVDA will say "Heading Finding Objects." Headings can be of different
+levels of importance, showing visually as different sizes. Headings
+can range from level 1, the most important, to level 6, the least
+important. So, if a heading is at level 2, NVDA will tell you so.
+
+Other objects are similar. If a checkbox is checked or unchecked, NVDA
+will tell you. If an edit field has something written in it, NVDA will
+read the text inside of it. As you practice, you'll become familiar
+with what to expect from different object types.
+
+Navigating to objects can be done in a few ways. You can always use
+your arrow keys, or use NVDA's Find command. A quicker way, though, is
+to use NVDA's webpage navigation commands.
+
+Whenever you are in Browse Mode, you can not only use the arrow keys,
+but can use single keys on the keyboard to move to the next object of
+that type on the page immediately. One of those keys is the letter
+H. If you press H by itself, in Browse mode, you'll move to the next
+heading. If there are no headings, NVDA will tell you so, and leave
+you at your current position on the page. If there are no more
+headings, like if you're near the end of the page, NVDA will tell you
+so, and leave you where you are. If you need to move backwards a
+heading, you can add Shift to that key. So, when you type **Shift +
+H**, you'll move to the previous heading on the page.
 
 The following keys by themselves jump to the next available item,
 while adding the shift key causes them to jump to the previous item:
@@ -100,7 +127,7 @@ You can do this by listing objects. This allows you to press a letter,
 which will navigate you to objects beginning with that letter, where
 you can then Down Arrow through them to find what you’re looking for.
 
-On the web, everything is an element. Paragraphs are elements, lists
+On the web, everything is an object, also called an element. Paragraphs are elements, lists
 are elements, both ordered lists and unordered ones, with list items
 inside them. This is why the dialog used to find items is called the
 “elements list.”
