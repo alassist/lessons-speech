@@ -1,134 +1,118 @@
-# Lesson 2
+::: {#maincontent role="main"}
+Don\'t want to get mom mad if she\'s a dinosaur! Roar!
 
-The better question is how high do you think a clever cat can count?
-Hmmmmm
+Quick reminder to continue using what you learned in lesson 1 as you
+work through this and all future lessons.
 
-### A Quick Review
+## Welcome to Lesson 2
 
-We've used our up and down arrows to navigate to the previous and next
-line. We've used our left and right arrows to navigate to the previous
-and next character. We've added in the control key to our left and
-right arrows to navigate to the previous and next word.
+It\'s about time to address the elephant in the room. Have you heard
+JAWS read \"heading level 1 or 2 or 3\" as you\'ve been navigating
+through these lesson pages? Well, that\'s because webpages are organized
+using headings. They organize information from big ideas to smaller
+ideas.
 
-## What's Next?
+Heading 1 is used for our big idea. For example, heading 1 on this page
+says the lesson title. This is the big idea, or main focus of this page.
 
-Paragraphs! How do you think we read paragraph by paragraph?
+A heading level 2 will take that big idea and break it into smaller
+components. For example, think of a book. The cover has the title, or a
+heading level 1, but then the subsequent chapters in the book would be
+read as heading level 2.
 
-Ding, ding, ding! You got it. That pesky control button again! At
-least, I know you would have gotten there eventually.
+A heading level three would organize even smaller ideas. Let\'s think of
+that book again. Let\'s pretend it\'s a textbook. I know, I know, EW!
+But hear me out. The cover would have the title, or heading level one.
+The chapters would be read as heading level two. And if there were
+subsections in those chapters, such as \"introduction,\" \"conclusion,\"
+or \"vocabulary,\" these would be read as heading level three.
 
-We use control + down arrow to read the next paragraph, and control +
-up arrow to read the previous paragraph.
+This pattern can continue until you reach heading level six.
 
-### Practice
+## Navigating Headings
 
-Read the following short story by using control + down arrow to
-navigate paragraph by paragraph. When you've reached the end of the
-story, try navigating to the beginning by using control + up arrow.
+To navigate to the next heading using JAWS, press the h key. This is
+called single key navigation because you are only pressing one key to
+move between elements. Try it now to reach the next heading.
 
-#### Story 1
+Good work. Now press the down arrow.
 
-I have a cat named Manny, and he eats all day. He always lays around,
-and never wants to play.
+You can also navigate to a previous heading. Do this by pressing the
+shift key + the h key. Go on. Try it out! I\'ll wait here.
 
-Not even with a squeaky toy. Nor anything that moves. When I have him
-exercise, he always disapproves.
+### Grouping Headings
 
-So we've put him on a diet, but now he yells all day. And even though
-he's thinner, he still won't come and play.
+If you want to view all headings on a page at once, you can press the
+JAWS key + the F6 key. All available headings will be listed. Navigate
+the list by using your up and down arrows. Press enter on the one you
+wish to view.
 
-## Say All
+Okay! Now let\'s try an activity. Navigate to the next heading by
+pressing the h key.
 
-One last reading strategy we have to discuss. JAWS has a "say all"
-feature. If you press the JAWS key (either insert or caps lock
-depending on your keyboard layout) plus the down arrow, JAWS will read
-continuously beginning with the current location of your JAWS cursor,
-or beginning with the last item you heard. This can be done in a
-document, a web page, basically any application window.
+**Got You!** If you\'ve landed here, I caught you. You only pressed the
+down arrow. Come on, press that h key.
 
-To pause speech, just simply press the control button once. To resume
-reading, use the "say all" command again
+### Practice Activity
 
-There is another practice section below. This time press your JAWS key
-plus down arrow to read the entire story at once.
+Your mission, so you choose to except, is to find the hidden message
+spread across all of the headings below. But listen carefully, because
+as you hear each new clue, the navigation key could change, or the type
+of heading you are looking for may switch. Press your down arrow to hear
+your first clue!
 
-### Story 2
+Clue: Use the h key to find the next heading level three. Your 1st word
+of the mystery phrase will be waiting.
 
-"I made myself a snowball, as perfect as could be. I thought I'd keep
-it as a pet and let it sleep with me.
+## A baker\'s
 
-I made it some pajamas, and a pillow for its head.
+### Dozens: You found the 1st mystery word! Your next word is in the next heading level 1.
 
-Then last night it ran away, but first it wet the bed."
+This is not a heading. This is static text. Static text is the lowest
+item in the order of information organization on a web page, it provides
+supporting information for whatever came before it in that section.
 
---by Shel Silverstein--
+### Chocolate chip cookies
 
-## Top and Bottom of Window
+#### With extra sugar and extra chocolate chips!
 
-To navigate to the top of any application window (i.e. web page, word
-document, email, etc.) press control plus the home key. To navigate to
-the end, press control + end. If you navigate to the top of this page
-by pressing control + home, and then use the say all command (JAWS
-key + down arrow), you can hear the entire contents of this page read
-continuously, start to finish.
+# OF: Congratulations! You found it. Reminder, a heading level 1 is the topmost organizational element in a section on a web page. Press the down arrow to hear the next clue.
 
-Try it now! If you navigate to the top of this page, you should hear
-JAWS say "Lesson 2." If you navigate to the bottom, you will hear JAWS
-say "Improve this page." To navigate back to this location, you can
-use the strategy of navigating by paragraphs (control + up or down
-arrow), or line by line (up/down arrow).
+Clue: Let\'s try something new. We are looking for a heading level 5,
+but, instead of using the h key to find it, can you just press the
+number 5, located in the row of keys above your top row of letters.
 
-## Navigation Cheat Sheet
+# Sports
 
-* Navigate to previous or next character: left or right arrow
-* Navigate to previous or next word: control + left or right arrow
-* Navigate to previous or next line: up or down arrow
-* Navigate to previous or next paragraph: control + up or down arrow
-* Navigate to top of window: control + home
-* Navigate to bottom of window: control + end
+## Outside
 
-## END of LESSON QUICK CHALLENGE!
+### In the summer
 
-Read the instructions very carefully! We are looking for another silly
-secret phrase, but to find each component you need to correctly follow
-each direction. Once you find one component, move onto the next. Keep
-track of your answers. I know you can do it!
+#### In the water
 
-### Step 1: find the third word in the sentence.
+##### Diving: Yes, you found it! You have discovered that you can navigate by specific level of organization. You can press any numbers 1 through 6 to get to that level of heading (if it exists) on a webpage. Arrow down for your final clue.
 
-This is my favorite part.
+Clue! Your final clue! You will need to use your h key to navigate
+through the following headings. Your final word is in the heading level
+that is not the same. Listen carefully! And once you find the final
+word, use your down arrow for your last set of instructions.
 
-### Step 2: Move line by line. Find the word on the 4th line.
+## Monkeys
 
-Puppies
+## Panda bears
 
-Cats
+## Tigers
 
-Pizza
+### Dolphins
 
-Mom
+I hope you kept track of all of the mystery words! Now it\'s time to put
+them all together for the correct phrase. Use your down key to go
+through the choices and press enter on the correct option.
 
-### Step 3: Find the 2nd word in this sentence.
+### Answer Choices
 
-She is my friend.
 
-### Step 4: Find the 4th letter in this word.
+[Bakers of play sports](#){#MyLink onclick="Incorrect()"}
 
-Treat
-
-### Step 5: Lastly, Find the only word in the 2nd paragraph.
-
-There are so many animals in the world. There are even animals that do not exist anymore. Can you think of any animals that no longer exist?
-
-Dinosaurs!
-
-Exactly! Yes, dinosaurs lived millions of years ago, and the only way we can see them now is at the museum.
-
-Answers
-
-Favorite puppies friend a Exactly.
-
-Is pizza my e animals.
-
-My mom is a dinosaur
-
+[Extra sugar of monkeys](#){#MyLink onclick="Incorrect()"}
+:::
