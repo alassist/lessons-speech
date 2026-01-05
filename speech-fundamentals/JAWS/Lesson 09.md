@@ -1,5 +1,4 @@
-::: {#maincontent role="main"}
-## Let\'s Talk About Images
+## Let's Talk About Images
 
 A picture is worth a thousand words!
 
@@ -13,20 +12,20 @@ difficult or impossible. That is, unless they have \"alt text.\"
 ### What is Alt Text
 
 Alt text is a written description of an image that is added to the
-element\'s code when the webpage is first created, or the image is first
+element's code when the webpage is first created, or the image is first
 added. Your screen reader, or JAWS in this case, communicates with the
 webpage and reads this alt text, so when you navigate to the image, JAWS
 will verbalize what is happening in the picture.
 
 In less technical terms, alt text is a description of a picture on the
 web. This description is not visually on the page. It is for the screen
-reader\'s eyes only. And then when your cursor navigates to the image,
+reader's eyes only. And then when your cursor navigates to the image,
 JAWS tells you what the image is rather than just saying \"image\" or
 \"graphic\"
 
 ### Navigation
 
-That\'s great and all, but how do we actually navigate to an image? We
+That's great and all, but how do we actually navigate to an image? We
 press the g key for graphic. You will navigate to the next available
 image on that page. Press shift plus g to move to the previous image. If
 the image has been given alt text, JAWS will describe the image. If it
@@ -43,7 +42,7 @@ the description could be incorrect. Keep your ears on the look-out for
 these types of phrases.
 
 In the JAWS settings, you can set whether JAWS recognizes all images, or
-only images with alt text. It\'s up to you, but just remember that only
+only images with alt text. It's up to you, but just remember that only
 images with alt text will have meaning to the screen reader.
 
 ### **Update**
@@ -74,14 +73,14 @@ you would press JAWS key + spacebar, p, w.
 Press the g key to find the first image on this page.
 
 ![view of the planet earth from the perspective of the
-moon](../images/earth-view.jpg){width="700" height="470"}
+moon](../images/earth-view.jpg)
 
 Below there are 2 images. One of them has been given alt text. and the
 other has not. See how JAWS interacts differently.
 
 ![The Statue of Liberty standing against the background of
-Manhatton](../images/liberty-statue.jpg){width="700" height="350"}\
-![](../images/airplane-flying.jpg){width="700" height="475"}
+Manhatton](../images/liberty-statue.jpg)\
+![](../images/airplane-flying.jpg)
 
 Did you notice a difference? Did JAWS recognize both images? Did it only
 recognize one? What did it say for the image that did not have alt text?
@@ -90,8 +89,6 @@ recognize one? What did it say for the image that did not have alt text?
 
 Which key do we press to navigate to the next image?
 
-[Press i](#){#MyLink onclick="Incorrect()"}
+[Press i](#)
 
-[Press p](#){#MyLink onclick="Incorrect()"}
-
-:::
+[Press p](#)

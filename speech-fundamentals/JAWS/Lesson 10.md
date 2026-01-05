@@ -1,5 +1,4 @@
-::: {#maincontent role="main"}
-## What\'s the Virtual Cursor?
+## What's the Virtual Cursor?
 
 Up until now we have been focusing on keyboard navigation, and
 navigating across the web using elements. But as we near the end of our
@@ -20,14 +19,14 @@ There are 3 types of cursors in the JAWS ecosystem.
 
 ### More Explanation Please
 
-Let\'s think about the web pages we have been exploring. When we press
+Let's think about the web pages we have been exploring. When we press
 the h key, we are telling JAWS to navigate to the next heading and read
 it to us. When we press the b key, we are telling JAWS to navigate to
 the next button and read it to us. We are not interacting with the
 actual website until we hit enter to select that button, or link, or
 checkbox. It is just simply being read to us.
 
-You might like to think of the virtual cursor as JAWS\'s eyes. When you
+You might like to think of the virtual cursor as JAWS's eyes. When you
 press keys, you are talking to or interacting with the screen reader
 first. JAWS is telling you what it sees.
 
@@ -70,7 +69,7 @@ instead of the screen reader. We need to turn the virtual cursor
 
 The scope of this course does not involve us diving into the intricacies
 of Google Suite applications with the virtual cursor off, but I invite
-you to check out the following links once you\'ve built an understanding
+you to check out the following links once you've built an understanding
 of the virtual cursor.
 
 [Google Drive Keyboard Commands without Virtual
@@ -104,12 +103,9 @@ left arrow.
 
 What is the virtual cursor?
 
-[It is the cursor that goes where the mouse goes.](#){#MyLink
-onclick="Incorrect()"}
+[It is the cursor that goes where the mouse goes.](#)
 
 [It is the cursor that allows you to use single letter navigation and
 the arrows to navigate applications like the
 
-[It is the blinking cursor in a word processing document.](#){#MyLink
-onclick="Incorrect()"}
-:::
+[It is the blinking cursor in a word processing document.](#)

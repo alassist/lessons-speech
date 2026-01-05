@@ -1,11 +1,10 @@
-::: {#maincontent role="main"}
-## JAWS Lesson 5: Checkboxes and Radio Buttons {#jaws-lesson-5-checkboxes-and-radio-buttons-1}
+## JAWS Lesson 5: Checkboxes and Radio Buttons 
 
-More elements! Aren\'t you excited?
+More elements! Aren't you excited?
 
 ### Checkboxes
 
-Let\'s start with checkboxes. Checkboxes are used to indicate selection
+Let's start with checkboxes. Checkboxes are used to indicate selection
 of one or more answers to a question.
 
 To navigate to the next checkbox, we press the x key. When you hear a
@@ -14,7 +13,7 @@ choice you want to select, press enter or the space bar.
 I bet you can guess how to navigate backwards through checkbox choices.
 Yep, shift + the x key.
 
-### Let\'s Practice
+### Let's Practice
 
 Below you will find several situations that could involve marking a
 checkbox. Try selecting 1 or 2 options from each question.
@@ -37,8 +36,6 @@ Orlando Florida\
 
 New York City\
 
-\
-
 ##### Which days are you available?
 
 Monday\
@@ -50,8 +47,6 @@ Wednesday\
 Thursday\
 
 Friday\
-
-\
 
 ##### What classes are you taking?
 
@@ -68,8 +63,6 @@ U.S. history\
 Art\
 
 Music
-
-\
 
 ## Radio Buttons
 
@@ -95,14 +88,10 @@ button.
 14-17\
 18+\
 
-\
-
 ##### Do you have any siblings?
 
 yes\
 no\
-
-\
 
 ##### What device are you currently using?
 
@@ -114,8 +103,6 @@ Desktop\
 
 What additional key do we press to navigate to the previous element?
 
-[Tab](#){#MyLink onclick="Incorrect()"}
+[Tab](#)
 
-[Control](#){#MyLink onclick="Incorrect()"}
-
-:::
+[Control](#)

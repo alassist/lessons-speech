@@ -1,4 +1,3 @@
-::::::: {#maincontent role="main"}
 ## Time for Tables
 
 ### What is a table?
@@ -14,7 +13,7 @@ of information.
 
 *Real World Example:* Think of a movie theater. The audience sits in
 rows, or lines of seats that stretch from the left to the right side of
-the room. Now, let\'s think about the front row, behind each seat in
+the room. Now, let's think about the front row, behind each seat in
 this 1st row there is another audience member, and another behind them,
 and another behind them, until you reach the back of the theater. These
 are our columns.
@@ -71,8 +70,6 @@ in one of these tables.
 
 ### **Table 1: Weather Forecast in Fremont**
 
-<div>
-
   Day         Weather
   ----------- ------------------------------------------------
   Monday      Cloudy, high of 57 degrees, 40% chance of rain
@@ -81,11 +78,7 @@ in one of these tables.
   Thursday    Thunder storm, high of 52 degrees
   Friday      Cloudy, 85% chance of rain, high of 50 degrees
 
-\
-
 ### **Table 2: Class Favorite Foods**
-
-<div>
 
   Name       Age   Favorite food
   ---------- ----- -------------------
@@ -96,11 +89,7 @@ in one of these tables.
   Michelle   12    Chicken Dumplings
   David      11    Tortilla Soup
 
-\
-
 ### **Table 3: Math Grades**
-
-<div>
 
   Name       Test 1   Test 2   Test 3
   ---------- -------- -------- --------
@@ -111,27 +100,10 @@ in one of these tables.
   Michelle   77%      88%      79%
   David      81%      80%      82%
 
-\
-
 ## Checkpoint!
 
 Who received the highest grade on test 2?
 
-[Kate](#){#MyLink onclick="Incorrect()"}
+[Kate](#)
 
-[David](#){#MyLink onclick="Incorrect()"}
-
-
-</div>
-
-</div>
-
-::: footer
-[About CSB\'s Screen Reader Training
-Website](http://csb-cde.ca.gov/instruction/assistivetech/screenreadertraining.aspx)
-
-© 2025 California School for the Blind. All rights reserved.
-:::
-
-</div>
-:::::::
+[David](#)

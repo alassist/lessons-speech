@@ -1,8 +1,7 @@
-::: {#maincontent role="main"}
 ## Time for Inputting Text
 
 Now that we have worked on skills for navigating text to look for
-errors, in other words proofreading, let\'s input our own text in some
+errors, in other words proofreading, let's input our own text in some
 edit fields.
 
 ### What You Need to Know
@@ -17,20 +16,15 @@ you have entered the field and can now start writing your text.
 Once you are finished writing, you will hit the escape key. You will
 hear another \"bong\" noise, which means you have exited the edit field.
 
-### Let\'s Try It
+### Let's Try It
 
 Please write your name in the field below:
 
 Please write the word \"banana\" in the field below:
 
-\
-
 Please write a sentence about your day in the space below:
 
-\
-\
-
-### Let\'s Add in Some Editing
+### Let's Add in Some Editing
 
 Listen carefully to all of the instructions:
 
@@ -51,7 +45,7 @@ sentence. Remember how to read word by word.
 *Task 3:* Write the following sentence in the space below. \"It is time
 to party.\"
 
-Now, change \"It is\" to \"It\'s.\"
+Now, change \"It is\" to \"It's.\"
 
 Oh yeah, and can you change the period to an exclamation mark.
 
@@ -59,12 +53,10 @@ Oh, I forgot, one last thing. Change \"party\" to \"learn\".
 
 Nice Work!
 
-## Let\'s finish with a riddle.
+## Let's finish with a riddle.
 
 How do you fix a cracked pumpkin?
 
-[Take it to the doctor.](#){#MyLink onclick="Incorrect()"}
+[Take it to the doctor.](#)
 
-
-[A 1st aid kit](#){#MyLink onclick="Incorrect()"}
-:::
+[A 1st aid kit](#)

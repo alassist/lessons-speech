@@ -1,10 +1,9 @@
-::: {#maincontent role="main"}
 Those crazy dolphins!
 
 ## Welcome to the practice with links page.
 
 Links are what make the internet so expansive! One page goes to another,
-and another, and another, and so on! You\'ve already been interacting
+and another, and another, and so on! You've already been interacting
 with links through these lessons. Have you noticed JAWS say \"link\" as
 it reads your answer choices? You are pressing enter on a link to the
 page associated with that word or phrase.
@@ -67,7 +66,7 @@ tails.
 He scrubbed the grime from the folds of his wings. He even tried to
 gargle extra swimming pool water to get rid of the smokey aftertaste on
 his breath. But when he got to the counter to order, the lady turned the
-poor dragon away, saying \"We don\'t serve dragons who don\'t wear
+poor dragon away, saying \"We don't serve dragons who don't wear
 [shoes](jaws-course-shoes.html).
 
 So our hungry dragon messaged his good pal Unicorn to go shopping and
@@ -78,8 +77,8 @@ sporting some stylish new kicks.
 
 Again he waited in line, dreaming of crunchy tortilla shells and spicy
 salsa. And again, the lady at the counter turned him away, saying \"we
-can\'t serve customers who don\'t wear [socks](jaws-course-socks.html)
-with their shoes. Surely that\'s obvious.\"
+can't serve customers who don't wear [socks](jaws-course-socks.html)
+with their shoes. Surely that's obvious.\"
 
 So once again, and even more hungry now, the dragon sadly left the shop
 without crunchy tortillas or boats of spicy salsa, in search of a sock
@@ -94,7 +93,7 @@ The hungry dragon waited in line, dreaming of that 1st bite of a juicy
 chicken taco, the melted cheese oozing down his muzzle. He was so
 excited he was bouncing with anticipation in his new shoes and socks.
 But when the dragon reached the counter, the lady turned him away once
-more, saying \"we can\'t serve dragons who refuse to wear a
+more, saying \"we can't serve dragons who refuse to wear a
 [shirt](jaws-course-shirt.html) to lunch.\"
 
 The dragon had never felt so sad. He had never felt so hungry. But he
@@ -110,7 +109,7 @@ big sweatshirt to lunch, but sitting inside it was warm. And being a
 bigger fella, he thought maybe the sweatshirt would fit the hungry
 dragon, just a bit snug.
 
-The hungry dragon was so thrilled to receive Frank\'s offer of the
+The hungry dragon was so thrilled to receive Frank's offer of the
 sweatshirt. He tucked into the green hoodie shyly. It matched his scales
 and the fringe in his socks. And he stepped up to the counter to order.
 This time all the lady had to say was \"what can I get you today sir?\"
@@ -125,8 +124,6 @@ JAWS takes you to any \"visited links.\"
 You can use your tab key or the u key to navigate between the links
 below.
 
-[20 40 50](#){#MyLink onclick="Incorrect()"}
+[20 40 50](#)
 
-[22 33 44](#){#MyLink onclick="Incorrect()"}
-
-:::
+[22 33 44](#)

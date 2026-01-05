@@ -1,4 +1,3 @@
-::: {#maincontent role="main"}
 ## Fantastic!!
 
 Okay, last sentence.
@@ -11,10 +10,9 @@ thirst.
 Select the corrected sentence.
 
 [The krow than hastily drank from it and quenched his
-thirst..](#){#MyLink onclick="Incorrect()"}
+thirst..](#)
 
 [the crow then hastily drank from it and and quenched his
-thirst.](#){#MyLink onclick="Incorrect()"}
+thirst.](#)
 
 [The crow then hastily drank from it and quenched his
-:::

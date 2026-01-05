@@ -1,7 +1,6 @@
-::: {#maincontent role="main"}
 ## Editing and Proofreading Text
 
-### First thing\'s first: let\'s review
+### First thing's first: let's review
 
 - To navigate to the next line, press the down arrow.
 - To navigate to the previous line, press the up arrow.
@@ -25,9 +24,9 @@ left or right arrow. And lastly, we can navigate using the left or right
 arrow to place our cursor behind the letter or letters we wish to
 correct.
 
-### Let\'s Give it a Try
+### Let's Give it a Try
 
-I was sleepy last night when I wrote the following few sentences. I\'m
+I was sleepy last night when I wrote the following few sentences. I'm
 hopeful that you can help me find the errors.
 
 Use your editing navigation skills to find the mistake.
@@ -35,10 +34,8 @@ Use your editing navigation skills to find the mistake.
 **Sentence 1:** After flying a long way, a thirsty crow was wandering
 the frest in search of water.
 
-### What\'s the correct spelling of the misspelled word in the sentence above?
+### What's the correct spelling of the misspelled word in the sentence above?
 
-[fourist](#){#MyLink onclick="Incorrect()"}
+[fourist](#)
 
-[forist](#){#MyLink onclick="Incorrect()"}
-
-:::
+[forist](#)
